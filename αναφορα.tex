@@ -1,0 +1,94 @@
+
+
+\documentclass[twocolumn]{article}
+\usepackage{url}
+\usepackage{graphicx}
+
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+% Define a smaller font size and compact spacing for the author section
+\newcommand{\compactauthor}{%
+    \small
+    \setlength{\parskip}{0pt} % Remove extra space between paragraphs
+    \setlength{\baselineskip}{10pt} % Adjust line spacing
+}
+
+\title{Level Generation for Angry Birds with LLMs}
+
+\author{%
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedright
+    \compactauthor
+    \textbf{Dimitra Pazouli}\\
+    Artificial Intelligence Student\\
+    Department of Informatics\\
+    AUTH University of Thessaloniki\\
+    \texttt{pazodimi@csd.auth.gr}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    \compactauthor
+    \textbf{Nikolaos Nikolaidis}\\
+    Associate Professor\\
+    PhD, Department of Electrical and Computer Engineering, AUTH, 1997\\
+    Dissertation Topic: Digital Processing of Multichannel and Moving Images\\
+    \texttt{nnik@csd.auth.gr}
+\end{minipage}
+}
+
+\date{}
+
+\begin{document}
+
+\maketitle
+
+
+
+
+
+
+\section*{Introduction}
+In Angry Birds, players use a slingshot to launch colorful birds with unique abilities to demolish structures and defeat green pigs concealed within them. Developed by Rovio Entertainment, this widely loved game has captivated players globally with its straightforward yet addictive gameplay.
+
+Despite the game's success, generating new levels using machine learning (ML) remains a challenge, particularly given its non-tile-based level representation involving real-valued parameters. Traditional machine learning models often struggle with this continuous format.
+
+To address this, we propose using the Llama model, a large language model (LLM), for level generation in Angry Birds. Our approach employs sequential encoding to represent levels as text data, enabling the model to autonomously generate new levels with mere textual prompts from users.
+
+
+
+\section*{Level Structure}
+Each level in Angry Birds is represented by a structured data format, typically in LUA or JSON, where each entry corresponds to an element in the game, such as birds, pigs, and blocks. The key components for each element include:
+
+\begin{itemize}
+    \item \textbf{angle}: The rotation angle of the object, determining its orientation.
+    \item \textbf{definition}: The type of the object (e.g., \texttt{RedBird}, \texttt{SmallPiglette}, \texttt{Woodblock}).
+    \item \textbf{name}: A unique identifier for the object.
+    \item \textbf{x, y}: The coordinates of the object in the game world, determining its position.
+\end{itemize}
+
+
+\section*{Initial Testing with ChatGPT}
+
+Before proceeding to fine-tune the Llama model for level generation, we initially tested the capabilities of the ChatGPT model. This step helped us evaluate how well ChatGPT could create playable levels and provided useful insights for our later work with Llama.
+
+
+\section*{Dataset}
+
+
+One challenge we faced in our study was the encryption of the .lua files used in Angry Birds. These files, which contain the level data and configurations, were encrypted, making them difficult to access and analyze. The encryption resulted in complex, unreadable characters that hindered our ability to decode and interpret the level information directly.
+
+To overcome this obstacle, we utilized the AB360 LUA Manager\footnote{\url{https://github.com/AB360-org/LUAManager}}, an open-source tool specifically designed for decrypting and decoding .lua scripts. This tool allowed us to convert the encrypted files back into a readable format, enabling us to decipher the encrypted scripts and integrate the level data into our analysis, facilitating a smoother workflow in the generation of new levels using the Llama model.
+
+
+
+
+Currently, our training dataset consists of the official Angry Birds game levels(531). The levels from the Seasons or Rio Games cannot be cannot be used due to the introduction of new objects not recognized by the Open Level Editor. However, we will work on finding more from other Angry Games or created by users, in order to expand our dataset.
+\section*{Llama Model}
+\section*{Results}
+\section*{Conclusions}
+
+\section*{References}
+
+\end{document}
