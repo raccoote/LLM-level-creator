@@ -1,0 +1,7585 @@
+instruction,input,output
+Create an angry birds level.,"big wooden tower with some glass elements. one enemy pig inside it
+","world = {
+    ground = {
+        angle = 0,
+        definition = ""Ground"",
+        name = ""ground"",
+        x = 55,
+        y = 5
+    },
+    RedBird_2 = {
+        x = 3.14392,
+        y = -1.0203,
+        name = ""RedBird_2"",
+        startNumber = 2,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    RedBird_3 = {
+        x = -0.0829769,
+        y = -1.01906,
+        name = ""RedBird_3"",
+        startNumber = 3,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    RedBird_4 = {
+        x = -12.25,
+        y = -0.973571,
+        name = ""RedBird_4"",
+        startNumber = 1,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    SmallPiglette_7 = {
+        x = 41.919,
+        y = -13.8798,
+        name = ""SmallPiglette_7"",
+        definition = ""SmallPiglette"",
+        angle = 0.0144366
+    },
+    WoodBlock2_1 = {
+        x = 41.7727,
+        y = -12.2908,
+        name = ""WoodBlock2_1"",
+        definition = ""WoodBlock2"",
+        angle = 6.28293
+    },
+    WoodBlock2_6 = {
+        x = 33.5301,
+        y = -3.65809,
+        name = ""WoodBlock2_6"",
+        definition = ""WoodBlock2"",
+        angle = 1.5708
+    },
+    WoodBlock2_7 = {
+        x = 49.6015,
+        y = -3.65809,
+        name = ""WoodBlock2_7"",
+        definition = ""WoodBlock2"",
+        angle = 1.5708
+    },
+    WoodBlock2_8 = {
+        x = 42.0122,
+        y = -21.6938,
+        name = ""WoodBlock2_8"",
+        definition = ""WoodBlock2"",
+        angle = 1.5708
+    },
+    WoodBlock4_1 = {
+        x = 41.9082,
+        y = -20.1697,
+        name = ""WoodBlock4_1"",
+        definition = ""WoodBlock4"",
+        angle = 3.1413
+    },
+    WoodBlock4_4 = {
+        x = 41.6706,
+        y = -3.31709,
+        name = ""WoodBlock4_4"",
+        definition = ""WoodBlock4"",
+        angle = 6.27877
+    },
+    WoodBlock4_5 = {
+        x = 41.6825,
+        y = -8.34244,
+        name = ""WoodBlock4_5"",
+        definition = ""WoodBlock4"",
+        angle = 6.27991
+    },
+    WoodBlock6_1 = {
+        x = 38.0541,
+        y = -6.7479,
+        name = ""WoodBlock6_1"",
+        definition = ""WoodBlock6"",
+        angle = 4.71386
+    },
+    WoodBlock6_3 = {
+        x = 41.6908,
+        y = -11.2219,
+        name = ""WoodBlock6_3"",
+        definition = ""WoodBlock6"",
+        angle = 6.28294
+    },
+    WoodBlock6_4 = {
+        x = 39.9323,
+        y = -15.6955,
+        name = ""WoodBlock6_4"",
+        definition = ""WoodBlock6"",
+        angle = 1.57111
+    },
+    WoodBlock6_5 = {
+        x = 43.7463,
+        y = -15.6963,
+        name = ""WoodBlock6_5"",
+        definition = ""WoodBlock6"",
+        angle = 1.5707
+    },
+    WoodBlock6_2 = {
+        x = 45.2127,
+        y = -6.74944,
+        name = ""WoodBlock6_2"",
+        definition = ""WoodBlock6"",
+        angle = 4.70994
+    },
+    LightBlock4_3 = {
+        x = 40.3299,
+        y = -5.82188,
+        name = ""LightBlock4_3"",
+        definition = ""LightBlock4"",
+        angle = 1.56313
+    },
+    LightBlock4_4 = {
+        x = 43.0997,
+        y = -5.83014,
+        name = ""LightBlock4_4"",
+        definition = ""LightBlock4"",
+        angle = 1.57466
+    },
+    Estrade02_3 = {
+        x = 45.9577,
+        y = -1.31647,
+        name = ""Estrade02_3"",
+        definition = ""Estrade02"",
+        angle = 6.42143e-006
+    },
+    Estrade02_1 = {
+        x = 37.2587,
+        y = -1.30032,
+        name = ""Estrade02_1"",
+        definition = ""Estrade02"",
+        angle = 6.8624e-006
+    }
+}
+"
+Create an angry birds level.,"one hill with a wooden ball on it, followed by two piglets, and then a human smiley stickman statue
+","world = {
+    ground = {
+        angle = 0,
+        definition = ""Ground"",
+        name = ""ground"",
+        x = 55,
+        y = 5
+    },
+    RedBird_1 = {
+        x = -39.0873,
+        y = -0.89095,
+        name = ""RedBird_1"",
+        startNumber = 1,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    RedBird_5 = {
+        x = -43.1232,
+        y = -0.86917,
+        name = ""RedBird_5"",
+        startNumber = 2,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    RedBird_6 = {
+        x = -45.9361,
+        y = -0.84038,
+        name = ""RedBird_6"",
+        startNumber = 3,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    RedBird_7 = {
+        x = -48.7416,
+        y = -0.970949,
+        name = ""RedBird_7"",
+        startNumber = 4,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    SmallPiglette_6 = {
+        x = 43.2249,
+        y = -1.29528,
+        name = ""SmallPiglette_6"",
+        definition = ""SmallPiglette"",
+        angle = 6.28245
+    },
+    SmallPiglette_7 = {
+        x = 40.3879,
+        y = -1.29424,
+        name = ""SmallPiglette_7"",
+        definition = ""SmallPiglette"",
+        angle = 6.28305
+    },
+    WoodBlock2_1 = {
+        x = 49.7169,
+        y = -8.87707,
+        name = ""WoodBlock2_1"",
+        definition = ""WoodBlock2"",
+        angle = 0.00100568
+    },
+    WoodBlock5_1 = {
+        x = 49.7473,
+        y = -6.27274,
+        name = ""WoodBlock5_1"",
+        definition = ""WoodBlock5"",
+        angle = 0.000362389
+    },
+    WoodBlock6_1 = {
+        x = 49.8158,
+        y = -7.81415,
+        name = ""WoodBlock6_1"",
+        definition = ""WoodBlock6"",
+        angle = 0.000362389
+    },
+    WoodBlock7_1 = {
+        x = 25.4278,
+        y = -8.17166,
+        name = ""WoodBlock7_1"",
+        definition = ""WoodBlock7"",
+        angle = 1.57075
+    },
+    StoneBlock4_1 = {
+        x = 48.1759,
+        y = -2.22646,
+        name = ""StoneBlock4_1"",
+        definition = ""StoneBlock4"",
+        angle = 4.71332
+    },
+    StoneBlock4_2 = {
+        x = 51.2736,
+        y = -2.22581,
+        name = ""StoneBlock4_2"",
+        definition = ""StoneBlock4"",
+        angle = 4.71121
+    },
+    StoneBlock4_3 = {
+        x = 49.6852,
+        y = -4.74019,
+        name = ""StoneBlock4_3"",
+        definition = ""StoneBlock4"",
+        angle = 0.000730186
+    },
+    ExtraBlockSmiley_1 = {
+        x = 49.7381,
+        y = -11.2489,
+        name = ""ExtraBlockSmiley_1"",
+        definition = ""ExtraBlockSmiley"",
+        angle = 6.42143e-006
+    },
+    StaticBlockTheme01_05_3 = {
+        x = 23.111,
+        y = 0.567871,
+        name = ""StaticBlockTheme01_05_3"",
+        definition = ""StaticBlockTheme01_05"",
+        angle = 2.3562
+    },
+    StaticBlockTheme01_04_1 = {
+        x = 25.3969,
+        y = -3.93708,
+        name = ""StaticBlockTheme01_04_1"",
+        definition = ""StaticBlockTheme01_04"",
+        angle = 4.71239
+    },
+    StaticBlockTheme01_05_4 = {
+        x = 27.7644,
+        y = 0.518361,
+        name = ""StaticBlockTheme01_05_4"",
+        definition = ""StaticBlockTheme01_05"",
+        angle = 3.927
+    }
+}
+"
+Create an angry birds level.,"4 piglels on cart poles, which are on a hill
+","world = {
+    ground = {
+        angle = 0,
+        definition = ""Ground"",
+        name = ""ground"",
+        x = 55,
+        y = 5
+    },
+    RedBird_1 = {
+        x = -9.38293,
+        y = -4.32806,
+        name = ""RedBird_1"",
+        startNumber = 1,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    RedBird_5 = {
+        x = -11.8242,
+        y = -4.33868,
+        name = ""RedBird_5"",
+        startNumber = 2,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    RedBird_6 = {
+        x = -13.8964,
+        y = -4.24943,
+        name = ""RedBird_6"",
+        startNumber = 3,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    RedBird_7 = {
+        x = -15.8932,
+        y = -4.33881,
+        name = ""RedBird_7"",
+        startNumber = 4,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    RedBird_8 = {
+        x = -19.3132,
+        y = -1.035,
+        name = ""RedBird_8"",
+        startNumber = 5,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    SmallPiglette_3 = {
+        x = 66.537,
+        y = -15.3401,
+        name = ""SmallPiglette_3"",
+        definition = ""SmallPiglette"",
+        angle = 6.27818
+    },
+    SmallPiglette_6 = {
+        x = 55.771,
+        y = -11.4187,
+        name = ""SmallPiglette_6"",
+        definition = ""SmallPiglette"",
+        angle = 0.0394843
+    },
+    SmallPiglette_7 = {
+        x = 48.8294,
+        y = -11.4269,
+        name = ""SmallPiglette_7"",
+        definition = ""SmallPiglette"",
+        angle = 0.124973
+    },
+    SmallPiglette_8 = {
+        x = 42.162,
+        y = -11.4108,
+        name = ""SmallPiglette_8"",
+        definition = ""SmallPiglette"",
+        angle = 0.00266914
+    },
+    StoneBlock4_1 = {
+        x = 42.1846,
+        y = -7.31393,
+        name = ""StoneBlock4_1"",
+        definition = ""StoneBlock4"",
+        angle = 1.57127
+    },
+    StoneBlock4_2 = {
+        x = 48.8514,
+        y = -7.3165,
+        name = ""StoneBlock4_2"",
+        definition = ""StoneBlock4"",
+        angle = 1.57078
+    },
+    StoneBlock4_3 = {
+        x = 55.6698,
+        y = -7.3162,
+        name = ""StoneBlock4_3"",
+        definition = ""StoneBlock4"",
+        angle = 1.57109
+    },
+    StoneBlock6_1 = {
+        x = 66.5786,
+        y = -9.27198,
+        name = ""StoneBlock6_1"",
+        definition = ""StoneBlock6"",
+        angle = 4.71239
+    },
+    WoodBlock4_2 = {
+        x = 66.5977,
+        y = -13.7549,
+        name = ""WoodBlock4_2"",
+        definition = ""WoodBlock4"",
+        angle = 3.14131
+    },
+    WoodBlock4_3 = {
+        x = 55.738,
+        y = -9.8344,
+        name = ""WoodBlock4_3"",
+        definition = ""WoodBlock4"",
+        angle = 3.14272
+    },
+    WoodBlock4_5 = {
+        x = 48.9708,
+        y = -9.8415,
+        name = ""WoodBlock4_5"",
+        definition = ""WoodBlock4"",
+        angle = 3.14459
+    },
+    WoodBlock4_7 = {
+        x = 42.1501,
+        y = -9.8297,
+        name = ""WoodBlock4_7"",
+        definition = ""WoodBlock4"",
+        angle = 0.00194794
+    },
+    StaticBlockTheme01_05_1 = {
+        x = 78.8522,
+        y = -5.14952,
+        name = ""StaticBlockTheme01_05_1"",
+        definition = ""StaticBlockTheme01_05"",
+        angle = 3.927
+    },
+    StaticBlockTheme01_05_2 = {
+        x = 85.3014,
+        y = -11.5988,
+        name = ""StaticBlockTheme01_05_2"",
+        definition = ""StaticBlockTheme01_05"",
+        angle = 3.927
+    },
+    StaticBlockTheme01_05_4 = {
+        x = 45.5231,
+        y = -0.135168,
+        name = ""StaticBlockTheme01_05_4"",
+        definition = ""StaticBlockTheme01_05"",
+        angle = 1.5708
+    },
+    StaticBlockTheme01_05_5 = {
+        x = 40.7207,
+        y = 1.67494,
+        name = ""StaticBlockTheme01_05_5"",
+        definition = ""StaticBlockTheme01_05"",
+        angle = 2.35619
+    },
+    StaticBlockTheme01_05_6 = {
+        x = 54.8296,
+        y = -0.156741,
+        name = ""StaticBlockTheme01_05_6"",
+        definition = ""StaticBlockTheme01_05"",
+        angle = 3.1416
+    },
+    StaticBlockTheme01_05_7 = {
+        x = 64.1861,
+        y = -0.107236,
+        name = ""StaticBlockTheme01_05_7"",
+        definition = ""StaticBlockTheme01_05"",
+        angle = 3.1416
+    },
+    StaticBlockTheme01_05_8 = {
+        x = 73.6114,
+        y = -0.05773,
+        name = ""StaticBlockTheme01_05_8"",
+        definition = ""StaticBlockTheme01_05"",
+        angle = 3.1416
+    },
+    StaticBlockTheme01_05_9 = {
+        x = -12.1571,
+        y = 1.48373,
+        name = ""StaticBlockTheme01_05_9"",
+        definition = ""StaticBlockTheme01_05"",
+        angle = 4.2915e-006
+    },
+    StaticBlockTheme01_05_10 = {
+        x = 91.9389,
+        y = -18.1954,
+        name = ""StaticBlockTheme01_05_10"",
+        definition = ""StaticBlockTheme01_05"",
+        angle = 2.35619
+    },
+    StaticBlockTheme01_04_1 = {
+        x = -15.6974,
+        y = -0.219569,
+        name = ""StaticBlockTheme01_04_1"",
+        definition = ""StaticBlockTheme01_04"",
+        angle = 0.428255
+    },
+    StaticBlockTheme01_04_2 = {
+        x = -7.40071,
+        y = -0.040997,
+        name = ""StaticBlockTheme01_04_2"",
+        definition = ""StaticBlockTheme01_04"",
+        angle = 0.785398
+    },
+    StaticBlockTheme01_04_3 = {
+        x = 83.8859,
+        y = -0.0367157,
+        name = ""StaticBlockTheme01_04_3"",
+        definition = ""StaticBlockTheme01_04"",
+        angle = 0.785398
+    },
+    StaticBlockTheme01_04_4 = {
+        x = 87.0605,
+        y = -3.51366,
+        name = ""StaticBlockTheme01_04_4"",
+        definition = ""StaticBlockTheme01_04"",
+        angle = 0.785398
+    },
+    StaticBlockTheme01_04_5 = {
+        x = 90.3863,
+        y = -0.187885,
+        name = ""StaticBlockTheme01_04_5"",
+        definition = ""StaticBlockTheme01_04"",
+        angle = 0.785398
+    },
+    StaticBlockTheme03_03_4 = {
+        x = 56.5639,
+        y = -4.43273,
+        name = ""StaticBlockTheme03_03_4"",
+        definition = ""StaticBlockTheme03_03"",
+        angle = 6.28316
+    }
+}
+"
+Create an angry birds level.,"1 piglet versus one red bird
+","world = {
+    ground = {
+        angle = 0,
+        definition = ""Ground"",
+        name = ""ground"",
+        x = 55,
+        y = 5
+    },
+    RedBird = {
+        x = -5,
+        y = -1,
+        name = ""RedBird Example"",
+        startNumber = 1,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    MediumPiglette = {
+        x = 60,
+        y = -1,
+        name = ""MediumPiglette Example"",
+        definition = ""MediumPiglette"",
+        angle = 0
+    }
+}"
+Create an angry birds level.,"2 piglets standing on wood plank, while i own a Red, yellow and lastly black bird
+","world = {
+    ground = {
+        angle = 0,
+        definition = ""Ground"",
+        name = ""ground"",
+        x = 55,
+        y = 5
+    },
+    RedBird = {
+        x = -5,
+        y = -1,
+        name = ""RedBird Example"",
+        startNumber = 1,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    YellowBird = {
+        x = -9,
+        y = -1,
+        name = ""YellowBird Example"",
+        startNumber = 2,
+        definition = ""YellowBird"",
+        angle = 0
+    },
+    BlackBird = {
+        x = -14,
+        y = -1,
+        name = ""BlackBird Example"",
+        startNumber = 3,
+        definition = ""BlackBird"",
+        angle = 0
+    },
+    WoodBlock9_1 = {
+        x = 60,
+        y = -2,
+        name = ""WoodBlock9 1"",
+        definition = ""WoodBlock9"",
+        angle = 0
+    },
+    WoodBlock9_2 = {
+        x = 56,
+        y = -2,
+        name = ""WoodBlock9 2"",
+        definition = ""WoodBlock9"",
+        angle = 0
+    },
+    WoodBlock9_3 = {
+        x = 64,
+        y = -2,
+        name = ""WoodBlock9 3"",
+        definition = ""WoodBlock9"",
+        angle = 0
+    },
+    SmallPiglette_1 = {
+        x = 64,
+        y = -5,
+        name = ""SmallPiglette 1"",
+        definition = ""SmallPiglette"",
+        angle = 0
+    },
+    SmallPiglette_2 = {
+        x = 56,
+        y = -5,
+        name = ""SmallPiglette 2"",
+        definition = ""SmallPiglette"",
+        angle = 0
+    }
+}"
+Create an angry birds level.,"1 piglet surrounded by TNT, while i own an egg bird then a Red bird
+","world = {
+    ground = {
+        angle = 0,
+        definition = ""Ground"",
+        name = ""ground"",
+        x = 55,
+        y = 5
+    },
+    BasicBird2 = {
+        x = -5,
+        y = -1,
+        name = ""BasicBird Example"",
+        startNumber = 1,
+        definition = ""BasicBird2"",
+        angle = 0
+    },
+    RedBird = {
+        x = -9,
+        y = -1,
+        name = ""RedBird Example"",
+        startNumber = 2,
+        definition = ""RedBird"",
+        angle = 0
+    },
+    ExtraBlockTNT_1 = {
+        x = 60,
+        y = -2,
+        name = ""ExtraBlockTNT 1"",
+        definition = ""ExtraBlockTNT"",
+        angle = 0
+    },
+    ExtraBlockTNT_2 = {
+        x = 57,
+        y = -2,
+        name = ""ExtraBlockTNT 2"",
+        definition = ""ExtraBlockTNT"",
+        angle = 0
+    },
+    ExtraBlockTNT_3 = {
+        x = 63,
+        y = -2,
+        name = ""ExtraBlockTNT 3"",
+        definition = ""ExtraBlockTNT"",
+        angle = 0
+    },
+    ExtraBlockTNT_4 = {
+        x = 63,
+        y = -5,
+        name = ""ExtraBlockTNT 4"",
+        definition = ""ExtraBlockTNT"",
+        angle = 0
+    },
+    ExtraBlockTNT_5 = {
+        x = 57,
+        y = -5,
+        name = ""ExtraBlockTNT 5"",
+        definition = ""ExtraBlockTNT"",
+        angle = 0
+    },
+    SmallPiglette = {
+        x = 60,
+        y = -5,
+        name = ""SmallPiglette"",
+        definition = ""SmallPiglette"",
+        angle = 0
+    }
+}"
+Create an angry birds level.,"two piglettes in two towers, the right one being taller. the tower are made of wood on top, then glass, then stone, and on the bottom there is lightblocks. the player owns four red birds","world = {
+  StoneBlock5_2 = {
+    y = -10.6622,
+    x = 62.7911,
+    name = ""StoneBlock5_2"",
+    angle = 5.92311E-4,
+    definition = ""StoneBlock5""
+  },
+  StaticBlockTheme01_05_1 = {
+    y = -4.67858,
+    x = 64.8919,
+    name = ""StaticBlockTheme01_05_1"",
+    angle = 3.8624E-6,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock3_6 = {
+    y = -11.6415,
+    x = 50.7253,
+    name = ""WoodBlock3_6"",
+    angle = 6.27896,
+    definition = ""WoodBlock3""
+  },
+  LightBlock6_1 = {
+    y = -10.0966,
+    x = 54.0362,
+    name = ""LightBlock6_1"",
+    angle = 3.14098,
+    definition = ""LightBlock6""
+  },
+  WoodBlock3_4 = {
+    y = -18.7692,
+    x = 64.7237,
+    name = ""WoodBlock3_4"",
+    angle = 6.28273,
+    definition = ""WoodBlock3""
+  },
+  StaticBlockTheme01_05_4 = {
+    y = 0.433531,
+    x = 87.6469,
+    name = ""StaticBlockTheme01_05_4"",
+    angle = 3.92699,
+    definition = ""StaticBlockTheme01_05""
+  },
+  StoneBlock6_1 = {
+    y = -5.08283,
+    x = 53.8623,
+    name = ""StoneBlock6_1"",
+    angle = 6.28317,
+    definition = ""StoneBlock6""
+  },
+  WoodBlock3_2 = {
+    y = -11.6447,
+    x = 57.2042,
+    name = ""WoodBlock3_2"",
+    angle = 0.00281054,
+    definition = ""WoodBlock3""
+  },
+  StoneBlock5_3 = {
+    y = -10.6621,
+    x = 66.8717,
+    name = ""StoneBlock5_3"",
+    angle = 6.28246,
+    definition = ""StoneBlock5""
+  },
+  LightBlock5_2 = {
+    y = -14.7083,
+    x = 61.7456,
+    name = ""LightBlock5_2"",
+    angle = 1.57095,
+    definition = ""LightBlock5""
+  },
+  ground = {
+    y = 5,
+    x = 38.8338,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  WoodBlock3_3 = {
+    y = -11.6459,
+    x = 53.9273,
+    name = ""WoodBlock3_3"",
+    angle = 3.25065E-4,
+    definition = ""WoodBlock3""
+  },
+  SmallPiglette_1 = {
+    y = -13.7835,
+    x = 65.0597,
+    name = ""SmallPiglette_1"",
+    angle = 0.0925123,
+    definition = ""SmallPiglette""
+  },
+  StoneBlock5_4 = {
+    y = -3.54711,
+    x = 51.7665,
+    name = ""StoneBlock5_4"",
+    angle = 8.46322E-4,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock6_2 = {
+    y = -12.2002,
+    x = 64.8664,
+    name = ""StoneBlock6_2"",
+    angle = 6.28315,
+    definition = ""StoneBlock6""
+  },
+  StoneBlock5_1 = {
+    y = -3.54735,
+    x = 55.9067,
+    name = ""StoneBlock5_1"",
+    angle = 6.2825,
+    definition = ""StoneBlock5""
+  },
+  LightBlock5_3 = {
+    y = -7.58685,
+    x = 50.8242,
+    name = ""LightBlock5_3"",
+    angle = 1.57137,
+    definition = ""LightBlock5""
+  },
+  StaticBlockTheme01_05_3 = {
+    y = 2.3448,
+    x = 53.8206,
+    name = ""StaticBlockTheme01_05_3"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock3_5 = {
+    y = -18.7625,
+    x = 61.5258,
+    name = ""WoodBlock3_5"",
+    angle = 6.27771,
+    definition = ""WoodBlock3""
+  },
+  LightBlock6_2 = {
+    y = -17.2191,
+    x = 64.8899,
+    name = ""LightBlock6_2"",
+    angle = 6.28278,
+    definition = ""LightBlock6""
+  },
+  RedBird_3 = {
+    y = -0.61528,
+    x = -7.99702,
+    name = ""RedBird_3"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  WoodBlock3_1 = {
+    y = -18.767,
+    x = 68.0829,
+    name = ""WoodBlock3_1"",
+    angle = 0.00215518,
+    definition = ""WoodBlock3""
+  },
+  SmallPiglette_2 = {
+    y = -6.66564,
+    x = 53.8631,
+    name = ""SmallPiglette_2"",
+    angle = 0.0292305,
+    definition = ""SmallPiglette""
+  },
+  LightBlock5_4 = {
+    y = -7.5902,
+    x = 57.2265,
+    name = ""LightBlock5_4"",
+    angle = 1.57072,
+    definition = ""LightBlock5""
+  },
+  RedBird_1 = {
+    y = -0.94128,
+    x = -18.8293,
+    name = ""RedBird_1"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  RedBird_2 = {
+    y = -0.85931,
+    x = -16.2063,
+    name = ""RedBird_2"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  RedBird_4 = {
+    y = -0.82234,
+    x = -12.8669,
+    name = ""RedBird_4"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  LightBlock5_1 = {
+    y = -14.7088,
+    x = 68.2306,
+    name = ""LightBlock5_1"",
+    angle = 1.57078,
+    definition = ""LightBlock5""
+  }
+}"
+Create an angry birds level.,"piglette in a greenhouse, constructed by: glass in the exterior, then wood, then stone. the player owns 4 red birds","world = {
+  StaticBlockTheme01_05_1 = {
+    y = 1.2929,
+    x = 61.7523,
+    name = ""StaticBlockTheme01_05_1"",
+    angle = 1.57075,
+    definition = ""StaticBlockTheme01_05""
+  },
+  LightBlock6_1 = {
+    y = -7.57619,
+    x = 57.4821,
+    name = ""LightBlock6_1"",
+    angle = 1.55865,
+    definition = ""LightBlock6""
+  },
+  StoneBlock4_1 = {
+    y = -5.54447,
+    x = 68.263,
+    name = ""StoneBlock4_1"",
+    angle = 1.57208,
+    definition = ""StoneBlock4""
+  },
+  StoneBlock6_1 = {
+    y = -8.09197,
+    x = 64.843,
+    name = ""StoneBlock6_1"",
+    angle = 0.0101812,
+    definition = ""StoneBlock6""
+  },
+  StaticBlockTheme01_04_2 = {
+    y = -0.0451263,
+    x = 72.5974,
+    name = ""StaticBlockTheme01_04_2"",
+    angle = 0.785355,
+    definition = ""StaticBlockTheme01_04""
+  },
+  WoodBlock4_2 = {
+    y = -5.57671,
+    x = 70.3878,
+    name = ""WoodBlock4_2"",
+    angle = 4.71317,
+    definition = ""WoodBlock4""
+  },
+  StoneBlock4_2 = {
+    y = -5.61465,
+    x = 61.1968,
+    name = ""StoneBlock4_2"",
+    angle = 1.57335,
+    definition = ""StoneBlock4""
+  },
+  ground = {
+    y = 5,
+    x = 36.9965,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  StaticBlockTheme01_04_1 = {
+    y = -0.0451263,
+    x = 56.8931,
+    name = ""StaticBlockTheme01_04_1"",
+    angle = 0.785355,
+    definition = ""StaticBlockTheme01_04""
+  },
+  WoodBlock5_1 = {
+    y = -9.63223,
+    x = 64.9619,
+    name = ""WoodBlock5_1"",
+    angle = 3.15149,
+    definition = ""WoodBlock5""
+  },
+  LightBlock6_3 = {
+    y = -13.6549,
+    x = 68.6246,
+    name = ""LightBlock6_3"",
+    angle = 3.58437,
+    definition = ""LightBlock6""
+  },
+  RedBird_3 = {
+    y = -1.13616,
+    x = -2.37042,
+    name = ""RedBird_3"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  RedBird_2 = {
+    y = -0.925216,
+    x = 3.27678,
+    name = ""RedBird_2"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  WoodBlock4_1 = {
+    y = -5.61643,
+    x = 59.2738,
+    name = ""WoodBlock4_1"",
+    angle = 4.71141,
+    definition = ""WoodBlock4""
+  },
+  LightBlock6_2 = {
+    y = -7.55361,
+    x = 72.0346,
+    name = ""LightBlock6_2"",
+    angle = 1.58265,
+    definition = ""LightBlock6""
+  },
+  LightBlock4_1 = {
+    y = -12.6318,
+    x = 64.8702,
+    name = ""LightBlock4_1"",
+    angle = 1.57913,
+    definition = ""LightBlock4""
+  },
+  WoodBlock4_4 = {
+    y = -9.08096,
+    x = 60.6207,
+    name = ""WoodBlock4_4"",
+    angle = 5.75459,
+    definition = ""WoodBlock4""
+  },
+  StaticBlockTheme01_05_2 = {
+    y = 1.36332,
+    x = 67.6678,
+    name = ""StaticBlockTheme01_05_2"",
+    angle = 1.57075,
+    definition = ""StaticBlockTheme01_05""
+  },
+  RedBird_1 = {
+    y = -0.97205,
+    x = 0.123743,
+    name = ""RedBird_1"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  WoodBlock4_3 = {
+    y = -9.00448,
+    x = 69.0763,
+    name = ""WoodBlock4_3"",
+    angle = 0.504364,
+    definition = ""WoodBlock4""
+  },
+  SmallPiglette_1 = {
+    y = -4.68226,
+    x = 65.1759,
+    name = ""SmallPiglette_1"",
+    angle = 6.28294,
+    definition = ""SmallPiglette""
+  },
+  RedBird_4 = {
+    y = -1.08212,
+    x = -4.91967,
+    name = ""RedBird_4"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  LightBlock6_4 = {
+    y = -13.6027,
+    x = 60.8685,
+    name = ""LightBlock6_4"",
+    angle = 5.8586,
+    definition = ""LightBlock6""
+  }
+}"
+Create an angry birds level.,"three piglettes in a 2-story castle, while i own 4 red birds","world = {
+  RedBird_3 = {
+    y = -1.00787,
+    x = -25.0991,
+    name = ""RedBird_3"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  LightBlock5_6 = {
+    y = -20.4501,
+    x = 56.0091,
+    name = ""LightBlock5_6"",
+    angle = 4.70798,
+    definition = ""LightBlock5""
+  },
+  LightBlock5_11 = {
+    y = -23.5179,
+    x = 57.1881,
+    name = ""LightBlock5_11"",
+    angle = 6.25683,
+    definition = ""LightBlock5""
+  },
+  WoodBlock6_2 = {
+    y = -10.909,
+    x = 62.0623,
+    name = ""WoodBlock6_2"",
+    angle = 3.14208,
+    definition = ""WoodBlock6""
+  },
+  LightBlock5_12 = {
+    y = -19.486,
+    x = 59.2763,
+    name = ""LightBlock5_12"",
+    angle = 3.13606,
+    definition = ""LightBlock5""
+  },
+  LightBlock5_2 = {
+    y = -13.4284,
+    x = 61.1759,
+    name = ""LightBlock5_2"",
+    angle = 4.71289,
+    definition = ""LightBlock5""
+  },
+  ground = {
+    y = 5,
+    x = 22.1231,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  LightBlock1_3 = {
+    y = -25.1244,
+    x = 58.3293,
+    name = ""LightBlock1_3"",
+    angle = 4.68674,
+    definition = ""LightBlock1""
+  },
+  LightBlock5_5 = {
+    y = -16.4775,
+    x = 62.1933,
+    name = ""LightBlock5_5"",
+    angle = 3.12514,
+    definition = ""LightBlock5""
+  },
+  SmallPiglette_2 = {
+    y = -19.4236,
+    x = 64.9987,
+    name = ""SmallPiglette_2"",
+    angle = 6.19478,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock6_4 = {
+    y = -18.0038,
+    x = 58.1877,
+    name = ""WoodBlock6_4"",
+    angle = 6.27892,
+    definition = ""WoodBlock6""
+  },
+  LightBlock3_3 = {
+    y = -21.5055,
+    x = 58.2085,
+    name = ""LightBlock3_3"",
+    angle = 6.2696,
+    definition = ""LightBlock3""
+  },
+  RedBird_2 = {
+    y = -1.00785,
+    x = -22.8474,
+    name = ""RedBird_2"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  LightBlock1_2 = {
+    y = -25.0551,
+    x = 55.6966,
+    name = ""LightBlock1_2"",
+    angle = 4.68539,
+    definition = ""LightBlock1""
+  },
+  LightBlock5_13 = {
+    y = -15.4545,
+    x = 65.4556,
+    name = ""LightBlock5_13"",
+    angle = 1.56669,
+    definition = ""LightBlock5""
+  },
+  StaticBlockTheme01_05_1 = {
+    y = -1.48768,
+    x = 53.2085,
+    name = ""StaticBlockTheme01_05_1"",
+    angle = 1.57081,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock2_3 = {
+    y = -17.9789,
+    x = 63.3623,
+    name = ""WoodBlock2_3"",
+    angle = 3.1416,
+    definition = ""WoodBlock2""
+  },
+  WoodBlock6_3 = {
+    y = -10.9079,
+    x = 53.6012,
+    name = ""WoodBlock6_3"",
+    angle = 3.14207,
+    definition = ""WoodBlock6""
+  },
+  LightBlock5_9 = {
+    y = -13.4981,
+    x = 55.382,
+    name = ""LightBlock5_9"",
+    angle = 1.57331,
+    definition = ""LightBlock5""
+  },
+  StoneBlock5_5 = {
+    y = -8.39459,
+    x = 65.2731,
+    name = ""StoneBlock5_5"",
+    angle = 1.57017,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock2_4 = {
+    y = -17.9789,
+    x = 65.4905,
+    name = ""WoodBlock2_4"",
+    angle = 3.1416,
+    definition = ""WoodBlock2""
+  },
+  RedBird_1 = {
+    y = -1.04016,
+    x = -27.0746,
+    name = ""RedBird_1"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  StoneBlock5_4 = {
+    y = -8.39527,
+    x = 50.5045,
+    name = ""StoneBlock5_4"",
+    angle = 1.57136,
+    definition = ""StoneBlock5""
+  },
+  LightBlock5_3 = {
+    y = -15.4604,
+    x = 51.2279,
+    name = ""LightBlock5_3"",
+    angle = 1.57457,
+    definition = ""LightBlock5""
+  },
+  SmallPiglette_3 = {
+    y = -19.2804,
+    x = 51.72,
+    name = ""SmallPiglette_3"",
+    angle = 0.0286869,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock2_1 = {
+    y = -17.9214,
+    x = 51.1599,
+    name = ""WoodBlock2_1"",
+    angle = 3.1416,
+    definition = ""WoodBlock2""
+  },
+  StoneBlock5_1 = {
+    y = -8.39559,
+    x = 59.1128,
+    name = ""StoneBlock5_1"",
+    angle = 1.57156,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_3 = {
+    y = -8.39472,
+    x = 56.4075,
+    name = ""StoneBlock5_3"",
+    angle = 1.57038,
+    definition = ""StoneBlock5""
+  },
+  StaticBlockTheme01_05_3 = {
+    y = -1.48768,
+    x = 62.4708,
+    name = ""StaticBlockTheme01_05_3"",
+    angle = 1.57081,
+    definition = ""StaticBlockTheme01_05""
+  },
+  LightBlock5_4 = {
+    y = -12.4484,
+    x = 64.4119,
+    name = ""LightBlock5_4"",
+    angle = 3.13743,
+    definition = ""LightBlock5""
+  },
+  LightBlock5_8 = {
+    y = -12.4536,
+    x = 52.1683,
+    name = ""LightBlock5_8"",
+    angle = 0.00309554,
+    definition = ""LightBlock5""
+  },
+  LightBlock3_2 = {
+    y = -14.3332,
+    x = 53.2068,
+    name = ""LightBlock3_2"",
+    angle = 3.15226,
+    definition = ""LightBlock3""
+  },
+  LightBlock3_1 = {
+    y = -14.4675,
+    x = 63.2494,
+    name = ""LightBlock3_1"",
+    angle = 6.27025,
+    definition = ""LightBlock3""
+  },
+  RedBird_4 = {
+    y = -0.920585,
+    x = -18.7168,
+    name = ""RedBird_4"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  LightBlock5_7 = {
+    y = -16.4338,
+    x = 54.4667,
+    name = ""LightBlock5_7"",
+    angle = 3.10493,
+    definition = ""LightBlock5""
+  },
+  LightBlock1_1 = {
+    y = -25.0328,
+    x = 60.768,
+    name = ""LightBlock1_1"",
+    angle = 4.70895,
+    definition = ""LightBlock1""
+  },
+  SmallPiglette_1 = {
+    y = -12.4321,
+    x = 57.8256,
+    name = ""SmallPiglette_1"",
+    angle = 6.17644,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock2_2 = {
+    y = -17.9789,
+    x = 53.2266,
+    name = ""WoodBlock2_2"",
+    angle = 3.1416,
+    definition = ""WoodBlock2""
+  },
+  LightBlock5_1 = {
+    y = -22.4904,
+    x = 60.2931,
+    name = ""LightBlock5_1"",
+    angle = 4.70868,
+    definition = ""LightBlock5""
+  }
+}"
+Create an angry birds level.,4 pigs scattered in a hill. 3 rocks on top of them. one treasure chest hidden.,"world = {
+  LightBlock3_1 = {
+    y = -23.9954,
+    x = 37.5237,
+    name = ""LightBlock3_1"",
+    angle = 3.14097,
+    definition = ""LightBlock3""
+  },
+  StaticBlockTheme01_05_1 = {
+    y = -13.9861,
+    x = 41.4814,
+    name = ""StaticBlockTheme01_05_1"",
+    angle = 1.57098,
+    definition = ""StaticBlockTheme01_05""
+  },
+  StoneBlock3_2 = {
+    y = -19.9278,
+    x = 37.6012,
+    name = ""StoneBlock3_2"",
+    angle = 3.14158,
+    definition = ""StoneBlock3""
+  },
+  StoneBlock3_3 = {
+    y = -19.8765,
+    x = 52.8601,
+    name = ""StoneBlock3_3"",
+    angle = 9.53831E-4,
+    definition = ""StoneBlock3""
+  },
+  StaticBlockTheme01_05_7 = {
+    y = -12.2265,
+    x = 50.8047,
+    name = ""StaticBlockTheme01_05_7"",
+    angle = 2.84658,
+    definition = ""StaticBlockTheme01_05""
+  },
+  StaticBlockTheme01_05_2 = {
+    y = -13.8932,
+    x = 49.04,
+    name = ""StaticBlockTheme01_05_2"",
+    angle = 3.14179,
+    definition = ""StaticBlockTheme01_05""
+  },
+  StaticBlockTheme01_05_4 = {
+    y = -4.23981,
+    x = 55.5161,
+    name = ""StaticBlockTheme01_05_4"",
+    angle = 2.01305E-4,
+    definition = ""StaticBlockTheme01_05""
+  },
+  StaticBlockTheme01_01_1 = {
+    y = -22.4089,
+    x = 45.2966,
+    name = ""StaticBlockTheme01_01_1"",
+    angle = 3.14179,
+    definition = ""StaticBlockTheme01_01""
+  },
+  RedBird_4 = {
+    y = -1.15252,
+    x = -29.4926,
+    name = ""RedBird_4"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  StaticBlockTheme01_04_2 = {
+    y = -19.5658,
+    x = 44.2182,
+    name = ""StaticBlockTheme01_04_2"",
+    angle = 3.63199,
+    definition = ""StaticBlockTheme01_04""
+  },
+  SmallPiglette_4 = {
+    y = -20.0023,
+    x = 40.0341,
+    name = ""SmallPiglette_4"",
+    angle = 0.00390732,
+    definition = ""SmallPiglette""
+  },
+  StaticBlockTheme01_04_6 = {
+    y = -8.8235,
+    x = 45.1846,
+    name = ""StaticBlockTheme01_04_6"",
+    angle = 4.7124,
+    definition = ""StaticBlockTheme01_04""
+  },
+  RedBird_1 = {
+    y = -1.0637,
+    x = -27.5122,
+    name = ""RedBird_1"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  ground = {
+    y = 5,
+    x = 17.4368,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  StoneBlock7_1 = {
+    y = -26.5618,
+    x = 45.176,
+    name = ""StoneBlock7_1"",
+    angle = 6.28221,
+    definition = ""StoneBlock7""
+  },
+  RedBird_3 = {
+    y = -0.972238,
+    x = -25.3744,
+    name = ""RedBird_3"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  StaticBlockTheme01_04_4 = {
+    y = -6.44199,
+    x = 39.5268,
+    name = ""StaticBlockTheme01_04_4"",
+    angle = 2.3562,
+    definition = ""StaticBlockTheme01_04""
+  },
+  SmallPiglette_3 = {
+    y = -10.5401,
+    x = 32.6052,
+    name = ""SmallPiglette_3"",
+    angle = 0.00149623,
+    definition = ""SmallPiglette""
+  },
+  SmallPiglette_2 = {
+    y = -10.2642,
+    x = 58.5393,
+    name = ""SmallPiglette_2"",
+    angle = 0.00151395,
+    definition = ""SmallPiglette""
+  },
+  StoneBlock8_2 = {
+    y = -24.1553,
+    x = 44.2092,
+    name = ""StoneBlock8_2"",
+    angle = 0.00228923,
+    definition = ""StoneBlock8""
+  },
+  StaticBlockTheme01_05_3 = {
+    y = -12.408,
+    x = 39.7103,
+    name = ""StaticBlockTheme01_05_3"",
+    angle = 0.301713,
+    definition = ""StaticBlockTheme01_05""
+  },
+  StaticBlockTheme01_04_5 = {
+    y = -6.44049,
+    x = 51.0549,
+    name = ""StaticBlockTheme01_04_5"",
+    angle = 2.29447,
+    definition = ""StaticBlockTheme01_04""
+  },
+  SmallPiglette_1 = {
+    y = -19.958,
+    x = 50.7303,
+    name = ""SmallPiglette_1"",
+    angle = 4.76615E-4,
+    definition = ""SmallPiglette""
+  },
+  StoneBlock8_1 = {
+    y = -24.1557,
+    x = 46.1601,
+    name = ""StoneBlock8_1"",
+    angle = 0.00273922,
+    definition = ""StoneBlock8""
+  },
+  WoodBlock3_1 = {
+    y = -21.9611,
+    x = 37.5991,
+    name = ""WoodBlock3_1"",
+    angle = 3.14118,
+    definition = ""WoodBlock3""
+  },
+  ExtraTreasureChest_1 = {
+    y = -1.52101,
+    x = 45.4469,
+    name = ""ExtraTreasureChest_1"",
+    angle = 6.28318,
+    definition = ""ExtraTreasureChest""
+  },
+  LightBlock3_2 = {
+    y = -23.9205,
+    x = 52.9268,
+    name = ""LightBlock3_2"",
+    angle = 3.14387,
+    definition = ""LightBlock3""
+  },
+  StaticBlockTheme01_05_5 = {
+    y = -4.51454,
+    x = 35.1315,
+    name = ""StaticBlockTheme01_05_5"",
+    angle = 2.01305E-4,
+    definition = ""StaticBlockTheme01_05""
+  },
+  RedBird_2 = {
+    y = -0.913532,
+    x = -21.8655,
+    name = ""RedBird_2"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  StaticBlockTheme01_04_1 = {
+    y = -19.7618,
+    x = 46.277,
+    name = ""StaticBlockTheme01_04_1"",
+    angle = 2.65159,
+    definition = ""StaticBlockTheme01_04""
+  },
+  WoodBlock3_2 = {
+    y = -21.8942,
+    x = 52.927,
+    name = ""WoodBlock3_2"",
+    angle = 3.14363,
+    definition = ""WoodBlock3""
+  }
+}"
+Create an angry birds level.,5 pigs stuck in a tall tower structure. theres a large rock above them.,"world = {
+  RedBird_3 = {
+    y = -1.14281,
+    x = -30.2152,
+    name = ""RedBird_3"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  LightBlock2_3 = {
+    y = -24.1095,
+    x = 48.3362,
+    name = ""LightBlock2_3"",
+    angle = 1.57079,
+    definition = ""LightBlock2""
+  },
+  WoodBlock6_7 = {
+    y = -4.0134,
+    x = 51.933,
+    name = ""WoodBlock6_7"",
+    angle = 4.71049,
+    definition = ""WoodBlock6""
+  },
+  RedBird_4 = {
+    y = -1.13875,
+    x = -33.0934,
+    name = ""RedBird_4"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  WoodBlock6_2 = {
+    y = -12.978,
+    x = 52.3164,
+    name = ""WoodBlock6_2"",
+    angle = 1.5426,
+    definition = ""WoodBlock6""
+  },
+  StoneBlock6_4 = {
+    y = -13.0221,
+    x = 44.9033,
+    name = ""StoneBlock6_4"",
+    angle = 1.60914,
+    definition = ""StoneBlock6""
+  },
+  ground = {
+    y = 5,
+    x = 23.9286,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  MediumPiglette_2 = {
+    y = -5.48977,
+    x = 48.6025,
+    name = ""MediumPiglette_2"",
+    angle = 6.22628,
+    definition = ""MediumPiglette""
+  },
+  SmallPiglette_2 = {
+    y = -11.622,
+    x = 49.7016,
+    name = ""SmallPiglette_2"",
+    angle = 0.278026,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock6_8 = {
+    y = -12.9332,
+    x = 47.0488,
+    name = ""WoodBlock6_8"",
+    angle = 4.75314,
+    definition = ""WoodBlock6""
+  },
+  LightBlock2_4 = {
+    y = -24.1102,
+    x = 53.0882,
+    name = ""LightBlock2_4"",
+    angle = 1.57341,
+    definition = ""LightBlock2""
+  },
+  WoodBlock6_6 = {
+    y = -12.9779,
+    x = 45.9767,
+    name = ""WoodBlock6_6"",
+    angle = 1.61051,
+    definition = ""WoodBlock6""
+  },
+  MediumPiglette_1 = {
+    y = -1.9183,
+    x = 49.3678,
+    name = ""MediumPiglette_1"",
+    angle = 0.0787611,
+    definition = ""MediumPiglette""
+  },
+  RedBird_2 = {
+    y = -1.14202,
+    x = -26.98,
+    name = ""RedBird_2"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  StoneBlock6_6 = {
+    y = -3.20671,
+    x = 60.5821,
+    name = ""StoneBlock6_6"",
+    angle = 3.92631,
+    definition = ""StoneBlock6""
+  },
+  StoneBlock5_2 = {
+    y = -2.0563,
+    x = 53.9186,
+    name = ""StoneBlock5_2"",
+    angle = 1.56774,
+    definition = ""StoneBlock5""
+  },
+  StaticBlockTheme01_05_2 = {
+    y = 0.818494,
+    x = 72.1006,
+    name = ""StaticBlockTheme01_05_2"",
+    angle = 5.49779,
+    definition = ""StaticBlockTheme01_05""
+  },
+  StoneBlock6_8 = {
+    y = -4.0201,
+    x = 55.8611,
+    name = ""StoneBlock6_8"",
+    angle = 1.55897,
+    definition = ""StoneBlock6""
+  },
+  LightBlock6_1 = {
+    y = -22.5565,
+    x = 49.425,
+    name = ""LightBlock6_1"",
+    angle = 6.28298,
+    definition = ""LightBlock6""
+  },
+  WoodBlock4_1 = {
+    y = -17.4712,
+    x = 51.6974,
+    name = ""WoodBlock4_1"",
+    angle = 6.24249,
+    definition = ""WoodBlock4""
+  },
+  LightBlock4_4 = {
+    y = -20.0296,
+    x = 52.9397,
+    name = ""LightBlock4_4"",
+    angle = 1.54945,
+    definition = ""LightBlock4""
+  },
+  WoodBlock6_4 = {
+    y = -12.9466,
+    x = 51.2451,
+    name = ""WoodBlock6_4"",
+    angle = 4.68368,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock4_2 = {
+    y = -17.4563,
+    x = 46.5294,
+    name = ""WoodBlock4_2"",
+    angle = 0.0476969,
+    definition = ""WoodBlock4""
+  },
+  StoneBlock6_5 = {
+    y = -4.02057,
+    x = 56.9316,
+    name = ""StoneBlock6_5"",
+    angle = 1.55906,
+    definition = ""StoneBlock6""
+  },
+  RedBird_1 = {
+    y = -0.944217,
+    x = -22.9408,
+    name = ""RedBird_1"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  StoneBlock6_2 = {
+    y = -13.0022,
+    x = 53.3959,
+    name = ""StoneBlock6_2"",
+    angle = 1.54508,
+    definition = ""StoneBlock6""
+  },
+  LightBlock4_3 = {
+    y = -20.032,
+    x = 45.6555,
+    name = ""LightBlock4_3"",
+    angle = 1.60735,
+    definition = ""LightBlock4""
+  },
+  StoneBlock6_3 = {
+    y = -3.25988,
+    x = 37.5951,
+    name = ""StoneBlock6_3"",
+    angle = 2.34015,
+    definition = ""StoneBlock6""
+  },
+  StoneBlock6_7 = {
+    y = -4.01879,
+    x = 41.2123,
+    name = ""StoneBlock6_7"",
+    angle = 1.5775,
+    definition = ""StoneBlock6""
+  },
+  SmallPiglette_3 = {
+    y = -9.66108,
+    x = 49.299,
+    name = ""SmallPiglette_3"",
+    angle = 6.11266,
+    definition = ""SmallPiglette""
+  },
+  LightBlock6_3 = {
+    y = -8.52807,
+    x = 53.9403,
+    name = ""LightBlock6_3"",
+    angle = 3.14159,
+    definition = ""LightBlock6""
+  },
+  StoneBlock5_3 = {
+    y = -2.05834,
+    x = 44.1162,
+    name = ""StoneBlock5_3"",
+    angle = 1.57195,
+    definition = ""StoneBlock5""
+  },
+  LightBlock4_2 = {
+    y = -19.9476,
+    x = 47.0003,
+    name = ""LightBlock4_2"",
+    angle = 1.64435,
+    definition = ""LightBlock4""
+  },
+  WoodBlock6_1 = {
+    y = -4.01276,
+    x = 46.1872,
+    name = ""WoodBlock6_1"",
+    angle = 1.57453,
+    definition = ""WoodBlock6""
+  },
+  LightBlock6_2 = {
+    y = -8.52807,
+    x = 44.6333,
+    name = ""LightBlock6_2"",
+    angle = 3.14159,
+    definition = ""LightBlock6""
+  },
+  StoneBlock5_1 = {
+    y = -6.0189,
+    x = 53.9566,
+    name = ""StoneBlock5_1"",
+    angle = 1.56079,
+    definition = ""StoneBlock5""
+  },
+  LightBlock2_2 = {
+    y = -24.1166,
+    x = 45.8745,
+    name = ""LightBlock2_2"",
+    angle = 1.57603,
+    definition = ""LightBlock2""
+  },
+  LightBlock4_1 = {
+    y = -19.9752,
+    x = 51.7299,
+    name = ""LightBlock4_1"",
+    angle = 1.5309,
+    definition = ""LightBlock4""
+  },
+  StoneBlock5_4 = {
+    y = -6.02525,
+    x = 44.0915,
+    name = ""StoneBlock5_4"",
+    angle = 1.57454,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock7_1 = {
+    y = -19.2136,
+    x = 49.1969,
+    name = ""StoneBlock7_1"",
+    angle = 0.900038,
+    definition = ""StoneBlock7""
+  },
+  SmallPiglette_1 = {
+    y = -13.4381,
+    x = 48.6474,
+    name = ""SmallPiglette_1"",
+    angle = 6.2364,
+    definition = ""SmallPiglette""
+  },
+  StoneBlock6_1 = {
+    y = -4.0187,
+    x = 42.2822,
+    name = ""StoneBlock6_1"",
+    angle = 1.5775,
+    definition = ""StoneBlock6""
+  },
+  LightBlock2_1 = {
+    y = -24.1099,
+    x = 50.9572,
+    name = ""LightBlock2_1"",
+    angle = 1.5706,
+    definition = ""LightBlock2""
+  }
+}"
+Create an angry birds level.,two towers with one piglette each. theres a large pig in the middle.,"world = {
+  RedBird_3 = {
+    y = -4.14102,
+    x = -4.25819,
+    name = ""RedBird_3"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  LightBlock1_4 = {
+    y = -11.7811,
+    x = 67.7996,
+    name = ""LightBlock1_4"",
+    angle = 6.27937,
+    definition = ""LightBlock1""
+  },
+  WoodBlock3_4 = {
+    y = -5.20222,
+    x = 81.9003,
+    name = ""WoodBlock3_4"",
+    angle = 6.28138,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock5_4 = {
+    y = -5.20383,
+    x = 70.531,
+    name = ""WoodBlock5_4"",
+    angle = 6.28098,
+    definition = ""WoodBlock5""
+  },
+  RedBird_4 = {
+    y = -1.237,
+    x = -13.6378,
+    name = ""RedBird_4"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  WoodBlock6_2 = {
+    y = -15.7647,
+    x = 69.1226,
+    name = ""WoodBlock6_2"",
+    angle = 3.13893,
+    definition = ""WoodBlock6""
+  },
+  StaticBlockTheme01_02_1 = {
+    y = 1.37466,
+    x = -8.32418,
+    name = ""StaticBlockTheme01_02_1"",
+    angle = 5.19476,
+    definition = ""StaticBlockTheme01_02""
+  },
+  LightBlock5_2 = {
+    y = -17.3106,
+    x = 84.2826,
+    name = ""LightBlock5_2"",
+    angle = 3.14423,
+    definition = ""LightBlock5""
+  },
+  ground = {
+    y = 5,
+    x = 36.952,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  LightBlock1_3 = {
+    y = -11.7897,
+    x = 82.6455,
+    name = ""LightBlock1_3"",
+    angle = 0.00118617,
+    definition = ""LightBlock1""
+  },
+  WoodBlock5_1 = {
+    y = -3.16761,
+    x = 68.677,
+    name = ""WoodBlock5_1"",
+    angle = 6.2811,
+    definition = ""WoodBlock5""
+  },
+  SmallPiglette_2 = {
+    y = -12.3018,
+    x = 69.3797,
+    name = ""SmallPiglette_2"",
+    angle = 6.28051,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock4_1 = {
+    y = -13.246,
+    x = 80.5224,
+    name = ""WoodBlock4_1"",
+    angle = 1.58521,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock3_1 = {
+    y = -3.16748,
+    x = 86.0767,
+    name = ""WoodBlock3_1"",
+    angle = 6.28281,
+    definition = ""WoodBlock3""
+  },
+  MediumPiglette_1 = {
+    y = -5.05147,
+    x = 77.0895,
+    name = ""MediumPiglette_1"",
+    angle = 0.0247007,
+    definition = ""MediumPiglette""
+  },
+  WoodBlock4_5 = {
+    y = -8.19152,
+    x = 67.0263,
+    name = ""WoodBlock4_5"",
+    angle = 1.56434,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock4_4 = {
+    y = -8.20823,
+    x = 72.0175,
+    name = ""WoodBlock4_4"",
+    angle = 1.56809,
+    definition = ""WoodBlock4""
+  },
+  LightBlock1_2 = {
+    y = -11.7921,
+    x = 70.963,
+    name = ""LightBlock1_2"",
+    angle = 6.28039,
+    definition = ""LightBlock1""
+  },
+  LightBlock4_2 = {
+    y = -20.312,
+    x = 84.3502,
+    name = ""LightBlock4_2"",
+    angle = 4.71497,
+    definition = ""LightBlock4""
+  },
+  LightBlock5_1 = {
+    y = -17.316,
+    x = 69.1347,
+    name = ""LightBlock5_1"",
+    angle = 6.28046,
+    definition = ""LightBlock5""
+  },
+  WoodBlock6_4 = {
+    y = -10.7163,
+    x = 69.1853,
+    name = ""WoodBlock6_4"",
+    angle = 3.13806,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_3 = {
+    y = -15.7595,
+    x = 84.1754,
+    name = ""WoodBlock6_3"",
+    angle = 0.00265592,
+    definition = ""WoodBlock6""
+  },
+  SmallPiglette_1 = {
+    y = -12.3025,
+    x = 84.2287,
+    name = ""SmallPiglette_1"",
+    angle = 0.035253,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock4_8 = {
+    y = -13.2329,
+    x = 86.8799,
+    name = ""WoodBlock4_8"",
+    angle = 1.5707,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock5_2 = {
+    y = -5.20042,
+    x = 84.9367,
+    name = ""WoodBlock5_2"",
+    angle = 0.00141897,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock5_4 = {
+    y = -8.20146,
+    x = 84.0119,
+    name = ""StoneBlock5_4"",
+    angle = 4.7132,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_5 = {
+    y = -1.13628,
+    x = 86.0773,
+    name = ""StoneBlock5_5"",
+    angle = 3.14121,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_6 = {
+    y = -1.13796,
+    x = 81.9597,
+    name = ""StoneBlock5_6"",
+    angle = 3.14193,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_2 = {
+    y = -1.13832,
+    x = 67.6873,
+    name = ""StoneBlock5_2"",
+    angle = 3.14161,
+    definition = ""StoneBlock5""
+  },
+  RedBird_1 = {
+    y = -1.24263,
+    x = -11.4584,
+    name = ""RedBird_1"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  WoodBlock5_3 = {
+    y = -13.3168,
+    x = 72.4577,
+    name = ""WoodBlock5_3"",
+    angle = 1.57106,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock3_3 = {
+    y = -5.19436,
+    x = 67.4416,
+    name = ""WoodBlock3_3"",
+    angle = 6.27654,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock6_5 = {
+    y = -10.7181,
+    x = 84.2002,
+    name = ""WoodBlock6_5"",
+    angle = 0.00105166,
+    definition = ""WoodBlock6""
+  },
+  RedBird_2 = {
+    y = -1.20013,
+    x = -9.24293,
+    name = ""RedBird_2"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  LightBlock4_1 = {
+    y = -20.3174,
+    x = 69.0516,
+    name = ""LightBlock4_1"",
+    angle = 1.56781,
+    definition = ""LightBlock4""
+  },
+  StoneBlock5_1 = {
+    y = -8.20106,
+    x = 69.5562,
+    name = ""StoneBlock5_1"",
+    angle = 1.5673,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock4_2 = {
+    y = -8.19792,
+    x = 86.6303,
+    name = ""WoodBlock4_2"",
+    angle = 4.71473,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock5_6 = {
+    y = -13.2754,
+    x = 66.0114,
+    name = ""WoodBlock5_6"",
+    angle = 1.57106,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock5_3 = {
+    y = -1.1392,
+    x = 71.7568,
+    name = ""StoneBlock5_3"",
+    angle = 3.14099,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock6_1 = {
+    y = -2.69179,
+    x = 76.9069,
+    name = ""WoodBlock6_1"",
+    angle = 2.66287E-4,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock4_7 = {
+    y = -8.20267,
+    x = 81.5082,
+    name = ""WoodBlock4_7"",
+    angle = 4.71137,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock3_2 = {
+    y = -3.17241,
+    x = 71.6902,
+    name = ""WoodBlock3_2"",
+    angle = 6.28137,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock4_3 = {
+    y = -13.2438,
+    x = 81.5918,
+    name = ""WoodBlock4_3"",
+    angle = 1.5852,
+    definition = ""WoodBlock4""
+  },
+  StaticBlockTheme01_04_2 = {
+    y = -0.913311,
+    x = -4.39517,
+    name = ""StaticBlockTheme01_04_2"",
+    angle = 1.30337E-6,
+    definition = ""StaticBlockTheme01_04""
+  },
+  LightBlock1_1 = {
+    y = -11.7855,
+    x = 85.8105,
+    name = ""LightBlock1_1"",
+    angle = 0.00150483,
+    definition = ""LightBlock1""
+  },
+  StaticBlockTheme01_01_1 = {
+    y = -0.779541,
+    x = -1.62374,
+    name = ""StaticBlockTheme01_01_1"",
+    angle = 4.26876,
+    definition = ""StaticBlockTheme01_01""
+  },
+  WoodBlock4_6 = {
+    y = -13.2317,
+    x = 87.9494,
+    name = ""WoodBlock4_6"",
+    angle = 1.57078,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock5_5 = {
+    y = -3.1688,
+    x = 83.0736,
+    name = ""WoodBlock5_5"",
+    angle = 2.8061E-5,
+    definition = ""WoodBlock5""
+  }
+}"
+Create an angry birds level.,two glass/stone towers with one pig each. they're placed on a hill.,"world = {
+  StoneBlock6_9 = {
+    y = -18.1246,
+    x = 13.6362,
+    name = ""StoneBlock6_9"",
+    angle = 1.57105,
+    definition = ""StoneBlock6""
+  },
+  StoneBlock6_7 = {
+    y = -11.1614,
+    x = -3.48696,
+    name = ""StoneBlock6_7"",
+    angle = 1.57132,
+    definition = ""StoneBlock6""
+  },
+  StoneBlock6_4 = {
+    y = -22.5957,
+    x = 16.4813,
+    name = ""StoneBlock6_4"",
+    angle = 3.14173,
+    definition = ""StoneBlock6""
+  },
+  ground = {
+    y = 5,
+    x = -19.5655,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  LightBlock3_14 = {
+    y = -22.4193,
+    x = -0.714962,
+    name = ""LightBlock3_14"",
+    angle = 4.7135,
+    definition = ""LightBlock3""
+  },
+  StaticBlockTheme01_05_6 = {
+    y = -0.198593,
+    x = -4.35307,
+    name = ""StaticBlockTheme01_05_6"",
+    angle = 0.785398,
+    definition = ""StaticBlockTheme01_05""
+  },
+  LightBlock3_8 = {
+    y = -18.2566,
+    x = -0.683508,
+    name = ""LightBlock3_8"",
+    angle = 4.71276,
+    definition = ""LightBlock3""
+  },
+  LightBlock3_12 = {
+    y = -25.1927,
+    x = 15.3117,
+    name = ""LightBlock3_12"",
+    angle = 3.14221,
+    definition = ""LightBlock3""
+  },
+  SmallBlueBird_3 = {
+    y = -3.4171,
+    x = -71.4775,
+    name = ""SmallBlueBird_3"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  LightBlock3_10 = {
+    y = -22.4181,
+    x = 1.50891,
+    name = ""LightBlock3_10"",
+    angle = 4.7122,
+    definition = ""LightBlock3""
+  },
+  LightBlock3_20 = {
+    y = -27.2272,
+    x = 16.4422,
+    name = ""LightBlock3_20"",
+    angle = 3.14212,
+    definition = ""LightBlock3""
+  },
+  SmallPiglette_1 = {
+    y = -8.27277,
+    x = 0.374255,
+    name = ""SmallPiglette_1"",
+    angle = 4.29153E-6,
+    definition = ""SmallPiglette""
+  },
+  LightBlock3_3 = {
+    y = -25.192,
+    x = 17.3956,
+    name = ""LightBlock3_3"",
+    angle = 3.14174,
+    definition = ""LightBlock3""
+  },
+  MediumPiglette_1 = {
+    y = -16.049,
+    x = 16.5378,
+    name = ""MediumPiglette_1"",
+    angle = 2.53253E-5,
+    definition = ""MediumPiglette""
+  },
+  StaticBlockTheme01_05_5 = {
+    y = -0.47021,
+    x = 28.3198,
+    name = ""StaticBlockTheme01_05_5"",
+    angle = 2.35619,
+    definition = ""StaticBlockTheme01_05""
+  },
+  LightBlock3_9 = {
+    y = -31.2981,
+    x = 16.2759,
+    name = ""LightBlock3_9"",
+    angle = 3.14212,
+    definition = ""LightBlock3""
+  },
+  StoneBlock6_6 = {
+    y = -18.1249,
+    x = 12.5575,
+    name = ""StoneBlock6_6"",
+    angle = 1.57096,
+    definition = ""StoneBlock6""
+  },
+  LightBlock3_13 = {
+    y = -25.1931,
+    x = 19.4781,
+    name = ""LightBlock3_13"",
+    angle = 3.14147,
+    definition = ""LightBlock3""
+  },
+  SmallBlueBird_2 = {
+    y = -3.48644,
+    x = -70.0708,
+    name = ""SmallBlueBird_2"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  StaticBlockTheme01_05_1 = {
+    y = -7.23492,
+    x = 21.4571,
+    name = ""StaticBlockTheme01_05_1"",
+    angle = 2.35619,
+    definition = ""StaticBlockTheme01_05""
+  },
+  StoneBlock6_8 = {
+    y = -16.6832,
+    x = 0.318289,
+    name = ""StoneBlock6_8"",
+    angle = 3.14174,
+    definition = ""StoneBlock6""
+  },
+  LightBlock6_1 = {
+    y = -11.1639,
+    x = 3.843,
+    name = ""LightBlock6_1"",
+    angle = 1.57025,
+    definition = ""LightBlock6""
+  },
+  LightBlock3_6 = {
+    y = -29.2625,
+    x = 17.5211,
+    name = ""LightBlock3_6"",
+    angle = 3.14109,
+    definition = ""LightBlock3""
+  },
+  StaticBlockTheme01_05_7 = {
+    y = -2.24777,
+    x = 0.597113,
+    name = ""StaticBlockTheme01_05_7"",
+    angle = 4.29153E-6,
+    definition = ""StaticBlockTheme01_05""
+  },
+  LightBlock3_4 = {
+    y = -20.3371,
+    x = 2.46476,
+    name = ""LightBlock3_4"",
+    angle = 4.71172,
+    definition = ""LightBlock3""
+  },
+  StaticBlockTheme01_05_4 = {
+    y = -9.26121,
+    x = 16.7169,
+    name = ""StaticBlockTheme01_05_4"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme01_05""
+  },
+  Estrade02_1 = {
+    y = -1.41541,
+    x = -68.2008,
+    name = ""Estrade02_1"",
+    angle = 4.29153E-6,
+    definition = ""Estrade02""
+  },
+  StoneBlock6_1 = {
+    y = -23.6431,
+    x = 16.477,
+    name = ""StoneBlock6_1"",
+    angle = 3.14173,
+    definition = ""StoneBlock6""
+  },
+  SmallBlueBird_5 = {
+    y = -0.813775,
+    x = -74.9009,
+    name = ""SmallBlueBird_5"",
+    startNumber = 5,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  StaticBlockTheme01_05_2 = {
+    y = -7.17007,
+    x = 11.8677,
+    name = ""StaticBlockTheme01_05_2"",
+    angle = 0.785398,
+    definition = ""StaticBlockTheme01_05""
+  },
+  LightBlock3_7 = {
+    y = -18.2563,
+    x = 3.57493,
+    name = ""LightBlock3_7"",
+    angle = 4.71244,
+    definition = ""LightBlock3""
+  },
+  StoneBlock6_2 = {
+    y = -18.125,
+    x = 20.5007,
+    name = ""StoneBlock6_2"",
+    angle = 1.57049,
+    definition = ""StoneBlock6""
+  },
+  LightBlock3_19 = {
+    y = -29.2632,
+    x = 15.4358,
+    name = ""LightBlock3_19"",
+    angle = 3.1427,
+    definition = ""LightBlock3""
+  },
+  LightBlock3_1 = {
+    y = -27.2278,
+    x = 18.528,
+    name = ""LightBlock3_1"",
+    angle = 3.14085,
+    definition = ""LightBlock3""
+  },
+  StoneBlock6_3 = {
+    y = -18.1244,
+    x = 19.3209,
+    name = ""StoneBlock6_3"",
+    angle = 1.5705,
+    definition = ""StoneBlock6""
+  },
+  LightBlock4_1 = {
+    y = -11.3734,
+    x = 6.24073,
+    name = ""LightBlock4_1"",
+    angle = 3.80387,
+    definition = ""LightBlock4""
+  },
+  LightBlock3_15 = {
+    y = -20.3389,
+    x = -1.92098,
+    name = ""LightBlock3_15"",
+    angle = 4.71349,
+    definition = ""LightBlock3""
+  },
+  LightBlock3_18 = {
+    y = -20.3371,
+    x = 0.220646,
+    name = ""LightBlock3_18"",
+    angle = 4.71299,
+    definition = ""LightBlock3""
+  },
+  StaticBlockTheme01_05_8 = {
+    y = -2.30042,
+    x = 7.69729,
+    name = ""StaticBlockTheme01_05_8"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme01_05""
+  },
+  StaticBlockTheme01_05_3 = {
+    y = -1.25453,
+    x = 16.7512,
+    name = ""StaticBlockTheme01_05_3"",
+    angle = 3.927,
+    definition = ""StaticBlockTheme01_05""
+  },
+  LightBlock3_16 = {
+    y = -18.2555,
+    x = 1.52533,
+    name = ""LightBlock3_16"",
+    angle = 4.71239,
+    definition = ""LightBlock3""
+  },
+  LightBlock6_2 = {
+    y = -11.1613,
+    x = 2.29616,
+    name = ""LightBlock6_2"",
+    angle = 1.5706,
+    definition = ""LightBlock6""
+  },
+  LightBlock3_17 = {
+    y = -27.2292,
+    x = 14.3581,
+    name = ""LightBlock3_17"",
+    angle = 3.1431,
+    definition = ""LightBlock3""
+  },
+  StoneBlock6_10 = {
+    y = -15.6343,
+    x = 0.277101,
+    name = ""StoneBlock6_10"",
+    angle = 3.14143,
+    definition = ""StoneBlock6""
+  },
+  LightBlock3_11 = {
+    y = -18.2581,
+    x = -2.85079,
+    name = ""LightBlock3_11"",
+    angle = 4.71295,
+    definition = ""LightBlock3""
+  },
+  SmallBlueBird_4 = {
+    y = -0.801825,
+    x = -73.3554,
+    name = ""SmallBlueBird_4"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  SmallBlueBird_1 = {
+    y = -3.49232,
+    x = -67.9374,
+    name = ""SmallBlueBird_1"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  StoneBlock6_5 = {
+    y = -11.1613,
+    x = -1.87662,
+    name = ""StoneBlock6_5"",
+    angle = 1.57094,
+    definition = ""StoneBlock6""
+  },
+  LightBlock3_5 = {
+    y = -24.4999,
+    x = 0.283978,
+    name = ""LightBlock3_5"",
+    angle = 4.7131,
+    definition = ""LightBlock3""
+  },
+  LightBlock3_2 = {
+    y = -25.195,
+    x = 13.2293,
+    name = ""LightBlock3_2"",
+    angle = 3.14231,
+    definition = ""LightBlock3""
+  }
+}"
+Create an angry birds level.,"two complex towers with 4 pigs in this level. player has one red, three blue birds","world = {
+  StoneBlock3_1 = {
+    y = -7.22128,
+    x = 55.6775,
+    name = ""StoneBlock3_1"",
+    angle = 0.00359493,
+    definition = ""StoneBlock3""
+  },
+  WoodBlock3_4 = {
+    y = -7.18897,
+    x = 73.1491,
+    name = ""WoodBlock3_4"",
+    angle = 6.28158,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock5_6 = {
+    y = -11.3084,
+    x = 52.5527,
+    name = ""WoodBlock5_6"",
+    angle = 6.28129,
+    definition = ""WoodBlock5""
+  },
+  LightBlock3_4 = {
+    y = -3.1301,
+    x = 73.1541,
+    name = ""LightBlock3_4"",
+    angle = 6.27948,
+    definition = ""LightBlock3""
+  },
+  StoneBlock3_3 = {
+    y = -21.4653,
+    x = 55.4591,
+    name = ""StoneBlock3_3"",
+    angle = 4.29153E-6,
+    definition = ""StoneBlock3""
+  },
+  ground = {
+    y = 5,
+    x = 42.2233,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  LightBlock3_14 = {
+    y = -18.4673,
+    x = 49.2091,
+    name = ""LightBlock3_14"",
+    angle = 6.28306,
+    definition = ""LightBlock3""
+  },
+  LightBlock3_8 = {
+    y = -9.27407,
+    x = 53.5096,
+    name = ""LightBlock3_8"",
+    angle = 6.28182,
+    definition = ""LightBlock3""
+  },
+  WoodBlock3_2 = {
+    y = -11.2698,
+    x = 55.6673,
+    name = ""WoodBlock3_2"",
+    angle = 6.2821,
+    definition = ""WoodBlock3""
+  },
+  LightBlock3_12 = {
+    y = -15.3476,
+    x = 55.4279,
+    name = ""LightBlock3_12"",
+    angle = 1.56853,
+    definition = ""LightBlock3""
+  },
+  SmallBlueBird_3 = {
+    y = -0.911225,
+    x = -12.4936,
+    name = ""SmallBlueBird_3"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  WoodBlock4_1 = {
+    y = -14.3144,
+    x = 53.828,
+    name = ""WoodBlock4_1"",
+    angle = 1.56541,
+    definition = ""WoodBlock4""
+  },
+  LightBlock3_3 = {
+    y = -9.27103,
+    x = 51.4269,
+    name = ""LightBlock3_3"",
+    angle = 6.28168,
+    definition = ""LightBlock3""
+  },
+  WoodBlock5_5 = {
+    y = -5.19868,
+    x = 54.5395,
+    name = ""WoodBlock5_5"",
+    angle = 0.00175775,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock3_1 = {
+    y = -7.19928,
+    x = 79.3002,
+    name = ""WoodBlock3_1"",
+    angle = 6.28205,
+    definition = ""WoodBlock3""
+  },
+  StoneBlock1_3 = {
+    y = -9.7414,
+    x = 79.7098,
+    name = ""StoneBlock1_3"",
+    angle = 4.29153E-6,
+    definition = ""StoneBlock1""
+  },
+  MediumPiglette_1 = {
+    y = -10.937,
+    x = 75.0083,
+    name = ""MediumPiglette_1"",
+    angle = 6.23209,
+    definition = ""MediumPiglette""
+  },
+  LightBlock3_10 = {
+    y = -9.24714,
+    x = 49.3033,
+    name = ""LightBlock3_10"",
+    angle = 6.27913,
+    definition = ""LightBlock3""
+  },
+  LightBlock3_9 = {
+    y = -5.15824,
+    x = 73.053,
+    name = ""LightBlock3_9"",
+    angle = 6.2806,
+    definition = ""LightBlock3""
+  },
+  WoodBlock5_1 = {
+    y = -7.23723,
+    x = 52.5838,
+    name = ""WoodBlock5_1"",
+    angle = 6.28188,
+    definition = ""WoodBlock5""
+  },
+  StaticBlockTheme01_05_5 = {
+    y = 2.78381,
+    x = 67.3246,
+    name = ""StaticBlockTheme01_05_5"",
+    angle = 0.785398,
+    definition = ""StaticBlockTheme01_05""
+  },
+  SmallBlueBird_2 = {
+    y = -0.930155,
+    x = -10.9242,
+    name = ""SmallBlueBird_2"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  StaticBlockTheme01_05_2 = {
+    y = 0.785199,
+    x = 53.0531,
+    name = ""StaticBlockTheme01_05_2"",
+    angle = 3.14162,
+    definition = ""StaticBlockTheme01_05""
+  },
+  StoneBlock3_2 = {
+    y = -7.22251,
+    x = 49.4668,
+    name = ""StoneBlock3_2"",
+    angle = 6.27811,
+    definition = ""StoneBlock3""
+  },
+  WoodBlock5_4 = {
+    y = -1.10333,
+    x = 74.2351,
+    name = ""WoodBlock5_4"",
+    angle = 6.28188,
+    definition = ""WoodBlock5""
+  },
+  LightBlock3_2 = {
+    y = -18.4675,
+    x = 51.308,
+    name = ""LightBlock3_2"",
+    angle = 1.25989E-4,
+    definition = ""LightBlock3""
+  },
+  WoodBlock6_3 = {
+    y = -8.74394,
+    x = 76.2576,
+    name = ""WoodBlock6_3"",
+    angle = 6.28122,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock3_5 = {
+    y = -11.272,
+    x = 49.3972,
+    name = ""WoodBlock3_5"",
+    angle = 6.28076,
+    definition = ""WoodBlock3""
+  },
+  StaticBlockTheme01_05_4 = {
+    y = 0.762502,
+    x = 62.6274,
+    name = ""StaticBlockTheme01_05_4"",
+    angle = 4.71242,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock5_2 = {
+    y = -5.19934,
+    x = 50.5127,
+    name = ""WoodBlock5_2"",
+    angle = 6.28165,
+    definition = ""WoodBlock5""
+  },
+  SmallPiglette_2 = {
+    y = -5.24229,
+    x = 60.177,
+    name = ""SmallPiglette_2"",
+    angle = 4.5035E-5,
+    definition = ""SmallPiglette""
+  },
+  StoneBlock3_4 = {
+    y = -21.4653,
+    x = 49.0855,
+    name = ""StoneBlock3_4"",
+    angle = 4.29153E-6,
+    definition = ""StoneBlock3""
+  },
+  WoodBlock4_2 = {
+    y = -14.3088,
+    x = 51.0788,
+    name = ""WoodBlock4_2"",
+    angle = 1.56523,
+    definition = ""WoodBlock4""
+  },
+  LightBlock3_7 = {
+    y = -18.4672,
+    x = 53.4042,
+    name = ""LightBlock3_7"",
+    angle = 2.16942E-4,
+    definition = ""LightBlock3""
+  },
+  RedBird_1 = {
+    y = -1.12729,
+    x = -6.66283,
+    name = ""RedBird_1"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  WoodBlock5_3 = {
+    y = -1.10534,
+    x = 78.3213,
+    name = ""WoodBlock5_3"",
+    angle = 6.04495E-4,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock3_3 = {
+    y = -13.2979,
+    x = 49.39,
+    name = ""WoodBlock3_3"",
+    angle = 6.28189,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock3_6 = {
+    y = -13.2973,
+    x = 55.4693,
+    name = ""WoodBlock3_6"",
+    angle = 6.28082,
+    definition = ""WoodBlock3""
+  },
+  StaticBlockTheme01_05_1 = {
+    y = 0.559064,
+    x = 87.8402,
+    name = ""StaticBlockTheme01_05_1"",
+    angle = 0.7854,
+    definition = ""StaticBlockTheme01_05""
+  },
+  SmallPiglette_3 = {
+    y = -5.24229,
+    x = 62.8819,
+    name = ""SmallPiglette_3"",
+    angle = 4.50332E-5,
+    definition = ""SmallPiglette""
+  },
+  LightBlock3_1 = {
+    y = -5.16713,
+    x = 79.3973,
+    name = ""LightBlock3_1"",
+    angle = 1.75366E-4,
+    definition = ""LightBlock3""
+  },
+  LightBlock4_1 = {
+    y = -14.3103,
+    x = 52.5101,
+    name = ""LightBlock4_1"",
+    angle = 1.56891,
+    definition = ""LightBlock4""
+  },
+  StaticBlockTheme01_05_3 = {
+    y = 2.6797,
+    x = 48.379,
+    name = ""StaticBlockTheme01_05_3"",
+    angle = 3.92702,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock6_2 = {
+    y = -20.0189,
+    x = 52.3562,
+    name = ""WoodBlock6_2"",
+    angle = 6.65392E-5,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_1 = {
+    y = -16.9166,
+    x = 52.3866,
+    name = ""WoodBlock6_1"",
+    angle = 1.9667E-5,
+    definition = ""WoodBlock6""
+  },
+  StoneBlock1_4 = {
+    y = -9.57659,
+    x = 72.7318,
+    name = ""StoneBlock1_4"",
+    angle = 4.29153E-6,
+    definition = ""StoneBlock1""
+  },
+  LightBlock3_6 = {
+    y = -3.13588,
+    x = 79.3062,
+    name = ""LightBlock3_6"",
+    angle = 0.00126468,
+    definition = ""LightBlock3""
+  },
+  LightBlock3_11 = {
+    y = -18.4659,
+    x = 55.504,
+    name = ""LightBlock3_11"",
+    angle = 5.93145E-4,
+    definition = ""LightBlock3""
+  },
+  LightBlock3_13 = {
+    y = -15.3483,
+    x = 49.3392,
+    name = ""LightBlock3_13"",
+    angle = 1.57112,
+    definition = ""LightBlock3""
+  },
+  SmallBlueBird_1 = {
+    y = -0.868431,
+    x = -9.44964,
+    name = ""SmallBlueBird_1"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  SmallPiglette_1 = {
+    y = -21.4733,
+    x = 53.3009,
+    name = ""SmallPiglette_1"",
+    angle = 0.0158476,
+    definition = ""SmallPiglette""
+  },
+  LightBlock3_5 = {
+    y = -9.2456,
+    x = 55.6017,
+    name = ""LightBlock3_5"",
+    angle = 0.00141148,
+    definition = ""LightBlock3""
+  },
+  LightBlock5_1 = {
+    y = -3.14191,
+    x = 76.1982,
+    name = ""LightBlock5_1"",
+    angle = 6.28182,
+    definition = ""LightBlock5""
+  }
+}"
+Create an angry birds level.,"one large stone structure on the hill. we have 3 pigs vs 2 blue birds, 2 red ","world = {
+  LightBlock2_6 = {
+    y = -12.7879,
+    x = 51.0093,
+    name = ""LightBlock2_6"",
+    angle = 1.5708,
+    definition = ""LightBlock2""
+  },
+  StoneBlock1_1 = {
+    y = -16.1881,
+    x = 50.9819,
+    name = ""StoneBlock1_1"",
+    angle = 6.28313,
+    definition = ""StoneBlock1""
+  },
+  StoneBlock2_4 = {
+    y = -22.8783,
+    x = 53.5673,
+    name = ""StoneBlock2_4"",
+    angle = 1.56487,
+    definition = ""StoneBlock2""
+  },
+  LightBlock5_2 = {
+    y = -18.7981,
+    x = 54.1044,
+    name = ""LightBlock5_2"",
+    angle = 1.5726,
+    definition = ""LightBlock5""
+  },
+  ground = {
+    y = 5,
+    x = 27.8228,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  SmallPiglette_2 = {
+    y = -22.8904,
+    x = 58.9783,
+    name = ""SmallPiglette_2"",
+    angle = 0.0490662,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock4_1 = {
+    y = -17.3412,
+    x = 57.2125,
+    name = ""WoodBlock4_1"",
+    angle = 0.00232436,
+    definition = ""WoodBlock4""
+  },
+  LightBlock2_4 = {
+    y = -12.7879,
+    x = 52.9874,
+    name = ""LightBlock2_4"",
+    angle = 1.5708,
+    definition = ""LightBlock2""
+  },
+  StoneBlock2_5 = {
+    y = -9.6502,
+    x = 67.0723,
+    name = ""StoneBlock2_5"",
+    angle = 1.56205,
+    definition = ""StoneBlock2""
+  },
+  MediumPiglette_1 = {
+    y = -12.5645,
+    x = 57.7658,
+    name = ""MediumPiglette_1"",
+    angle = 0.0593757,
+    definition = ""MediumPiglette""
+  },
+  RedBird_2 = {
+    y = -1.02365,
+    x = -20.3743,
+    name = ""RedBird_2"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  StoneBlock2_3 = {
+    y = -22.8593,
+    x = 60.6444,
+    name = ""StoneBlock2_3"",
+    angle = 1.56349,
+    definition = ""StoneBlock2""
+  },
+  StoneBlock5_2 = {
+    y = -14.7385,
+    x = 52.4647,
+    name = ""StoneBlock5_2"",
+    angle = 0.00442929,
+    definition = ""StoneBlock5""
+  },
+  StaticBlockTheme01_05_1 = {
+    y = -1.71256,
+    x = 53.5277,
+    name = ""StaticBlockTheme01_05_1"",
+    angle = 4.29153E-6,
+    definition = ""StaticBlockTheme01_05""
+  },
+  LightBlock6_1 = {
+    y = -16.275,
+    x = 57.2022,
+    name = ""LightBlock6_1"",
+    angle = 3.14355,
+    definition = ""LightBlock6""
+  },
+  StoneBlock5_7 = {
+    y = -10.6777,
+    x = 62.5182,
+    name = ""StoneBlock5_7"",
+    angle = 6.28056,
+    definition = ""StoneBlock5""
+  },
+  LightBlock2_1 = {
+    y = -12.7879,
+    x = 53.9764,
+    name = ""LightBlock2_1"",
+    angle = 1.5708,
+    definition = ""LightBlock2""
+  },
+  StaticBlockTheme01_05_5 = {
+    y = 0.810199,
+    x = 67.3598,
+    name = ""StaticBlockTheme01_05_5"",
+    angle = 5.49779,
+    definition = ""StaticBlockTheme01_05""
+  },
+  StaticBlockTheme01_05_4 = {
+    y = 0.115753,
+    x = 48.8876,
+    name = ""StaticBlockTheme01_05_4"",
+    angle = 3.927,
+    definition = ""StaticBlockTheme01_05""
+  },
+  LightBlock2_5 = {
+    y = -12.6728,
+    x = 61.0738,
+    name = ""LightBlock2_5"",
+    angle = 1.5708,
+    definition = ""LightBlock2""
+  },
+  StoneBlock6_1 = {
+    y = -9.13267,
+    x = 61.9,
+    name = ""StoneBlock6_1"",
+    angle = 6.2827,
+    definition = ""StoneBlock6""
+  },
+  StoneBlock5_5 = {
+    y = -7.58325,
+    x = 57.761,
+    name = ""StoneBlock5_5"",
+    angle = 3.03233E-4,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_6 = {
+    y = -7.58599,
+    x = 65.5447,
+    name = ""StoneBlock5_6"",
+    angle = 6.28266,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock1_2 = {
+    y = -16.1881,
+    x = 63.8113,
+    name = ""StoneBlock1_2"",
+    angle = 6.28313,
+    definition = ""StoneBlock1""
+  },
+  StoneBlock6_2 = {
+    y = -9.13477,
+    x = 53.5848,
+    name = ""StoneBlock6_2"",
+    angle = 3.44603E-4,
+    definition = ""StoneBlock6""
+  },
+  WoodBlock4_4 = {
+    y = -11.7737,
+    x = 60.0653,
+    name = ""WoodBlock4_4"",
+    angle = 1.5708,
+    definition = ""WoodBlock4""
+  },
+  StoneBlock5_4 = {
+    y = -14.7312,
+    x = 62.2386,
+    name = ""StoneBlock5_4"",
+    angle = 6.27604,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock6_3 = {
+    y = -21.3101,
+    x = 57.1311,
+    name = ""StoneBlock6_3"",
+    angle = 0.00213424,
+    definition = ""StoneBlock6""
+  },
+  RedBird_1 = {
+    y = -1.09082,
+    x = -22.4141,
+    name = ""RedBird_1"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  StoneBlock5_1 = {
+    y = -7.58638,
+    x = 49.7676,
+    name = ""StoneBlock5_1"",
+    angle = 4.5606E-4,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock2_2 = {
+    y = -9.6443,
+    x = 48.3136,
+    name = ""StoneBlock2_2"",
+    angle = 1.5766,
+    definition = ""StoneBlock2""
+  },
+  LightBlock2_3 = {
+    y = -12.7223,
+    x = 63.8461,
+    name = ""LightBlock2_3"",
+    angle = 1.5708,
+    definition = ""LightBlock2""
+  },
+  LightBlock2_2 = {
+    y = -12.7879,
+    x = 51.9434,
+    name = ""LightBlock2_2"",
+    angle = 1.5708,
+    definition = ""LightBlock2""
+  },
+  SmallBlueBird_2 = {
+    y = -0.798118,
+    x = -18.691,
+    name = ""SmallBlueBird_2"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  StaticBlockTheme01_05_2 = {
+    y = -1.71256,
+    x = 62.4493,
+    name = ""StaticBlockTheme01_05_2"",
+    angle = 4.29153E-6,
+    definition = ""StaticBlockTheme01_05""
+  },
+  LightBlock2_8 = {
+    y = -12.6233,
+    x = 61.9649,
+    name = ""LightBlock2_8"",
+    angle = 1.5708,
+    definition = ""LightBlock2""
+  },
+  WoodBlock4_3 = {
+    y = -10.2149,
+    x = 57.5339,
+    name = ""WoodBlock4_3"",
+    angle = 0.0084686,
+    definition = ""WoodBlock4""
+  },
+  LightBlock2_7 = {
+    y = -12.6233,
+    x = 62.9055,
+    name = ""LightBlock2_7"",
+    angle = 1.5708,
+    definition = ""LightBlock2""
+  },
+  WoodBlock4_2 = {
+    y = -11.8557,
+    x = 55.1473,
+    name = ""WoodBlock4_2"",
+    angle = 1.5708,
+    definition = ""WoodBlock4""
+  },
+  SmallBlueBird_1 = {
+    y = -0.64349,
+    x = -16.3458,
+    name = ""SmallBlueBird_1"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  SmallPiglette_1 = {
+    y = -18.9232,
+    x = 58.0115,
+    name = ""SmallPiglette_1"",
+    angle = 0.00778509,
+    definition = ""SmallPiglette""
+  },
+  StoneBlock5_3 = {
+    y = -10.6817,
+    x = 52.5291,
+    name = ""StoneBlock5_3"",
+    angle = 9.72158E-4,
+    definition = ""StoneBlock5""
+  },
+  LightBlock5_1 = {
+    y = -18.7856,
+    x = 60.3501,
+    name = ""LightBlock5_1"",
+    angle = 1.57293,
+    definition = ""LightBlock5""
+  }
+}"
+Create an angry birds level.,"a glass pillar, then a tower, then a glass pillar placed on a hill. theres one large pig under the tower, inside the ground.","world = {
+  LightBlock5_4 = {
+    y = -11.3394,
+    x = 75.4676,
+    name = ""LightBlock5_4"",
+    angle = 0.00238954,
+    definition = ""LightBlock5""
+  },
+  WoodBlock3_4 = {
+    y = -16.5722,
+    x = 58.43,
+    name = ""WoodBlock3_4"",
+    angle = 2.72576E-4,
+    definition = ""WoodBlock3""
+  },
+  StoneBlock3_5 = {
+    y = -17.0549,
+    x = 91.6688,
+    name = ""StoneBlock3_5"",
+    angle = 0.0132425,
+    definition = ""StoneBlock3""
+  },
+  LightBlock3_4 = {
+    y = -16.4854,
+    x = 70.393,
+    name = ""LightBlock3_4"",
+    angle = 0.00154603,
+    definition = ""LightBlock3""
+  },
+  StaticBlockTheme01_04_2 = {
+    y = -0.37,
+    x = 88.3226,
+    name = ""StaticBlockTheme01_04_2"",
+    angle = 4.29153E-6,
+    definition = ""StaticBlockTheme01_04""
+  },
+  LightBlock5_2 = {
+    y = -7.28,
+    x = 71.3013,
+    name = ""LightBlock5_2"",
+    angle = 4.22596E-4,
+    definition = ""LightBlock5""
+  },
+  ground = {
+    y = 5,
+    x = 37.9458,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  LightBlock5_5 = {
+    y = -5.5533,
+    x = 58.4577,
+    name = ""LightBlock5_5"",
+    angle = 6.28038,
+    definition = ""LightBlock5""
+  },
+  LightBlock3_8 = {
+    y = -16.6347,
+    x = 61.615,
+    name = ""LightBlock3_8"",
+    angle = 0.00154603,
+    definition = ""LightBlock3""
+  },
+  LightBlock5_3 = {
+    y = -5.9046,
+    x = 88.6031,
+    name = ""LightBlock5_3"",
+    angle = 0.00349912,
+    definition = ""LightBlock5""
+  },
+  WoodBlock3_1 = {
+    y = -7.27525,
+    x = 75.3549,
+    name = ""WoodBlock3_1"",
+    angle = 2.72576E-4,
+    definition = ""WoodBlock3""
+  },
+  LightBlock3_3 = {
+    y = -13.3812,
+    x = 70.466,
+    name = ""LightBlock3_3"",
+    angle = 0.0011775,
+    definition = ""LightBlock3""
+  },
+  MediumPiglette_1 = {
+    y = -1.83217,
+    x = 73.8267,
+    name = ""MediumPiglette_1"",
+    angle = 0.0889147,
+    definition = ""MediumPiglette""
+  },
+  LightBlock6_4 = {
+    y = -15.4481,
+    x = 88.5944,
+    name = ""LightBlock6_4"",
+    angle = 0.00122582,
+    definition = ""LightBlock6""
+  },
+  StoneBlock5_2 = {
+    y = -7.9275,
+    x = 88.67,
+    name = ""StoneBlock5_2"",
+    angle = 0.00573848,
+    definition = ""StoneBlock5""
+  },
+  StaticBlockTheme01_05_1 = {
+    y = -0.23235,
+    x = 65.6747,
+    name = ""StaticBlockTheme01_05_1"",
+    angle = 1.30337E-6,
+    definition = ""StaticBlockTheme01_05""
+  },
+  LightBlock5_8 = {
+    y = -9.51514,
+    x = 58.4924,
+    name = ""LightBlock5_8"",
+    angle = 6.27356,
+    definition = ""LightBlock5""
+  },
+  LightBlock6_1 = {
+    y = -5.73397,
+    x = 73.5821,
+    name = ""LightBlock6_1"",
+    angle = 0.00122582,
+    definition = ""LightBlock6""
+  },
+  LightBlock5_1 = {
+    y = -11.6103,
+    x = 58.5546,
+    name = ""LightBlock5_1"",
+    angle = 6.27356,
+    definition = ""LightBlock5""
+  },
+  WoodBlock5_5 = {
+    y = -3.88178,
+    x = 88.5886,
+    name = ""WoodBlock5_5"",
+    angle = 0.00104778,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_1 = {
+    y = -14.0001,
+    x = 88.5857,
+    name = ""WoodBlock5_1"",
+    angle = 0.0112956,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_2 = {
+    y = -3.5355,
+    x = 58.3481,
+    name = ""WoodBlock5_2"",
+    angle = 6.28243,
+    definition = ""WoodBlock5""
+  },
+  StaticBlockTheme01_04_1 = {
+    y = -0.026648,
+    x = 58.6858,
+    name = ""StaticBlockTheme01_04_1"",
+    angle = 4.29153E-6,
+    definition = ""StaticBlockTheme01_04""
+  },
+  SmallBlueBird_5 = {
+    y = -0.86706,
+    x = -14.1782,
+    name = ""SmallBlueBird_5"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  LightBlock5_7 = {
+    y = -11.3463,
+    x = 71.3303,
+    name = ""LightBlock5_7"",
+    angle = 8.73994E-4,
+    definition = ""LightBlock5""
+  },
+  LightBlock3_7 = {
+    y = -9.32777,
+    x = 70.4208,
+    name = ""LightBlock3_7"",
+    angle = 0.00234933,
+    definition = ""LightBlock3""
+  },
+  StoneBlock5_3 = {
+    y = -7.57106,
+    x = 58.4776,
+    name = ""StoneBlock5_3"",
+    angle = 6.27805,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock5_3 = {
+    y = -9.9508,
+    x = 88.7791,
+    name = ""WoodBlock5_3"",
+    angle = 0.0077593,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock3_3 = {
+    y = -16.5722,
+    x = 55.1824,
+    name = ""WoodBlock3_3"",
+    angle = 2.72576E-4,
+    definition = ""WoodBlock3""
+  },
+  StoneBlock3_7 = {
+    y = -17.1352,
+    x = 85.2773,
+    name = ""StoneBlock3_7"",
+    angle = 0.0120011,
+    definition = ""StoneBlock3""
+  },
+  StaticBlockTheme01_05_2 = {
+    y = -0.23236,
+    x = 81.6551,
+    name = ""StaticBlockTheme01_05_2"",
+    angle = 1.30337E-6,
+    definition = ""StaticBlockTheme01_05""
+  },
+  SmallPiglette_2 = {
+    y = -6.29079,
+    x = 82.4394,
+    name = ""SmallPiglette_2"",
+    angle = 1.30184E-6,
+    definition = ""SmallPiglette""
+  },
+  LightBlock6_3 = {
+    y = -14.8487,
+    x = 73.6058,
+    name = ""LightBlock6_3"",
+    angle = 0.00122582,
+    definition = ""LightBlock6""
+  },
+  LightBlock3_1 = {
+    y = -16.4736,
+    x = 76.582,
+    name = ""LightBlock3_1"",
+    angle = 0.00239715,
+    definition = ""LightBlock3""
+  },
+  LightBlock3_6 = {
+    y = -9.3031,
+    x = 76.2719,
+    name = ""LightBlock3_6"",
+    angle = 0.00234933,
+    definition = ""LightBlock3""
+  },
+  StoneBlock3_6 = {
+    y = -17.0967,
+    x = 88.4609,
+    name = ""StoneBlock3_6"",
+    angle = 0.0124553,
+    definition = ""StoneBlock3""
+  },
+  LightBlock6_2 = {
+    y = -15.1358,
+    x = 58.43,
+    name = ""LightBlock6_2"",
+    angle = 0.00122582,
+    definition = ""LightBlock6""
+  },
+  SmallBlueBird_2 = {
+    y = -0.844643,
+    x = -19.8308,
+    name = ""SmallBlueBird_2"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  WoodBlock5_7 = {
+    y = -13.633,
+    x = 58.5597,
+    name = ""WoodBlock5_7"",
+    angle = 6.27134,
+    definition = ""WoodBlock5""
+  },
+  LightBlock5_6 = {
+    y = -11.9757,
+    x = 88.7399,
+    name = ""LightBlock5_6"",
+    angle = 0.00958193,
+    definition = ""LightBlock5""
+  },
+  SmallBlueBird_4 = {
+    y = -0.786405,
+    x = -18.5209,
+    name = ""SmallBlueBird_4"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  SmallBlueBird_1 = {
+    y = -0.807049,
+    x = -17.2358,
+    name = ""SmallBlueBird_1"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  SmallPiglette_1 = {
+    y = -6.25735,
+    x = 65.2825,
+    name = ""SmallPiglette_1"",
+    angle = 1.30337E-6,
+    definition = ""SmallPiglette""
+  },
+  LightBlock3_5 = {
+    y = -16.4796,
+    x = 73.5397,
+    name = ""LightBlock3_5"",
+    angle = 0.0017973,
+    definition = ""LightBlock3""
+  },
+  WoodBlock3_2 = {
+    y = -13.3872,
+    x = 76.4786,
+    name = ""WoodBlock3_2"",
+    angle = 2.72576E-4,
+    definition = ""WoodBlock3""
+  }
+}"
+Create an angry birds level.,"a large staircase glass structure on the ground, with 3 pigs on the bottom.","world = {
+  LightBlock4_16 = {
+    y = -10.109,
+    x = 81.1914,
+    name = ""LightBlock4_16"",
+    angle = 4.71239,
+    definition = ""LightBlock4""
+  },
+  LightBlock4_17 = {
+    y = -10.1472,
+    x = 85.1227,
+    name = ""LightBlock4_17"",
+    angle = 4.71239,
+    definition = ""LightBlock4""
+  },
+  StoneBlock4_1 = {
+    y = -5.14221,
+    x = 86.747,
+    name = ""StoneBlock4_1"",
+    angle = 1.55972,
+    definition = ""StoneBlock4""
+  },
+  LightBlock4_10 = {
+    y = -20.2189,
+    x = 77.638,
+    name = ""LightBlock4_10"",
+    angle = 4.72358,
+    definition = ""LightBlock4""
+  },
+  StaticBlockTheme01_04_2 = {
+    y = 0.281577,
+    x = 88.6139,
+    name = ""StaticBlockTheme01_04_2"",
+    angle = 3.92697,
+    definition = ""StaticBlockTheme01_04""
+  },
+  LightBlock4_14 = {
+    y = -10.1472,
+    x = 77.0692,
+    name = ""LightBlock4_14"",
+    angle = 4.71239,
+    definition = ""LightBlock4""
+  },
+  LightBlock5_2 = {
+    y = -10.2376,
+    x = 75.1695,
+    name = ""LightBlock5_2"",
+    angle = 1.57076,
+    definition = ""LightBlock5""
+  },
+  ground = {
+    y = 5,
+    x = 40.9278,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  LightBlock4_15 = {
+    y = -10.1472,
+    x = 73.2906,
+    name = ""LightBlock4_15"",
+    angle = 4.71239,
+    definition = ""LightBlock4""
+  },
+  LightBlock4_5 = {
+    y = -15.1723,
+    x = 79.4187,
+    name = ""LightBlock4_5"",
+    angle = 4.7181,
+    definition = ""LightBlock4""
+  },
+  SmallBlueBird_3 = {
+    y = -0.62187,
+    x = -5.79065,
+    name = ""SmallBlueBird_3"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  LightBlock3_3 = {
+    y = -19.2408,
+    x = 79.4727,
+    name = ""LightBlock3_3"",
+    angle = 0.00301973,
+    definition = ""LightBlock3""
+  },
+  WoodBlock4_4 = {
+    y = -5.09583,
+    x = 74.5177,
+    name = ""WoodBlock4_4"",
+    angle = 1.57107,
+    definition = ""WoodBlock4""
+  },
+  SmallBlueBird_2 = {
+    y = -1.02657,
+    x = -9.14122,
+    name = ""SmallBlueBird_2"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  StaticBlockTheme01_05_1 = {
+    y = 1.8502,
+    x = 74.6924,
+    name = ""StaticBlockTheme01_05_1"",
+    angle = 3.14156,
+    definition = ""StaticBlockTheme01_05""
+  },
+  LightBlock3_2 = {
+    y = -14.227,
+    x = 77.4661,
+    name = ""LightBlock3_2"",
+    angle = 0.012458,
+    definition = ""LightBlock3""
+  },
+  LightBlock4_19 = {
+    y = -7.63196,
+    x = 84.9033,
+    name = ""LightBlock4_19"",
+    angle = 3.14159,
+    definition = ""LightBlock4""
+  },
+  LightBlock4_20 = {
+    y = -5.07087,
+    x = 78.788,
+    name = ""LightBlock4_20"",
+    angle = 1.57107,
+    definition = ""LightBlock4""
+  },
+  SmallPiglette_2 = {
+    y = -4.18898,
+    x = 80.6849,
+    name = ""SmallPiglette_2"",
+    angle = 6.28314,
+    definition = ""SmallPiglette""
+  },
+  LightBlock4_6 = {
+    y = -15.2046,
+    x = 75.7035,
+    name = ""LightBlock4_6"",
+    angle = 1.58864,
+    definition = ""LightBlock4""
+  },
+  LightBlock4_4 = {
+    y = -17.698,
+    x = 81.5229,
+    name = ""LightBlock4_4"",
+    angle = 6.2747,
+    definition = ""LightBlock4""
+  },
+  LightBlock4_22 = {
+    y = -7.52742,
+    x = 76.7496,
+    name = ""LightBlock4_22"",
+    angle = 3.14159,
+    definition = ""LightBlock4""
+  },
+  SmallPiglette_1 = {
+    y = -4.18898,
+    x = 76.5045,
+    name = ""SmallPiglette_1"",
+    angle = 6.28316,
+    definition = ""SmallPiglette""
+  },
+  StaticBlockTheme01_04_1 = {
+    y = 0.379617,
+    x = 69.8885,
+    name = ""StaticBlockTheme01_04_1"",
+    angle = 3.92697,
+    definition = ""StaticBlockTheme01_04""
+  },
+  StoneBlock4_2 = {
+    y = -5.10828,
+    x = 70.7604,
+    name = ""StoneBlock4_2"",
+    angle = 1.58432,
+    definition = ""StoneBlock4""
+  },
+  WoodBlock4_8 = {
+    y = -5.21929,
+    x = 82.8511,
+    name = ""WoodBlock4_8"",
+    angle = 1.57107,
+    definition = ""WoodBlock4""
+  },
+  LightBlock4_3 = {
+    y = -20.2119,
+    x = 81.1963,
+    name = ""LightBlock4_3"",
+    angle = 4.70416,
+    definition = ""LightBlock4""
+  },
+  RedBird_1 = {
+    y = -1.22541,
+    x = -11.0004,
+    name = ""RedBird_1"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  LightBlock4_12 = {
+    y = -12.7044,
+    x = 79.2066,
+    name = ""LightBlock4_12"",
+    angle = 3.14159,
+    definition = ""LightBlock4""
+  },
+  LightBlock4_1 = {
+    y = -22.7311,
+    x = 79.4438,
+    name = ""LightBlock4_1"",
+    angle = 3.1436,
+    definition = ""LightBlock4""
+  },
+  LightBlock4_23 = {
+    y = -7.52742,
+    x = 72.6728,
+    name = ""LightBlock4_23"",
+    angle = 3.14159,
+    definition = ""LightBlock4""
+  },
+  LightBlock3_1 = {
+    y = -14.2245,
+    x = 81.4174,
+    name = ""LightBlock3_1"",
+    angle = 6.28033,
+    definition = ""LightBlock3""
+  },
+  LightBlock4_11 = {
+    y = -12.7426,
+    x = 75.1227,
+    name = ""LightBlock4_11"",
+    angle = 3.14159,
+    definition = ""LightBlock4""
+  },
+  LightBlock4_2 = {
+    y = -17.7033,
+    x = 77.506,
+    name = ""LightBlock4_2"",
+    angle = 0.00949275,
+    definition = ""LightBlock4""
+  },
+  LightBlock4_7 = {
+    y = -5.12043,
+    x = 72.7409,
+    name = ""LightBlock4_7"",
+    angle = 1.57107,
+    definition = ""LightBlock4""
+  },
+  LightBlock4_13 = {
+    y = -12.6662,
+    x = 83.3288,
+    name = ""LightBlock4_13"",
+    angle = 3.14159,
+    definition = ""LightBlock4""
+  },
+  StaticBlockTheme01_05_2 = {
+    y = 1.80742,
+    x = 84.0061,
+    name = ""StaticBlockTheme01_05_2"",
+    angle = 3.14156,
+    definition = ""StaticBlockTheme01_05""
+  },
+  SmallPiglette_3 = {
+    y = -9.26285,
+    x = 79.0984,
+    name = ""SmallPiglette_3"",
+    angle = 6.28011,
+    definition = ""SmallPiglette""
+  },
+  LightBlock4_21 = {
+    y = -7.57969,
+    x = 80.7742,
+    name = ""LightBlock4_21"",
+    angle = 3.14159,
+    definition = ""LightBlock4""
+  },
+  SmallBlueBird_1 = {
+    y = -1.04351,
+    x = -7.59666,
+    name = ""SmallBlueBird_1"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  LightBlock4_8 = {
+    y = -15.2038,
+    x = 83.5278,
+    name = ""LightBlock4_8"",
+    angle = 1.54654,
+    definition = ""LightBlock4""
+  },
+  LightBlock4_9 = {
+    y = -5.16994,
+    x = 84.8202,
+    name = ""LightBlock4_9"",
+    angle = 1.57107,
+    definition = ""LightBlock4""
+  },
+  LightBlock5_1 = {
+    y = -10.1557,
+    x = 83.3662,
+    name = ""LightBlock5_1"",
+    angle = 1.57076,
+    definition = ""LightBlock5""
+  }
+}"
+Create an angry birds level.,"staircase ground. theres 4 pigs, one on each step, barrackaded with tons of wood blocks","world = {
+  WoodBlock5_13 = {
+    y = -18.7226,
+    x = -6.70572,
+    name = ""WoodBlock5_13"",
+    angle = 0.296853,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_16 = {
+    y = -7.10848,
+    x = -15.6087,
+    name = ""WoodBlock5_16"",
+    angle = 3.29327,
+    definition = ""WoodBlock5""
+  },
+  YellowBird_6 = {
+    y = -1.11859,
+    x = -96.2815,
+    name = ""YellowBird_6"",
+    startNumber = 5,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  StaticBlockTheme02_04_2 = {
+    y = -10.8283,
+    x = -1.48707,
+    name = ""StaticBlockTheme02_04_2"",
+    angle = 1.57109,
+    definition = ""StaticBlockTheme01_04""
+  },
+  WoodBlock5_10 = {
+    y = -17.3666,
+    x = -9.93167,
+    name = ""WoodBlock5_10"",
+    angle = 3.32538,
+    definition = ""WoodBlock5""
+  },
+  SmallPiglette_4 = {
+    y = -10.246,
+    x = -5.04755,
+    name = ""SmallPiglette_4"",
+    angle = 0.0895994,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock5_12 = {
+    y = -6.4873,
+    x = -12.3865,
+    name = ""WoodBlock5_12"",
+    angle = 4.71547,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_1 = {
+    y = -23.3243,
+    x = -1.47654,
+    name = ""WoodBlock5_1"",
+    angle = 4.76306,
+    definition = ""WoodBlock5""
+  },
+  SmallPiglette_2 = {
+    y = -5.58715,
+    x = -10.1124,
+    name = ""SmallPiglette_2"",
+    angle = 6.27344,
+    definition = ""SmallPiglette""
+  },
+  YellowBird_5 = {
+    y = -1.10472,
+    x = -93.7003,
+    name = ""YellowBird_5"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  WoodBlock5_9 = {
+    y = -9.42218,
+    x = -11.058,
+    name = ""WoodBlock5_9"",
+    angle = 0.18313,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_18 = {
+    y = -2.06938,
+    x = -19.0407,
+    name = ""WoodBlock5_18"",
+    angle = 4.70708,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_8 = {
+    y = -5.08098,
+    x = -15.8227,
+    name = ""WoodBlock5_8"",
+    angle = 3.29292,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_7 = {
+    y = -11.171,
+    x = -7.12388,
+    name = ""WoodBlock5_7"",
+    angle = 4.71542,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_20 = {
+    y = -16.1955,
+    x = -5.96409,
+    name = ""WoodBlock5_20"",
+    angle = 3.17271,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_14 = {
+    y = -15.3389,
+    x = -2.98772,
+    name = ""WoodBlock5_14"",
+    angle = 1.6018,
+    definition = ""WoodBlock5""
+  },
+  StaticBlockTheme01_05_4 = {
+    y = -32.8848,
+    x = 5.65998,
+    name = ""StaticBlockTheme01_05_4"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme01_05""
+  },
+  YellowBird_1 = {
+    y = -1.25523,
+    x = -88.561,
+    name = ""YellowBird_1"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  WoodBlock5_17 = {
+    y = -9.9427,
+    x = -14.1592,
+    name = ""WoodBlock5_17"",
+    angle = 4.87989,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_3 = {
+    y = -20.3347,
+    x = -1.79568,
+    name = ""WoodBlock5_3"",
+    angle = 0.0499255,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_19 = {
+    y = -2.06773,
+    x = -16.9547,
+    name = ""WoodBlock5_19"",
+    angle = 1.5721,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_15 = {
+    y = -11.402,
+    x = -10.666,
+    name = ""WoodBlock5_15"",
+    angle = 3.32385,
+    definition = ""WoodBlock5""
+  },
+  StaticBlockTheme01_05_2 = {
+    y = -14.0904,
+    x = 5.67791,
+    name = ""StaticBlockTheme01_05_2"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme01_05""
+  },
+  SmallPiglette_3 = {
+    y = -1.11286,
+    x = -14.8406,
+    name = ""SmallPiglette_3"",
+    angle = 0.165689,
+    definition = ""SmallPiglette""
+  },
+  StaticBlockTheme02_05_1 = {
+    y = -4.26008,
+    x = -4.07723,
+    name = ""StaticBlockTheme02_05_1"",
+    angle = 1.57109,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock5_6 = {
+    y = -14.1663,
+    x = -6.12607,
+    name = ""WoodBlock5_6"",
+    angle = 3.17264,
+    definition = ""WoodBlock5""
+  },
+  StaticBlockTheme01_05_3 = {
+    y = -23.5456,
+    x = 5.64597,
+    name = ""StaticBlockTheme01_05_3"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme01_05""
+  },
+  StaticBlockTheme01_05_1 = {
+    y = -4.5182,
+    x = 5.5782,
+    name = ""StaticBlockTheme01_05_1"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme01_05""
+  },
+  StaticBlockTheme02_04_1 = {
+    y = -2.00656,
+    x = -11.2603,
+    name = ""StaticBlockTheme02_04_1"",
+    angle = 1.57109,
+    definition = ""StaticBlockTheme01_04""
+  },
+  YellowBird_2 = {
+    y = -1.20964,
+    x = -91.0706,
+    name = ""YellowBird_2"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  WoodBlock5_4 = {
+    y = -14.5679,
+    x = -11.3034,
+    name = ""WoodBlock5_4"",
+    angle = 1.75246,
+    definition = ""WoodBlock5""
+  },
+  YellowBird_4 = {
+    y = -1.00285,
+    x = -85.833,
+    name = ""YellowBird_4"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  WoodBlock5_2 = {
+    y = -21.6081,
+    x = -5.45201,
+    name = ""WoodBlock5_2"",
+    angle = 5.7671,
+    definition = ""WoodBlock5""
+  },
+  ground = {
+    y = 5,
+    x = -40.8518,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  SmallPiglette_1 = {
+    y = -14.4176,
+    x = -0.5718,
+    name = ""SmallPiglette_1"",
+    angle = 0.00225902,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock5_11 = {
+    y = -18.2912,
+    x = -1.63312,
+    name = ""WoodBlock5_11"",
+    angle = 3.19161,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_5 = {
+    y = -14.1992,
+    x = -9.30249,
+    name = ""WoodBlock5_5"",
+    angle = 1.75218,
+    definition = ""WoodBlock5""
+  }
+}"
+Create an angry birds level.,"wooden 2x2 tower, accomodating 4 pigs and located on some ground. player controls five yellow birds","world = {
+  WoodBlock3_6 = {
+    y = -11.4619,
+    x = 46.3667,
+    name = ""WoodBlock3_6"",
+    angle = 3.16103,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock3_4 = {
+    y = -17.6738,
+    x = 46.124,
+    name = ""WoodBlock3_4"",
+    angle = 0.00662026,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock5_4 = {
+    y = -8.30554,
+    x = 45.6771,
+    name = ""WoodBlock5_4"",
+    angle = 3.14121,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock6_7 = {
+    y = -9.9826,
+    x = 43.1922,
+    name = ""WoodBlock6_7"",
+    angle = 3.16417,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_5 = {
+    y = -15.114,
+    x = 34.8182,
+    name = ""WoodBlock6_5"",
+    angle = 0.00274215,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_2 = {
+    y = -10.0215,
+    x = 34.8549,
+    name = ""WoodBlock6_2"",
+    angle = 3.1282,
+    definition = ""WoodBlock6""
+  },
+  ground = {
+    y = 5,
+    x = -7.2202,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  WoodBlock3_8 = {
+    y = -13.4967,
+    x = 46.3027,
+    name = ""WoodBlock3_8"",
+    angle = 3.15826,
+    definition = ""WoodBlock3""
+  },
+  MediumPiglette_2 = {
+    y = -12.3763,
+    x = 34.5169,
+    name = ""MediumPiglette_2"",
+    angle = 6.17951,
+    definition = ""MediumPiglette""
+  },
+  WoodBlock5_1 = {
+    y = -5.4003,
+    x = 33.42,
+    name = ""WoodBlock5_1"",
+    angle = 4.71286,
+    definition = ""WoodBlock5""
+  },
+  SmallPiglette_2 = {
+    y = -4.40513,
+    x = 41.7263,
+    name = ""SmallPiglette_2"",
+    angle = 5.72717E-4,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock4_1 = {
+    y = -12.5865,
+    x = 38.4475,
+    name = ""WoodBlock4_1"",
+    angle = 4.70813,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock3_7 = {
+    y = -17.7414,
+    x = 31.4229,
+    name = ""WoodBlock3_7"",
+    angle = 0.00263542,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock6_4 = {
+    y = -15.076,
+    x = 43.0748,
+    name = ""WoodBlock6_4"",
+    angle = 0.00646752,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_6 = {
+    y = -8.95188,
+    x = 39.1047,
+    name = ""WoodBlock6_6"",
+    angle = 0.00465205,
+    definition = ""WoodBlock6""
+  },
+  MediumPiglette_1 = {
+    y = -12.3376,
+    x = 43.4097,
+    name = ""MediumPiglette_1"",
+    angle = 0.0458939,
+    definition = ""MediumPiglette""
+  },
+  WoodBlock5_7 = {
+    y = -8.40304,
+    x = 32.3943,
+    name = ""WoodBlock5_7"",
+    angle = 2.42822E-5,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock6_3 = {
+    y = -16.1407,
+    x = 43.1285,
+    name = ""WoodBlock6_3"",
+    angle = 0.00646598,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock3_5 = {
+    y = -17.6967,
+    x = 42.5738,
+    name = ""WoodBlock3_5"",
+    angle = 0.00639655,
+    definition = ""WoodBlock3""
+  },
+  YellowBird_1 = {
+    y = -4.07399,
+    x = -47.0899,
+    name = ""YellowBird_1"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  StaticBlockTheme02_05_1 = {
+    y = 1.7174,
+    x = -48.8447,
+    name = ""StaticBlockTheme02_05_1"",
+    angle = 2.90394E-4,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock4_2 = {
+    y = -12.5812,
+    x = 39.5436,
+    name = ""WoodBlock4_2"",
+    angle = 4.72193,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock3_2 = {
+    y = -17.7308,
+    x = 35.067,
+    name = ""WoodBlock3_2"",
+    angle = 0.00292375,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock5_3 = {
+    y = -5.30203,
+    x = 44.5263,
+    name = ""WoodBlock5_3"",
+    angle = 1.57167,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock3_3 = {
+    y = -11.5289,
+    x = 31.6343,
+    name = ""WoodBlock3_3"",
+    angle = 3.12996,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock5_2 = {
+    y = -5.39503,
+    x = 39.1265,
+    name = ""WoodBlock5_2"",
+    angle = 1.57307,
+    definition = ""WoodBlock5""
+  },
+  StaticBlockTheme01_04_1 = {
+    y = 0.264566,
+    x = -43.9625,
+    name = ""StaticBlockTheme01_04_1"",
+    angle = 2.35619,
+    definition = ""StaticBlockTheme01_04""
+  },
+  YellowBird_5 = {
+    y = -4.02026,
+    x = -58.9373,
+    name = ""YellowBird_5"",
+    startNumber = 5,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  StaticBlockTheme02_05_2 = {
+    y = 1.75545,
+    x = -58.3079,
+    name = ""StaticBlockTheme02_05_2"",
+    angle = 2.90394E-4,
+    definition = ""StaticBlockTheme01_05""
+  },
+  YellowBird_3 = {
+    y = -4.04002,
+    x = -53.8641,
+    name = ""YellowBird_3"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  WoodBlock5_6 = {
+    y = -5.40075,
+    x = 31.2913,
+    name = ""WoodBlock5_6"",
+    angle = 4.71268,
+    definition = ""WoodBlock5""
+  },
+  StaticBlockTheme02_05_4 = {
+    y = 1.65732,
+    x = 43.8675,
+    name = ""StaticBlockTheme02_05_4"",
+    angle = 2.90394E-4,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock6_1 = {
+    y = -7.90655,
+    x = 39.0408,
+    name = ""WoodBlock6_1"",
+    angle = 0.00425222,
+    definition = ""WoodBlock6""
+  },
+  YellowBird_2 = {
+    y = -4.10209,
+    x = -51.4354,
+    name = ""YellowBird_2"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  WoodBlock3_1 = {
+    y = -13.562,
+    x = 31.5809,
+    name = ""WoodBlock3_1"",
+    angle = 3.13201,
+    definition = ""WoodBlock3""
+  },
+  YellowBird_4 = {
+    y = -3.9934,
+    x = -56.3735,
+    name = ""YellowBird_4"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  WoodBlock6_8 = {
+    y = -16.1794,
+    x = 34.7707,
+    name = ""WoodBlock6_8"",
+    angle = 0.00282518,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock3_9 = {
+    y = -17.72,
+    x = 38.7556,
+    name = ""WoodBlock3_9"",
+    angle = 0.00360902,
+    definition = ""WoodBlock3""
+  },
+  SmallPiglette_1 = {
+    y = -4.46465,
+    x = 36.2262,
+    name = ""SmallPiglette_1"",
+    angle = 5.14377E-4,
+    definition = ""SmallPiglette""
+  },
+  StaticBlockTheme02_05_3 = {
+    y = 1.55928,
+    x = 34.8479,
+    name = ""StaticBlockTheme02_05_3"",
+    angle = 2.90394E-4,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock5_5 = {
+    y = -5.30219,
+    x = 46.6758,
+    name = ""WoodBlock5_5"",
+    angle = 1.57003,
+    definition = ""WoodBlock5""
+  }
+}"
+Create an angry birds level.,"big pig on a hill, barrackaded with lots of wood and glass blocks","world = {
+  LightBlock1_5 = {
+    y = -13.5206,
+    x = 88.268,
+    name = ""LightBlock1_5"",
+    angle = 1.75503,
+    definition = ""LightBlock1""
+  },
+  LightBlock1_4 = {
+    y = -11.159,
+    x = 85.5299,
+    name = ""LightBlock1_4"",
+    angle = 1.80297,
+    definition = ""LightBlock1""
+  },
+  StaticBlockTheme02_04_2 = {
+    y = -8.68467,
+    x = 93.7073,
+    name = ""StaticBlockTheme02_04_2"",
+    angle = 4.71239,
+    definition = ""StaticBlockTheme01_04""
+  },
+  StaticBlockTheme02_05_2 = {
+    y = -4.27526,
+    x = 91.204,
+    name = ""StaticBlockTheme02_05_2"",
+    angle = 3.927,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock6_7 = {
+    y = -13.6695,
+    x = 79.2757,
+    name = ""WoodBlock6_7"",
+    angle = 4.77598,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_5 = {
+    y = -12.7351,
+    x = 82.8686,
+    name = ""WoodBlock6_5"",
+    angle = 5.53939,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_2 = {
+    y = -8.59905,
+    x = 74.4863,
+    name = ""WoodBlock6_2"",
+    angle = 1.51335,
+    definition = ""WoodBlock6""
+  },
+  ground = {
+    y = 5,
+    x = 48.9934,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  LightBlock1_3 = {
+    y = -13.7882,
+    x = 86.8016,
+    name = ""LightBlock1_3"",
+    angle = 1.75068,
+    definition = ""LightBlock1""
+  },
+  WoodBlock2_2 = {
+    y = -16.7779,
+    x = 77.3892,
+    name = ""WoodBlock2_2"",
+    angle = 4.28931,
+    definition = ""WoodBlock2""
+  },
+  WoodBlock4_1 = {
+    y = -14.8287,
+    x = 76.837,
+    name = ""WoodBlock4_1"",
+    angle = 2.71916,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock4_3 = {
+    y = -6.69891,
+    x = 82.6327,
+    name = ""WoodBlock4_3"",
+    angle = 1.5699,
+    definition = ""WoodBlock4""
+  },
+  LightBlock3_5 = {
+    y = -7.46854,
+    x = 72.9957,
+    name = ""LightBlock3_5"",
+    angle = 1.51377,
+    definition = ""LightBlock3""
+  },
+  WoodBlock6_4 = {
+    y = -12.3975,
+    x = 88.3549,
+    name = ""WoodBlock6_4"",
+    angle = 0.180417,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_6 = {
+    y = -12.809,
+    x = 75.247,
+    name = ""WoodBlock6_6"",
+    angle = 3.92357,
+    definition = ""WoodBlock6""
+  },
+  MediumPiglette_1 = {
+    y = -6.45963,
+    x = 78.6345,
+    name = ""MediumPiglette_1"",
+    angle = 1.0403E-5,
+    definition = ""MediumPiglette""
+  },
+  WoodBlock4_5 = {
+    y = -6.62464,
+    x = 75.7649,
+    name = ""WoodBlock4_5"",
+    angle = 1.56663,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock4_4 = {
+    y = -12.6688,
+    x = 72.0226,
+    name = ""WoodBlock4_4"",
+    angle = 4.79029,
+    definition = ""WoodBlock4""
+  },
+  LightBlock1_2 = {
+    y = -16.1464,
+    x = 80.8074,
+    name = ""LightBlock1_2"",
+    angle = 1.62428,
+    definition = ""LightBlock1""
+  },
+  LightBlock6_4 = {
+    y = -14.3935,
+    x = 70.6829,
+    name = ""LightBlock6_4"",
+    angle = 2.26373,
+    definition = ""LightBlock6""
+  },
+  LightBlock3_1 = {
+    y = -13.4864,
+    x = 80.8123,
+    name = ""LightBlock3_1"",
+    angle = 1.6328,
+    definition = ""LightBlock3""
+  },
+  LightBlock3_3 = {
+    y = -13.1301,
+    x = 77.6916,
+    name = ""LightBlock3_3"",
+    angle = 1.63321,
+    definition = ""LightBlock3""
+  },
+  LightBlock3_2 = {
+    y = -5.68292,
+    x = 66.7377,
+    name = ""LightBlock3_2"",
+    angle = 1.5708,
+    definition = ""LightBlock3""
+  },
+  LightBlock6_1 = {
+    y = -8.49734,
+    x = 65.7981,
+    name = ""LightBlock6_1"",
+    angle = 5.0701,
+    definition = ""LightBlock6""
+  },
+  LightBlock1_1 = {
+    y = -10.0316,
+    x = 86.2608,
+    name = ""LightBlock1_1"",
+    angle = 1.15093,
+    definition = ""LightBlock1""
+  },
+  WoodBlock6_3 = {
+    y = -8.66567,
+    x = 83.8568,
+    name = ""WoodBlock6_3"",
+    angle = 1.61056,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock4_8 = {
+    y = -6.63395,
+    x = 68.3838,
+    name = ""WoodBlock4_8"",
+    angle = 1.58757,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock6_8 = {
+    y = -8.02434,
+    x = 70.0621,
+    name = ""WoodBlock6_8"",
+    angle = 0.897815,
+    definition = ""WoodBlock6""
+  },
+  StaticBlockTheme02_05_3 = {
+    y = 0.257982,
+    x = 86.2466,
+    name = ""StaticBlockTheme02_05_3"",
+    angle = 3.1416,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock6_1 = {
+    y = -9.17153,
+    x = 79.1797,
+    name = ""WoodBlock6_1"",
+    angle = 6.27284,
+    definition = ""WoodBlock6""
+  },
+  StaticBlockTheme02_05_1 = {
+    y = 0.333078,
+    x = 78.1198,
+    name = ""StaticBlockTheme02_05_1"",
+    angle = 3.1416,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock4_2 = {
+    y = -14.9928,
+    x = 81.9295,
+    name = ""WoodBlock4_2"",
+    angle = 3.19818,
+    definition = ""WoodBlock4""
+  },
+  StaticBlockTheme02_04_1 = {
+    y = -0.085948,
+    x = 64.0373,
+    name = ""StaticBlockTheme02_04_1"",
+    angle = 3.927,
+    definition = ""StaticBlockTheme01_04""
+  },
+  RedBird_1 = {
+    y = -1.09799,
+    x = -8.79204,
+    name = ""RedBird_1"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  StaticBlockTheme02_05_4 = {
+    y = 0.333078,
+    x = 68.7241,
+    name = ""StaticBlockTheme02_05_4"",
+    angle = 3.1416,
+    definition = ""StaticBlockTheme01_05""
+  },
+  LightBlock1_7 = {
+    y = -12.5269,
+    x = 70.7407,
+    name = ""LightBlock1_7"",
+    angle = 1.0049,
+    definition = ""LightBlock1""
+  },
+  StaticBlockTheme02_05_5 = {
+    y = 2.46639,
+    x = 97.9289,
+    name = ""StaticBlockTheme02_05_5"",
+    angle = 3.927,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock2_1 = {
+    y = -15.9029,
+    x = 75.4464,
+    name = ""WoodBlock2_1"",
+    angle = 4.28911,
+    definition = ""WoodBlock2""
+  },
+  LightBlock4_1 = {
+    y = -17.711,
+    x = 75.6811,
+    name = ""LightBlock4_1"",
+    angle = 2.71827,
+    definition = ""LightBlock4""
+  },
+  LightBlock6_3 = {
+    y = -14.273,
+    x = 89.4424,
+    name = ""LightBlock6_3"",
+    angle = 0.463103,
+    definition = ""LightBlock6""
+  },
+  LightBlock1_8 = {
+    y = -9.80793,
+    x = 88.6947,
+    name = ""LightBlock1_8"",
+    angle = 1.42201,
+    definition = ""LightBlock1""
+  },
+  LightBlock1_9 = {
+    y = -5.19025,
+    x = 69.9137,
+    name = ""LightBlock1_9"",
+    angle = 1.5708,
+    definition = ""LightBlock1""
+  },
+  WoodBlock4_9 = {
+    y = -8.61717,
+    x = 85.7216,
+    name = ""WoodBlock4_9"",
+    angle = 4.29299,
+    definition = ""WoodBlock4""
+  },
+  LightBlock6_2 = {
+    y = -17.4755,
+    x = 81.9668,
+    name = ""LightBlock6_2"",
+    angle = 3.46358,
+    definition = ""LightBlock6""
+  },
+  YellowBird_2 = {
+    y = -0.81579,
+    x = -3.97411,
+    name = ""YellowBird_2"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  YellowBird_1 = {
+    y = -0.851501,
+    x = -6.51629,
+    name = ""YellowBird_1"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  LightBlock3_4 = {
+    y = -10.6208,
+    x = 70.1307,
+    name = ""LightBlock3_4"",
+    angle = 2.52543,
+    definition = ""LightBlock3""
+  },
+  WoodBlock1_1 = {
+    y = -5.17937,
+    x = 73.5,
+    name = ""WoodBlock1_1"",
+    angle = 1.57611,
+    definition = ""WoodBlock1""
+  },
+  SmallBlueBird_1 = {
+    y = -0.65352,
+    x = -1.6734,
+    name = ""SmallBlueBird_1"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  WoodBlock4_7 = {
+    y = -9.81782,
+    x = 87.4963,
+    name = ""WoodBlock4_7"",
+    angle = 1.69021,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock4_6 = {
+    y = -9.70469,
+    x = 71.9628,
+    name = ""WoodBlock4_6"",
+    angle = 2.50834,
+    definition = ""WoodBlock4""
+  },
+  LightBlock1_6 = {
+    y = -10.2979,
+    x = 82.6753,
+    name = ""LightBlock1_6"",
+    angle = 1.56129,
+    definition = ""LightBlock1""
+  }
+}"
+Create an angry birds level.,one wooden tower consisting of 3 stories. it is supported in a stone structure.,"world = {
+  WoodBlock3_6 = {
+    y = -17.0964,
+    x = 65.5138,
+    name = ""WoodBlock3_6"",
+    angle = 3.14409,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock3_4 = {
+    y = -31.1654,
+    x = 70.0257,
+    name = ""WoodBlock3_4"",
+    angle = 3.14102,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock5_4 = {
+    y = -8.14561,
+    x = 76.4609,
+    name = ""WoodBlock5_4"",
+    angle = 6.28106,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock6_7 = {
+    y = -11.075,
+    x = 66.0526,
+    name = ""WoodBlock6_7"",
+    angle = 4.71371,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_5 = {
+    y = -11.0542,
+    x = 73.9031,
+    name = ""WoodBlock6_5"",
+    angle = 1.57015,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_2 = {
+    y = -20.0079,
+    x = 78.4504,
+    name = ""WoodBlock6_2"",
+    angle = 1.57317,
+    definition = ""WoodBlock6""
+  },
+  ground = {
+    y = 5,
+    x = 41.1113,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  WoodBlock3_8 = {
+    y = -26.0382,
+    x = 70.5543,
+    name = ""WoodBlock3_8"",
+    angle = 3.14037,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock6_9 = {
+    y = -11.0719,
+    x = 79.5779,
+    name = ""WoodBlock6_9"",
+    angle = 4.7107,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_16 = {
+    y = -11.056,
+    x = 72.8312,
+    name = ""WoodBlock6_16"",
+    angle = 1.57088,
+    definition = ""WoodBlock6""
+  },
+  SmallPiglette_2 = {
+    y = -10.2226,
+    x = 70.1282,
+    name = ""SmallPiglette_2"",
+    angle = 0.108925,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock6_8 = {
+    y = -15.5317,
+    x = 76.9822,
+    name = ""WoodBlock6_8"",
+    angle = 6.27939,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock3_7 = {
+    y = -17.0957,
+    x = 80.0011,
+    name = ""WoodBlock3_7"",
+    angle = 3.13879,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock3_1 = {
+    y = -26.0302,
+    x = 65.8051,
+    name = ""WoodBlock3_1"",
+    angle = 3.13607,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock6_6 = {
+    y = -20.0094,
+    x = 68.4655,
+    name = ""WoodBlock6_6"",
+    angle = 1.57301,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock3_9 = {
+    y = -28.0667,
+    x = 70.5283,
+    name = ""WoodBlock3_9"",
+    angle = 3.14149,
+    definition = ""WoodBlock3""
+  },
+  StoneBlock5_8 = {
+    y = -2.07252,
+    x = 66.5925,
+    name = ""StoneBlock5_8"",
+    angle = 4.71173,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock6_4 = {
+    y = -11.0721,
+    x = 80.6689,
+    name = ""WoodBlock6_4"",
+    angle = 4.71587,
+    definition = ""WoodBlock6""
+  },
+  StoneBlock5_2 = {
+    y = -2.06838,
+    x = 71.5237,
+    name = ""StoneBlock5_2"",
+    angle = 4.71485,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock5_1 = {
+    y = -21.9888,
+    x = 73.0866,
+    name = ""WoodBlock5_1"",
+    angle = 1.57266,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock3_11 = {
+    y = -26.0365,
+    x = 75.5852,
+    name = ""WoodBlock3_11"",
+    angle = 3.14361,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock6_11 = {
+    y = -20.0113,
+    x = 67.3868,
+    name = ""WoodBlock6_11"",
+    angle = 1.57068,
+    definition = ""WoodBlock6""
+  },
+  StoneBlock6_2 = {
+    y = -6.60004,
+    x = 68.7607,
+    name = ""StoneBlock6_2"",
+    angle = 3.14334,
+    definition = ""StoneBlock6""
+  },
+  WoodBlock6_3 = {
+    y = -24.4884,
+    x = 69.0578,
+    name = ""WoodBlock6_3"",
+    angle = 3.13814,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock3_5 = {
+    y = -26.0209,
+    x = 80.6263,
+    name = ""WoodBlock3_5"",
+    angle = 3.14667,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock6_10 = {
+    y = -20.0092,
+    x = 77.3805,
+    name = ""WoodBlock6_10"",
+    angle = 1.57316,
+    definition = ""WoodBlock6""
+  },
+  YellowBird_1 = {
+    y = -0.987741,
+    x = -2.94668,
+    name = ""YellowBird_1"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  StoneBlock6_1 = {
+    y = -6.59557,
+    x = 76.953,
+    name = ""StoneBlock6_1"",
+    angle = 3.13889,
+    definition = ""StoneBlock6""
+  },
+  StoneBlock5_5 = {
+    y = -5.05775,
+    x = 73.1723,
+    name = ""StoneBlock5_5"",
+    angle = 6.28308,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_6 = {
+    y = -2.06833,
+    x = 74.6335,
+    name = ""StoneBlock5_6"",
+    angle = 4.71007,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_7 = {
+    y = -5.06939,
+    x = 81.2982,
+    name = ""StoneBlock5_7"",
+    angle = 3.13789,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_3 = {
+    y = -2.07034,
+    x = 79.5505,
+    name = ""StoneBlock5_3"",
+    angle = 1.57201,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock5_3 = {
+    y = -8.15151,
+    x = 69.2405,
+    name = ""WoodBlock5_3"",
+    angle = 0.00210855,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock5_4 = {
+    y = -5.07013,
+    x = 64.9605,
+    name = ""StoneBlock5_4"",
+    angle = 0.00241142,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_9 = {
+    y = -2.07315,
+    x = 82.8808,
+    name = ""StoneBlock5_9"",
+    angle = 1.56964,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock6_13 = {
+    y = -11.0726,
+    x = 64.9069,
+    name = ""WoodBlock6_13"",
+    angle = 4.69756,
+    definition = ""WoodBlock6""
+  },
+  SmallPiglette_3 = {
+    y = -26.0525,
+    x = 73.1762,
+    name = ""SmallPiglette_3"",
+    angle = 0.117177,
+    definition = ""SmallPiglette""
+  },
+  StoneBlock5_1 = {
+    y = -2.0733,
+    x = 63.2483,
+    name = ""StoneBlock5_1"",
+    angle = 4.71319,
+    definition = ""StoneBlock5""
+  },
+  YellowBird_3 = {
+    y = -0.9715,
+    x = -5.37425,
+    name = ""YellowBird_3"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  WoodBlock6_14 = {
+    y = -24.4845,
+    x = 77.3249,
+    name = ""WoodBlock6_14"",
+    angle = 3.14616,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_12 = {
+    y = -11.0591,
+    x = 71.7615,
+    name = ""WoodBlock6_12"",
+    angle = 1.57094,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_1 = {
+    y = -15.5357,
+    x = 68.5588,
+    name = ""WoodBlock6_1"",
+    angle = 0.00407389,
+    definition = ""WoodBlock6""
+  },
+  YellowBird_2 = {
+    y = -1.1197,
+    x = -0.00857675,
+    name = ""YellowBird_2"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  WoodBlock3_3 = {
+    y = -17.0818,
+    x = 70.4491,
+    name = ""WoodBlock3_3"",
+    angle = 3.14481,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock6_15 = {
+    y = -29.6153,
+    x = 72.9726,
+    name = ""WoodBlock6_15"",
+    angle = 3.14182,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock5_2 = {
+    y = -18.0305,
+    x = 73.0081,
+    name = ""WoodBlock5_2"",
+    angle = 1.57359,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock3_10 = {
+    y = -28.066,
+    x = 75.6239,
+    name = ""WoodBlock3_10"",
+    angle = 3.1425,
+    definition = ""WoodBlock3""
+  },
+  SmallPiglette_1 = {
+    y = -10.2129,
+    x = 76.6042,
+    name = ""SmallPiglette_1"",
+    angle = 6.22537,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock3_12 = {
+    y = -17.0798,
+    x = 75.5124,
+    name = ""WoodBlock3_12"",
+    angle = 3.13825,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock3_2 = {
+    y = -31.164,
+    x = 76.2166,
+    name = ""WoodBlock3_2"",
+    angle = 3.14305,
+    definition = ""WoodBlock3""
+  }
+}"
+Create an angry birds level.,"one stone wagon, one wooden wagon with a pig in it, followed by 8 piggies","world = {
+  SmallPiglette_7 = {
+    y = -1.02,
+    x = 84.1548,
+    name = ""SmallPiglette_7"",
+    angle = 4.39167E-5,
+    definition = ""SmallPiglette""
+  },
+  StoneBlock4_3 = {
+    y = -10.6255,
+    x = 52.1584,
+    name = ""StoneBlock4_3"",
+    angle = 0.00432797,
+    definition = ""StoneBlock4""
+  },
+  StoneBlock3_1 = {
+    y = -17.2153,
+    x = 50.2528,
+    name = ""StoneBlock3_1"",
+    angle = 3.14511,
+    definition = ""StoneBlock3""
+  },
+  StoneBlock4_1 = {
+    y = -10.6418,
+    x = 48.0843,
+    name = ""StoneBlock4_1"",
+    angle = 0.00373641,
+    definition = ""StoneBlock4""
+  },
+  StoneBlock1_1 = {
+    y = -18.7673,
+    x = 50.1446,
+    name = ""StoneBlock1_1"",
+    angle = 3.14498,
+    definition = ""StoneBlock1""
+  },
+  SmallPiglette_4 = {
+    y = -1.08193,
+    x = 104.332,
+    name = ""SmallPiglette_4"",
+    angle = 4.29153E-6,
+    definition = ""SmallPiglette""
+  },
+  ground = {
+    y = 5,
+    x = 49.8624,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  WoodBlock5_1 = {
+    y = -2.05852,
+    x = 77.6878,
+    name = ""WoodBlock5_1"",
+    angle = 4.71243,
+    definition = ""WoodBlock5""
+  },
+  ExtraTire02_3 = {
+    y = -1.52701,
+    x = 68.7301,
+    name = ""ExtraTire02_3"",
+    angle = 4.7124,
+    definition = ""ExtraTire02""
+  },
+  SmallPiglette_2 = {
+    y = -1.04586,
+    x = 100.852,
+    name = ""SmallPiglette_2"",
+    angle = 3.85943E-6,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock4_1 = {
+    y = -11.4019,
+    x = 65.044,
+    name = ""WoodBlock4_1"",
+    angle = 3.14159,
+    definition = ""WoodBlock4""
+  },
+  StaticBlockTheme03_04_1 = {
+    y = 0.061182,
+    x = 112.269,
+    name = ""StaticBlockTheme03_04_1"",
+    angle = 0.785405,
+    definition = ""StaticBlockTheme03_04""
+  },
+  WoodBlock3_1 = {
+    y = -12.8817,
+    x = 64.8645,
+    name = ""WoodBlock3_1"",
+    angle = 3.14159,
+    definition = ""WoodBlock3""
+  },
+  StoneBlock5_10 = {
+    y = -5.12493,
+    x = 48.1232,
+    name = ""StoneBlock5_10"",
+    angle = 0.00333605,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_8 = {
+    y = -13.1424,
+    x = 51.9387,
+    name = ""StoneBlock5_8"",
+    angle = 1.57406,
+    definition = ""StoneBlock5""
+  },
+  SmallPiglette_8 = {
+    y = -1.00306,
+    x = 80.5979,
+    name = ""SmallPiglette_8"",
+    angle = 4.39167E-5,
+    definition = ""SmallPiglette""
+  },
+  StoneBlock1_9 = {
+    y = -0.461946,
+    x = 44.6714,
+    name = ""StoneBlock1_9"",
+    angle = 1.5708,
+    definition = ""StoneBlock1""
+  },
+  WoodBlock5_5 = {
+    y = -4.94537,
+    x = 67.1271,
+    name = ""WoodBlock5_5"",
+    angle = 3.8147E-6,
+    definition = ""WoodBlock5""
+  },
+  ExtraTire02_1 = {
+    y = -1.52701,
+    x = 61.7435,
+    name = ""ExtraTire02_1"",
+    angle = 5.49779,
+    definition = ""ExtraTire02""
+  },
+  SmallPiglette_1 = {
+    y = -1.0672,
+    x = 91.1135,
+    name = ""SmallPiglette_1"",
+    angle = 3.85215E-6,
+    definition = ""SmallPiglette""
+  },
+  MediumPiglette_1 = {
+    y = -7.82133,
+    x = 64.8805,
+    name = ""MediumPiglette_1"",
+    angle = 6.22309,
+    definition = ""MediumPiglette""
+  },
+  YellowBird_1 = {
+    y = -0.88556,
+    x = -11.9155,
+    name = ""YellowBird_1"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  StoneBlock5_7 = {
+    y = -5.10846,
+    x = 52.2285,
+    name = ""StoneBlock5_7"",
+    angle = 0.00452133,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_5 = {
+    y = -8.10292,
+    x = 53.3172,
+    name = ""StoneBlock5_5"",
+    angle = 1.57562,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_6 = {
+    y = -8.11671,
+    x = 50.2924,
+    name = ""StoneBlock5_6"",
+    angle = 1.57482,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_9 = {
+    y = -8.128,
+    x = 47.1572,
+    name = ""StoneBlock5_9"",
+    angle = 1.57416,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock6_2 = {
+    y = -3.57532,
+    x = 50.1652,
+    name = ""StoneBlock6_2"",
+    angle = 0.00376734,
+    definition = ""StoneBlock6""
+  },
+  WoodBlock5_3 = {
+    y = -7.98361,
+    x = 68.2726,
+    name = ""WoodBlock5_3"",
+    angle = 1.5708,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock5_4 = {
+    y = -13.1554,
+    x = 48.7225,
+    name = ""StoneBlock5_4"",
+    angle = 1.57587,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock6_3 = {
+    y = -3.43561,
+    x = 65.384,
+    name = ""StoneBlock6_3"",
+    angle = 6.27309,
+    definition = ""StoneBlock6""
+  },
+  ExtraTire02_6 = {
+    y = -1.4842,
+    x = 54.3994,
+    name = ""ExtraTire02_6"",
+    angle = 5.49779,
+    definition = ""ExtraTire02""
+  },
+  SmallPiglette_3 = {
+    y = -1.0459,
+    x = 94.391,
+    name = ""SmallPiglette_3"",
+    angle = 3.85655E-6,
+    definition = ""SmallPiglette""
+  },
+  StoneBlock4_2 = {
+    y = -15.6654,
+    x = 49.9515,
+    name = ""StoneBlock4_2"",
+    angle = 3.14539,
+    definition = ""StoneBlock4""
+  },
+  YellowBird_3 = {
+    y = -1.00453,
+    x = -16.5943,
+    name = ""YellowBird_3"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  ExtraTire02_4 = {
+    y = -1.52701,
+    x = 46.4098,
+    name = ""ExtraTire02_4"",
+    angle = 5.49779,
+    definition = ""ExtraTire02""
+  },
+  SmallPiglette_5 = {
+    y = -1.0459,
+    x = 97.5266,
+    name = ""SmallPiglette_5"",
+    angle = 3.85655E-6,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock6_1 = {
+    y = -10.4154,
+    x = 65.044,
+    name = ""WoodBlock6_1"",
+    angle = 3.14159,
+    definition = ""WoodBlock6""
+  },
+  YellowBird_2 = {
+    y = -1.00586,
+    x = -14.3799,
+    name = ""YellowBird_2"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  ExtraTire02_2 = {
+    y = -1.52701,
+    x = 65.2358,
+    name = ""ExtraTire02_2"",
+    angle = 4.7124,
+    definition = ""ExtraTire02""
+  },
+  ExtraTire02_5 = {
+    y = -1.52701,
+    x = 50.4175,
+    name = ""ExtraTire02_5"",
+    angle = 5.49779,
+    definition = ""ExtraTire02""
+  },
+  WoodBlock1_1 = {
+    y = -14.2718,
+    x = 64.8645,
+    name = ""WoodBlock1_1"",
+    angle = 3.14159,
+    definition = ""WoodBlock1""
+  },
+  WoodBlock5_4 = {
+    y = -4.8268,
+    x = 63.0165,
+    name = ""WoodBlock5_4"",
+    angle = 3.8147E-6,
+    definition = ""WoodBlock5""
+  },
+  ExtraTire02_7 = {
+    y = -1.47011,
+    x = 72.4536,
+    name = ""ExtraTire02_7"",
+    angle = 1.5708,
+    definition = ""ExtraTire02""
+  },
+  WoodBlock5_2 = {
+    y = -7.90425,
+    x = 61.9498,
+    name = ""WoodBlock5_2"",
+    angle = 1.5708,
+    definition = ""WoodBlock5""
+  },
+  SmallPiglette_6 = {
+    y = -1.02,
+    x = 87.4881,
+    name = ""SmallPiglette_6"",
+    angle = 4.39167E-5,
+    definition = ""SmallPiglette""
+  }
+}"
+Create an angry birds level.,4 pigs in 4 windows of a large structure (wood and stone),"world = {
+  StoneBlock6_9 = {
+    y = -14.4784,
+    x = 69.8705,
+    name = ""StoneBlock6_9"",
+    angle = 3.13261,
+    definition = ""StoneBlock6""
+  },
+  StoneBlock5_19 = {
+    y = -15.1023,
+    x = 63.6741,
+    name = ""StoneBlock5_19"",
+    angle = 6.25875,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_16 = {
+    y = -16.9861,
+    x = 69.242,
+    name = ""StoneBlock5_16"",
+    angle = 1.56214,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock5_10 = {
+    y = -6.03892,
+    x = 86.3979,
+    name = ""WoodBlock5_10"",
+    angle = 1.57398,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock6_7 = {
+    y = -26.5285,
+    x = 76.0797,
+    name = ""WoodBlock6_7"",
+    angle = 3.13314,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_5 = {
+    y = -23.7042,
+    x = 86.7623,
+    name = ""WoodBlock6_5"",
+    angle = 3.41983,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_2 = {
+    y = -23.7445,
+    x = 80.2303,
+    name = ""WoodBlock6_2"",
+    angle = 3.23679,
+    definition = ""WoodBlock6""
+  },
+  StoneBlock5_11 = {
+    y = -6.0482,
+    x = 61.5107,
+    name = ""StoneBlock5_11"",
+    angle = 1.57176,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock6_4 = {
+    y = -18.4056,
+    x = 65.442,
+    name = ""StoneBlock6_4"",
+    angle = 4.05663,
+    definition = ""StoneBlock6""
+  },
+  StaticBlockTheme02_02_1 = {
+    y = 0.457484,
+    x = 8.13669,
+    name = ""StaticBlockTheme02_02_1"",
+    angle = 5.00161,
+    definition = ""StaticBlockTheme02_02""
+  },
+  ground = {
+    y = 5,
+    x = 53.2043,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  StoneBlock2_1 = {
+    y = -21.0761,
+    x = 62.1043,
+    name = ""StoneBlock2_1"",
+    angle = 4.70506,
+    definition = ""StoneBlock2""
+  },
+  MediumPiglette_2 = {
+    y = -5.90234,
+    x = 69.6776,
+    name = ""MediumPiglette_2"",
+    angle = 0.00136647,
+    definition = ""MediumPiglette""
+  },
+  WoodBlock5_9 = {
+    y = -20.9477,
+    x = 82.3455,
+    name = ""WoodBlock5_9"",
+    angle = 4.71956,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_1 = {
+    y = -9.0319,
+    x = 75.9248,
+    name = ""WoodBlock5_1"",
+    angle = 3.14299,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock5_28 = {
+    y = -15.0657,
+    x = 76.0074,
+    name = ""StoneBlock5_28"",
+    angle = 6.27685,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock6_4 = {
+    y = -8.56026,
+    x = 82.1766,
+    name = ""WoodBlock6_4"",
+    angle = 9.42125E-5,
+    definition = ""WoodBlock6""
+  },
+  SmallPiglette_2 = {
+    y = -10.1528,
+    x = 70.0962,
+    name = ""SmallPiglette_2"",
+    angle = 6.27247,
+    definition = ""SmallPiglette""
+  },
+  StoneBlock5_26 = {
+    y = -12.022,
+    x = 74.0865,
+    name = ""StoneBlock5_26"",
+    angle = 4.67286,
+    definition = ""StoneBlock5""
+  },
+  MediumPiglette_1 = {
+    y = -5.90234,
+    x = 82.2051,
+    name = ""MediumPiglette_1"",
+    angle = 0.00136552,
+    definition = ""MediumPiglette""
+  },
+  StoneBlock6_11 = {
+    y = -23.6658,
+    x = 65.0246,
+    name = ""StoneBlock6_11"",
+    angle = 2.85082,
+    definition = ""StoneBlock6""
+  },
+  WoodBlock3_1 = {
+    y = -22.5599,
+    x = 75.9258,
+    name = ""WoodBlock3_1"",
+    angle = 2.30532,
+    definition = ""WoodBlock3""
+  },
+  StaticBlockTheme03_03_2 = {
+    y = -1.75943,
+    x = 75.8242,
+    name = ""StaticBlockTheme03_03_2"",
+    angle = 3.14181,
+    definition = ""StaticBlockTheme02_03""
+  },
+  StoneBlock5_27 = {
+    y = -6.04112,
+    x = 74.11,
+    name = ""StoneBlock5_27"",
+    angle = 4.7153,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock5_12 = {
+    y = -12.0525,
+    x = 62.2377,
+    name = ""WoodBlock5_12"",
+    angle = 1.57707,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_6 = {
+    y = -12.0117,
+    x = 77.8856,
+    name = ""WoodBlock5_6"",
+    angle = 1.63982,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock6_6 = {
+    y = -8.56762,
+    x = 69.7615,
+    name = ""StoneBlock6_6"",
+    angle = 3.14173,
+    definition = ""StoneBlock6""
+  },
+  StaticBlockTheme03_03_4 = {
+    y = -3.16073,
+    x = 75.872,
+    name = ""StaticBlockTheme03_03_4"",
+    angle = 3.14179,
+    definition = ""StaticBlockTheme02_03""
+  },
+  WoodBlock5_8 = {
+    y = -16.9819,
+    x = 82.6835,
+    name = ""WoodBlock5_8"",
+    angle = 4.717,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_7 = {
+    y = -18.0671,
+    x = 76.0477,
+    name = ""WoodBlock5_7"",
+    angle = 1.56489,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock6_8 = {
+    y = -18.3665,
+    x = 86.5493,
+    name = ""StoneBlock6_8"",
+    angle = 5.38986,
+    definition = ""StoneBlock6""
+  },
+  StoneBlock5_25 = {
+    y = -9.04407,
+    x = 63.3021,
+    name = ""StoneBlock5_25"",
+    angle = 3.14805,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_10 = {
+    y = -6.04227,
+    x = 90.4636,
+    name = ""StoneBlock5_10"",
+    angle = 4.71212,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock6_3 = {
+    y = -14.4705,
+    x = 82.1964,
+    name = ""WoodBlock6_3"",
+    angle = 0.00383651,
+    definition = ""WoodBlock6""
+  },
+  StoneBlock5_7 = {
+    y = -12.0435,
+    x = 89.3067,
+    name = ""StoneBlock5_7"",
+    angle = 4.70547,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_13 = {
+    y = -18.0767,
+    x = 62.5384,
+    name = ""StoneBlock5_13"",
+    angle = 1.54661,
+    definition = ""StoneBlock5""
+  },
+  YellowBird_1 = {
+    y = -5.2973,
+    x = 11.1832,
+    name = ""YellowBird_1"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  StoneBlock5_15 = {
+    y = -6.04331,
+    x = 65.5806,
+    name = ""StoneBlock5_15"",
+    angle = 4.70968,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_3 = {
+    y = -18.0628,
+    x = 89.549,
+    name = ""StoneBlock5_3"",
+    angle = 4.7281,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock5_3 = {
+    y = -6.0407,
+    x = 77.7641,
+    name = ""WoodBlock5_3"",
+    angle = 1.56871,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock5_4 = {
+    y = -15.0804,
+    x = 88.3474,
+    name = ""StoneBlock5_4"",
+    angle = 3.15752,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock6_2 = {
+    y = -23.7104,
+    x = 71.5109,
+    name = ""StoneBlock6_2"",
+    angle = 3.05049,
+    definition = ""StoneBlock6""
+  },
+  BlackBird_4 = {
+    y = -1.77517,
+    x = 0.15331,
+    name = ""BlackBird_4"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""BlackBird""
+  },
+  BlackBird_1 = {
+    y = -1.60527,
+    x = 3.10596,
+    name = ""BlackBird_1"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""BlackBird""
+  },
+  BlackBird_2 = {
+    y = -1.94504,
+    x = 5.98554,
+    name = ""BlackBird_2"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""BlackBird""
+  },
+  StoneBlock5_23 = {
+    y = -9.03814,
+    x = 88.6111,
+    name = ""StoneBlock5_23"",
+    angle = 6.2769,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_9 = {
+    y = -12.0138,
+    x = 65.3493,
+    name = ""StoneBlock5_9"",
+    angle = 1.71094,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock2_2 = {
+    y = -21.0582,
+    x = 89.9808,
+    name = ""StoneBlock2_2"",
+    angle = 1.58607,
+    definition = ""StoneBlock2""
+  },
+  StoneBlock5_22 = {
+    y = -20.9536,
+    x = 69.6921,
+    name = ""StoneBlock5_22"",
+    angle = 1.55947,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock5_11 = {
+    y = -11.9984,
+    x = 86.5183,
+    name = ""WoodBlock5_11"",
+    angle = 1.45035,
+    definition = ""WoodBlock5""
+  },
+  StaticBlockTheme02_02_2 = {
+    y = 0.419317,
+    x = 14.0527,
+    name = ""StaticBlockTheme02_02_2"",
+    angle = 1.31975,
+    definition = ""StaticBlockTheme02_02""
+  },
+  WoodBlock6_1 = {
+    y = -18.4558,
+    x = 78.9132,
+    name = ""WoodBlock6_1"",
+    angle = 0.931106,
+    definition = ""WoodBlock6""
+  },
+  StoneBlock6_12 = {
+    y = -25.525,
+    x = 71.3028,
+    name = ""StoneBlock6_12"",
+    angle = 3.25091,
+    definition = ""StoneBlock6""
+  },
+  StaticBlockTheme03_03_6 = {
+    y = -0.205077,
+    x = 75.8242,
+    name = ""StaticBlockTheme03_03_6"",
+    angle = 3.14181,
+    definition = ""StaticBlockTheme02_03""
+  },
+  StoneBlock6_7 = {
+    y = -18.4146,
+    x = 73.0936,
+    name = ""StoneBlock6_7"",
+    angle = 5.37929,
+    definition = ""StoneBlock6""
+  },
+  StaticBlockTheme03_04_4 = {
+    y = -0.0479279,
+    x = 91.8705,
+    name = ""StaticBlockTheme03_04_4"",
+    angle = 5.498,
+    definition = ""StaticBlockTheme02_04""
+  },
+  StaticBlockTheme01_04_1 = {
+    y = -2.02135,
+    x = 11.1211,
+    name = ""StaticBlockTheme01_04_1"",
+    angle = 4.29153E-6,
+    definition = ""StaticBlockTheme02_04""
+  },
+  SmallPiglette_1 = {
+    y = -10.1452,
+    x = 82.1201,
+    name = ""SmallPiglette_1"",
+    angle = 0.00185338,
+    definition = ""SmallPiglette""
+  },
+  StaticBlockTheme03_04_2 = {
+    y = 0.263867,
+    x = 59.974,
+    name = ""StaticBlockTheme03_04_2"",
+    angle = 3.92721,
+    definition = ""StaticBlockTheme02_04""
+  },
+  WoodBlock6_6 = {
+    y = -25.5378,
+    x = 80.4195,
+    name = ""WoodBlock6_6"",
+    angle = 3.04253,
+    definition = ""WoodBlock6""
+  }
+}"
+Create an angry birds level.,pigs on a hill with blockades in front of them (stones or towers),"world = {
+  StoneBlock8_3 = {
+    y = -7.25128,
+    x = 46.656,
+    name = ""StoneBlock8_3"",
+    angle = 0.60045,
+    definition = ""StoneBlock8""
+  },
+  StoneBlock3_1 = {
+    y = -11.9849,
+    x = 19.9696,
+    name = ""StoneBlock3_1"",
+    angle = 3.13652,
+    definition = ""StoneBlock3""
+  },
+  StaticBlockTheme02_04_1 = {
+    y = 0.214011,
+    x = 72.6499,
+    name = ""StaticBlockTheme02_04_1"",
+    angle = 3.927,
+    definition = ""StaticBlockTheme02_04""
+  },
+  WoodBlock3_4 = {
+    y = -7.9217,
+    x = 20.1372,
+    name = ""WoodBlock3_4"",
+    angle = 3.13982,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock5_4 = {
+    y = -22.9827,
+    x = 29.8485,
+    name = ""WoodBlock5_4"",
+    angle = 4.63527,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock7_2 = {
+    y = -9.73342,
+    x = 45.8055,
+    name = ""StoneBlock7_2"",
+    angle = 1.13953,
+    definition = ""StoneBlock7""
+  },
+  StoneBlock3_3 = {
+    y = -18.0821,
+    x = 20.0591,
+    name = ""StoneBlock3_3"",
+    angle = 3.1399,
+    definition = ""StoneBlock3""
+  },
+  StoneBlock7_3 = {
+    y = -9.70477,
+    x = 50.7834,
+    name = ""StoneBlock7_3"",
+    angle = 5.91117,
+    definition = ""StoneBlock7""
+  },
+  ground = {
+    y = 5,
+    x = 11.129,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  WoodBlock5_1 = {
+    y = -11.9642,
+    x = 16.959,
+    name = ""WoodBlock5_1"",
+    angle = 3.13157,
+    definition = ""WoodBlock5""
+  },
+  SmallPiglette_2 = {
+    y = -17.9505,
+    x = 32.1504,
+    name = ""SmallPiglette_2"",
+    angle = 0.0540719,
+    definition = ""SmallPiglette""
+  },
+  StoneBlock8_1 = {
+    y = -7.24665,
+    x = 49.9552,
+    name = ""StoneBlock8_1"",
+    angle = 5.43597,
+    definition = ""StoneBlock8""
+  },
+  StoneBlock8_2 = {
+    y = -7.27176,
+    x = 44.8678,
+    name = ""StoneBlock8_2"",
+    angle = 1.08315,
+    definition = ""StoneBlock8""
+  },
+  MediumPiglette_1 = {
+    y = -1.92137,
+    x = 61.3975,
+    name = ""MediumPiglette_1"",
+    angle = 2.88916E-5,
+    definition = ""MediumPiglette""
+  },
+  WoodBlock3_2 = {
+    y = -13.978,
+    x = 15.8017,
+    name = ""WoodBlock3_2"",
+    angle = 3.12225,
+    definition = ""WoodBlock3""
+  },
+  StaticBlockTheme03_04_3 = {
+    y = -2.47878,
+    x = 42.7977,
+    name = ""StaticBlockTheme03_04_3"",
+    angle = 4.7124,
+    definition = ""StaticBlockTheme02_04""
+  },
+  StaticBlockTheme03_05_5 = {
+    y = -9.9704,
+    x = 33.6825,
+    name = ""StaticBlockTheme03_05_5"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme02_05""
+  },
+  StoneBlock3_2 = {
+    y = -23.9996,
+    x = 34.3163,
+    name = ""StoneBlock3_2"",
+    angle = 1.64787,
+    definition = ""StoneBlock3""
+  },
+  StaticBlockTheme03_05_3 = {
+    y = -1.40035,
+    x = 49.2683,
+    name = ""StaticBlockTheme03_05_3"",
+    angle = 3.1416,
+    definition = ""StaticBlockTheme02_05""
+  },
+  StaticBlockTheme03_04_5 = {
+    y = -1.69447,
+    x = 35.4448,
+    name = ""StaticBlockTheme03_04_5"",
+    angle = 3.8624E-6,
+    definition = ""StaticBlockTheme02_04""
+  },
+  WoodBlock3_1 = {
+    y = -16.0484,
+    x = 19.874,
+    name = ""WoodBlock3_1"",
+    angle = 3.13922,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock3_5 = {
+    y = -18.0127,
+    x = 15.0503,
+    name = ""WoodBlock3_5"",
+    angle = 3.10422,
+    definition = ""WoodBlock3""
+  },
+  StaticBlockTheme03_05_7 = {
+    y = 0.462395,
+    x = 53.7781,
+    name = ""StaticBlockTheme03_05_7"",
+    angle = 3.927,
+    definition = ""StaticBlockTheme02_05""
+  },
+  WoodBlock5_2 = {
+    y = -18.9177,
+    x = 34.3092,
+    name = ""WoodBlock5_2"",
+    angle = 1.598,
+    definition = ""WoodBlock5""
+  },
+  StaticBlockTheme03_05_4 = {
+    y = -1.98093,
+    x = 28.6084,
+    name = ""StaticBlockTheme03_05_4"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme02_05""
+  },
+  StoneBlock5_5 = {
+    y = -7.91103,
+    x = 17.129,
+    name = ""StoneBlock5_5"",
+    angle = 3.13963,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_6 = {
+    y = -14.0121,
+    x = 18.8559,
+    name = ""StoneBlock5_6"",
+    angle = 3.13704,
+    definition = ""StoneBlock5""
+  },
+  StaticBlockTheme03_05_2 = {
+    y = -5.59451,
+    x = 38.3405,
+    name = ""StaticBlockTheme03_05_2"",
+    angle = 2.3562,
+    definition = ""StaticBlockTheme02_05""
+  },
+  RedBird_1 = {
+    y = -1.20274,
+    x = -51.7237,
+    name = ""RedBird_1"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  WoodBlock5_3 = {
+    y = -9.94784,
+    x = 18.9853,
+    name = ""WoodBlock5_3"",
+    angle = 3.13645,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock7_1 = {
+    y = -19.8642,
+    x = 17.5263,
+    name = ""StoneBlock7_1"",
+    angle = 1.53277,
+    definition = ""StoneBlock7""
+  },
+  StoneBlock8_4 = {
+    y = -7.24734,
+    x = 51.7418,
+    name = ""StoneBlock8_4"",
+    angle = 5.11155,
+    definition = ""StoneBlock8""
+  },
+  YellowBird_1 = {
+    y = -0.849574,
+    x = -48.8854,
+    name = ""YellowBird_1"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  SmallPiglette_3 = {
+    y = -1.13465,
+    x = 64.8496,
+    name = ""SmallPiglette_3"",
+    angle = 6.95804E-5,
+    definition = ""SmallPiglette""
+  },
+  StoneBlock5_1 = {
+    y = -19.9845,
+    x = 31.2377,
+    name = ""StoneBlock5_1"",
+    angle = 3.11718,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock3_3 = {
+    y = -9.93028,
+    x = 15.9368,
+    name = ""WoodBlock3_3"",
+    angle = 3.13472,
+    definition = ""WoodBlock3""
+  },
+  StoneBlock7_4 = {
+    y = -26.1075,
+    x = 32.0242,
+    name = ""StoneBlock7_4"",
+    angle = 6.18989,
+    definition = ""StoneBlock7""
+  },
+  BlackBird_1 = {
+    y = -1.30999,
+    x = -54.2419,
+    name = ""BlackBird_1"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""BlackBird""
+  },
+  StoneBlock5_3 = {
+    y = -16.0328,
+    x = 16.7836,
+    name = ""StoneBlock5_3"",
+    angle = 3.11441,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock5_4 = {
+    y = -22.0402,
+    x = 33.3053,
+    name = ""StoneBlock5_4"",
+    angle = 3.21818,
+    definition = ""StoneBlock5""
+  },
+  LargePiglette_1 = {
+    y = -9.20594,
+    x = 25.7973,
+    name = ""LargePiglette_1"",
+    angle = 2.28169E-5,
+    definition = ""LargePiglette""
+  },
+  StaticBlockTheme03_05_6 = {
+    y = 0.175931,
+    x = 14.3928,
+    name = ""StaticBlockTheme03_05_6"",
+    angle = 0.7854,
+    definition = ""StaticBlockTheme02_05""
+  },
+  StoneBlock5_2 = {
+    y = -16.9007,
+    x = 29.936,
+    name = ""StoneBlock5_2"",
+    angle = 4.70903,
+    definition = ""StoneBlock5""
+  },
+  StaticBlockTheme03_05_1 = {
+    y = -1.98093,
+    x = 19.2947,
+    name = ""StaticBlockTheme03_05_1"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme02_05""
+  },
+  SmallPiglette_1 = {
+    y = -1.15654,
+    x = 67.2886,
+    name = ""SmallPiglette_1"",
+    angle = 6.75184E-5,
+    definition = ""SmallPiglette""
+  },
+  StoneBlock7_5 = {
+    y = -12.1032,
+    x = 48.3095,
+    name = ""StoneBlock7_5"",
+    angle = 1.98396,
+    definition = ""StoneBlock7""
+  },
+  WoodBlock5_5 = {
+    y = -15.8992,
+    x = 32.9925,
+    name = ""WoodBlock5_5"",
+    angle = 6.2813,
+    definition = ""WoodBlock5""
+  }
+}"
+Create an angry birds level.,scattered pigs in towers and on ground. lots of tnt around. put a pole in the middle.,"world = {
+  StoneBlock4_3 = {
+    y = -14.0161,
+    x = -8.80726,
+    name = ""StoneBlock4_3"",
+    angle = 6.27605,
+    definition = ""StoneBlock4""
+  },
+  StoneBlock4_4 = {
+    y = -16.5223,
+    x = -10.4822,
+    name = ""StoneBlock4_4"",
+    angle = 1.56699,
+    definition = ""StoneBlock4""
+  },
+  StoneBlock4_1 = {
+    y = -14.1704,
+    x = 17.7316,
+    name = ""StoneBlock4_1"",
+    angle = 1.55261,
+    definition = ""StoneBlock4""
+  },
+  WoodBlock5_22 = {
+    y = -23.7468,
+    x = 31.691,
+    name = ""WoodBlock5_22"",
+    angle = 3.14175,
+    definition = ""WoodBlock5""
+  },
+  RedBird_7 = {
+    y = -18.063,
+    x = -56.1694,
+    name = ""RedBird_7"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  StoneBlock6_7 = {
+    y = -16.7471,
+    x = 20.9562,
+    name = ""StoneBlock6_7"",
+    angle = 3.12333,
+    definition = ""StoneBlock6""
+  },
+  StaticBlockTheme01_02_1 = {
+    y = -16.4144,
+    x = 27.1788,
+    name = ""StaticBlockTheme01_02_1"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme03_02""
+  },
+  HelmetPiglette_5 = {
+    y = -1.99552,
+    x = -41.2505,
+    name = ""HelmetPiglette_5"",
+    angle = 6.28314,
+    definition = ""HelmetPiglette""
+  },
+  StoneBlock7_3 = {
+    y = -28.4589,
+    x = 31.7228,
+    name = ""StoneBlock7_3"",
+    angle = 3.14163,
+    definition = ""StoneBlock7""
+  },
+  WoodBlock5_12 = {
+    y = -10.0763,
+    x = 14.194,
+    name = ""WoodBlock5_12"",
+    angle = 3.13873,
+    definition = ""WoodBlock5""
+  },
+  StaticBlockTheme03_05_8 = {
+    y = -3.82439,
+    x = -63.6869,
+    name = ""StaticBlockTheme03_05_8"",
+    angle = 1.57076,
+    definition = ""StaticBlockTheme03_05""
+  },
+  WoodBlock5_1 = {
+    y = -10.1849,
+    x = 22.3757,
+    name = ""WoodBlock5_1"",
+    angle = 6.25153,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock6_8 = {
+    y = -4.01973,
+    x = 15.4474,
+    name = ""WoodBlock6_8"",
+    angle = 1.57492,
+    definition = ""WoodBlock6""
+  },
+  StoneBlock4_5 = {
+    y = -16.546,
+    x = -6.97062,
+    name = ""StoneBlock4_5"",
+    angle = 1.56727,
+    definition = ""StoneBlock4""
+  },
+  WoodBlock3_1 = {
+    y = -4.18041,
+    x = 24.993,
+    name = ""WoodBlock3_1"",
+    angle = 4.70951,
+    definition = ""WoodBlock3""
+  },
+  ExtraBlockTNT_1 = {
+    y = -6.83839,
+    x = 31.0241,
+    name = ""ExtraBlockTNT_1"",
+    angle = 6.2796,
+    definition = ""ExtraBlockTNT""
+  },
+  WoodBlock4_4 = {
+    y = -9.60592,
+    x = 9.86274,
+    name = ""WoodBlock4_4"",
+    angle = 3.14899,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock5_19 = {
+    y = -8.12209,
+    x = -35.9686,
+    name = ""WoodBlock5_19"",
+    angle = 4.70361,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock6_12 = {
+    y = -9.55397,
+    x = -7.03637,
+    name = ""StoneBlock6_12"",
+    angle = 1.57016,
+    definition = ""StoneBlock6""
+  },
+  StoneBlock3_2 = {
+    y = -13.2501,
+    x = -31.8008,
+    name = ""StoneBlock3_2"",
+    angle = 6.27874,
+    definition = ""StoneBlock3""
+  },
+  StaticBlockTheme03_05_3 = {
+    y = -12.2315,
+    x = -55.7379,
+    name = ""StaticBlockTheme03_05_3"",
+    angle = 4.46638E-6,
+    definition = ""StaticBlockTheme03_05""
+  },
+  WoodBlock6_3 = {
+    y = -11.7072,
+    x = 20.6522,
+    name = ""WoodBlock6_3"",
+    angle = 3.12231,
+    definition = ""WoodBlock6""
+  },
+  StoneBlock8_11 = {
+    y = -3.93738,
+    x = -16.4226,
+    name = ""StoneBlock8_11"",
+    angle = 6.26983,
+    definition = ""StoneBlock8""
+  },
+  StaticBlockTheme01_05_4 = {
+    y = -15.0428,
+    x = 51.7186,
+    name = ""StaticBlockTheme01_05_4"",
+    angle = 2.35619,
+    definition = ""StaticBlockTheme03_05""
+  },
+  WoodBlock4_2 = {
+    y = -6.02865,
+    x = 7.78383,
+    name = ""WoodBlock4_2"",
+    angle = 1.57358,
+    definition = ""WoodBlock4""
+  },
+  StoneBlock4_2 = {
+    y = -14.2925,
+    x = 24.4291,
+    name = ""StoneBlock4_2"",
+    angle = 1.55797,
+    definition = ""StoneBlock4""
+  },
+  ExtraBlockTNT_6 = {
+    y = -1.77271,
+    x = -20.8812,
+    name = ""ExtraBlockTNT_6"",
+    angle = 6.28303,
+    definition = ""ExtraBlockTNT""
+  },
+  WoodBlock3_3 = {
+    y = -8.23678,
+    x = 24.6541,
+    name = ""WoodBlock3_3"",
+    angle = 4.66781,
+    definition = ""WoodBlock3""
+  },
+  StoneBlock5_9 = {
+    y = -18.3524,
+    x = 24.0623,
+    name = ""StoneBlock5_9"",
+    angle = 3.12395,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock4_7 = {
+    y = -7.40349,
+    x = -9.91585,
+    name = ""StoneBlock4_7"",
+    angle = 1.5708,
+    definition = ""StoneBlock4""
+  },
+  StaticBlockTheme01_05_3 = {
+    y = -8.67032,
+    x = 45.346,
+    name = ""StaticBlockTheme01_05_3"",
+    angle = 2.35619,
+    definition = ""StaticBlockTheme03_05""
+  },
+  WoodBlock6_1 = {
+    y = -8.55716,
+    x = 19.639,
+    name = ""WoodBlock6_1"",
+    angle = 6.27554,
+    definition = ""WoodBlock6""
+  },
+  ExtraBlockTNT_7 = {
+    y = -5.09642,
+    x = -22.8577,
+    name = ""ExtraBlockTNT_7"",
+    angle = 6.28305,
+    definition = ""ExtraBlockTNT""
+  },
+  WoodBlock4_6 = {
+    y = -10.676,
+    x = 9.85961,
+    name = ""WoodBlock4_6"",
+    angle = 3.14899,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock5_13 = {
+    y = -1.08178,
+    x = -34.4627,
+    name = ""WoodBlock5_13"",
+    angle = 3.13947,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_16 = {
+    y = -5.13773,
+    x = -34.938,
+    name = ""WoodBlock5_16"",
+    angle = 3.13061,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock6_18 = {
+    y = -4.028,
+    x = 19.6515,
+    name = ""StoneBlock6_18"",
+    angle = 1.60645,
+    definition = ""StoneBlock6""
+  },
+  StoneBlock8_9 = {
+    y = -2.50649,
+    x = -15.4102,
+    name = ""StoneBlock8_9"",
+    angle = 0.00663195,
+    definition = ""StoneBlock8""
+  },
+  WoodBlock5_10 = {
+    y = -9.50342,
+    x = 31.0542,
+    name = ""WoodBlock5_10"",
+    angle = 3.135,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_11 = {
+    y = -11.5225,
+    x = 31.0195,
+    name = ""WoodBlock5_11"",
+    angle = 3.13307,
+    definition = ""WoodBlock5""
+  },
+  StaticBlockTheme01_04_1 = {
+    y = 0.411945,
+    x = 23.8971,
+    name = ""StaticBlockTheme01_04_1"",
+    angle = 2.35619,
+    definition = ""StaticBlockTheme03_04""
+  },
+  GrandpaPiglette_1 = {
+    y = -14.7059,
+    x = 30.5035,
+    name = ""GrandpaPiglette_1"",
+    angle = 6.28081,
+    definition = ""GrandpaPiglette""
+  },
+  StoneBlock5_11 = {
+    y = -2.05819,
+    x = 17.5035,
+    name = ""StoneBlock5_11"",
+    angle = 1.57043,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock6_17 = {
+    y = -11.6964,
+    x = -32.733,
+    name = ""StoneBlock6_17"",
+    angle = 6.27933,
+    definition = ""StoneBlock6""
+  },
+  StoneBlock8_7 = {
+    y = -0.98636,
+    x = -16.3257,
+    name = ""StoneBlock8_7"",
+    angle = 9.58039E-4,
+    definition = ""StoneBlock8""
+  },
+  ground = {
+    y = 5,
+    x = -6.66045,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  StoneBlock8_10 = {
+    y = -2.50472,
+    x = -17.4417,
+    name = ""StoneBlock8_10"",
+    angle = 0.00942487,
+    definition = ""StoneBlock8""
+  },
+  StaticBlockTheme01_05_6 = {
+    y = -7.78796,
+    x = 57.0126,
+    name = ""StaticBlockTheme01_05_6"",
+    angle = 3.927,
+    definition = ""StaticBlockTheme03_05""
+  },
+  WoodBlock5_15 = {
+    y = -3.11688,
+    x = -32.5593,
+    name = ""WoodBlock5_15"",
+    angle = 3.14025,
+    definition = ""WoodBlock5""
+  },
+  ExtraBlockTNT_4 = {
+    y = -13.9109,
+    x = 21.0275,
+    name = ""ExtraBlockTNT_4"",
+    angle = 6.2641,
+    definition = ""ExtraBlockTNT""
+  },
+  WoodBlock5_18 = {
+    y = -8.1456,
+    x = -29.5809,
+    name = ""WoodBlock5_18"",
+    angle = 4.71142,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock5_6 = {
+    y = -18.2575,
+    x = 18.6249,
+    name = ""StoneBlock5_6"",
+    angle = 6.26511,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock6_4 = {
+    y = -8.52365,
+    x = 11.4716,
+    name = ""WoodBlock6_4"",
+    angle = 0.00742919,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock4_1 = {
+    y = -2.05932,
+    x = 7.77596,
+    name = ""WoodBlock4_1"",
+    angle = 1.57149,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock4_5 = {
+    y = -11.6294,
+    x = 14.1871,
+    name = ""WoodBlock4_5"",
+    angle = 3.13898,
+    definition = ""WoodBlock4""
+  },
+  StaticBlockTheme01_02_4 = {
+    y = -21.8556,
+    x = 31.2342,
+    name = ""StaticBlockTheme01_02_4"",
+    angle = 1.30337E-6,
+    definition = ""StaticBlockTheme03_02""
+  },
+  ExtraBlockTNT_5 = {
+    y = -1.76995,
+    x = -24.2599,
+    name = ""ExtraBlockTNT_5"",
+    angle = 6.28318,
+    definition = ""ExtraBlockTNT""
+  },
+  StoneBlock6_20 = {
+    y = -4.13723,
+    x = 21.8637,
+    name = ""StoneBlock6_20"",
+    angle = 1.91085,
+    definition = ""StoneBlock6""
+  },
+  WoodBlock5_9 = {
+    y = -4.17351,
+    x = 30.7425,
+    name = ""WoodBlock5_9"",
+    angle = 3.14049,
+    definition = ""WoodBlock5""
+  },
+  HelmetPiglette_3 = {
+    y = -21.0756,
+    x = 21.2972,
+    name = ""HelmetPiglette_3"",
+    angle = 0.043636,
+    definition = ""HelmetPiglette""
+  },
+  StoneBlock5_12 = {
+    y = -6.02548,
+    x = 18.0945,
+    name = ""StoneBlock5_12"",
+    angle = 1.56854,
+    definition = ""StoneBlock5""
+  },
+  StoneBlock3_1 = {
+    y = -13.2405,
+    x = -33.8664,
+    name = ""StoneBlock3_1"",
+    angle = 6.27916,
+    definition = ""StoneBlock3""
+  },
+  StoneBlock6_10 = {
+    y = -7.13301,
+    x = 28.0117,
+    name = ""StoneBlock6_10"",
+    angle = 1.56499,
+    definition = ""StoneBlock6""
+  },
+  StoneBlock4_8 = {
+    y = -11.5093,
+    x = -10.3949,
+    name = ""StoneBlock4_8"",
+    angle = 1.5708,
+    definition = ""StoneBlock4""
+  },
+  StaticBlockTheme01_05_1 = {
+    y = 1.7581,
+    x = 28.7048,
+    name = ""StaticBlockTheme01_05_1"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme03_05""
+  },
+  StoneBlock6_9 = {
+    y = -7.11311,
+    x = 26.8203,
+    name = ""StoneBlock6_9"",
+    angle = 1.58386,
+    definition = ""StoneBlock6""
+  },
+  WoodBlock5_2 = {
+    y = -10.0966,
+    x = 18.2243,
+    name = ""WoodBlock5_2"",
+    angle = 3.13292,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_14 = {
+    y = -1.08682,
+    x = -30.4931,
+    name = ""WoodBlock5_14"",
+    angle = 3.14145,
+    definition = ""WoodBlock5""
+  },
+  StaticBlockTheme01_05_7 = {
+    y = -25.8962,
+    x = 56.5211,
+    name = ""StaticBlockTheme01_05_7"",
+    angle = 4.71239,
+    definition = ""StaticBlockTheme03_05""
+  },
+  WoodBlock3_5 = {
+    y = -3.11789,
+    x = -29.5379,
+    name = ""WoodBlock3_5"",
+    angle = 3.14176,
+    definition = ""WoodBlock3""
+  },
+  StaticBlockTheme03_05_7 = {
+    y = -12.3304,
+    x = -63.6869,
+    name = ""StaticBlockTheme03_05_7"",
+    angle = 1.57076,
+    definition = ""StaticBlockTheme03_05""
+  },
+  YellowBird_1 = {
+    y = -18.0302,
+    x = -58.7673,
+    name = ""YellowBird_1"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  StoneBlock8_8 = {
+    y = -0.987075,
+    x = -14.4767,
+    name = ""StoneBlock8_8"",
+    angle = 1.03572E-4,
+    definition = ""StoneBlock8""
+  },
+  WoodBlock5_17 = {
+    y = -5.14962,
+    x = -30.8274,
+    name = ""WoodBlock5_17"",
+    angle = 3.1421,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock8_6 = {
+    y = -0.981329,
+    x = -18.2904,
+    name = ""StoneBlock8_6"",
+    angle = 6.28302,
+    definition = ""StoneBlock8""
+  },
+  StaticBlockTheme03_05_4 = {
+    y = -10.3075,
+    x = -67.8129,
+    name = ""StaticBlockTheme03_05_4"",
+    angle = 3.8109,
+    definition = ""StaticBlockTheme03_05""
+  },
+  RedBird_1 = {
+    y = -18.0793,
+    x = -52.6292,
+    name = ""RedBird_1"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  StaticBlockTheme03_05_6 = {
+    y = -4.23128,
+    x = -70.3335,
+    name = ""StaticBlockTheme03_05_6"",
+    angle = 0.116128,
+    definition = ""StaticBlockTheme03_05""
+  },
+  WoodBlock3_6 = {
+    y = -3.10453,
+    x = -35.5922,
+    name = ""WoodBlock3_6"",
+    angle = 3.13393,
+    definition = ""WoodBlock3""
+  },
+  StoneBlock6_16 = {
+    y = -10.6481,
+    x = -32.6315,
+    name = ""StoneBlock6_16"",
+    angle = 6.27972,
+    definition = ""StoneBlock6""
+  },
+  StaticBlockTheme01_05_5 = {
+    y = -0.6311,
+    x = 50.5421,
+    name = ""StaticBlockTheme01_05_5"",
+    angle = 3.927,
+    definition = ""StaticBlockTheme03_05""
+  },
+  StoneBlock8_12 = {
+    y = -4.23706,
+    x = -2.1864,
+    name = ""StoneBlock8_12"",
+    angle = 6.27892,
+    definition = ""StoneBlock8""
+  },
+  WoodBlock6_9 = {
+    y = -4.02626,
+    x = 14.2928,
+    name = ""WoodBlock6_9"",
+    angle = 1.57393,
+    definition = ""WoodBlock6""
+  },
+  StoneBlock5_10 = {
+    y = -16.2466,
+    x = -32.8131,
+    name = ""StoneBlock5_10"",
+    angle = 1.56634,
+    definition = ""StoneBlock5""
+  },
+  WoodBlock5_3 = {
+    y = -25.7312,
+    x = 31.7224,
+    name = ""WoodBlock5_3"",
+    angle = 3.14205,
+    definition = ""WoodBlock5""
+  },
+  StaticBlockTheme01_05_9 = {
+    y = -0.62107,
+    x = -8.67034,
+    name = ""StaticBlockTheme01_05_9"",
+    angle = 8.98046E-6,
+    definition = ""StaticBlockTheme03_05""
+  },
+  HelmetPiglette_2 = {
+    y = -2.01846,
+    x = 11.1702,
+    name = ""HelmetPiglette_2"",
+    angle = 6.28293,
+    definition = ""HelmetPiglette""
+  },
+  ExtraBlockTNT_8 = {
+    y = -1.72475,
+    x = -1.04827,
+    name = ""ExtraBlockTNT_8"",
+    angle = 6.27867,
+    definition = ""ExtraBlockTNT""
+  },
+  StaticBlockTheme01_05_2 = {
+    y = -2.00365,
+    x = 38.5813,
+    name = ""StaticBlockTheme01_05_2"",
+    angle = 2.35619,
+    definition = ""StaticBlockTheme03_05""
+  },
+  StoneBlock8_13 = {
+    y = -0.986205,
+    x = 1.86106,
+    name = ""StoneBlock8_13"",
+    angle = 2.89599E-5,
+    definition = ""StoneBlock8""
+  },
+  HelmetPiglette_4 = {
+    y = -8.0922,
+    x = -32.5628,
+    name = ""HelmetPiglette_4"",
+    angle = 6.26918,
+    definition = ""HelmetPiglette""
+  },
+  StaticBlockTheme01_05_8 = {
+    y = -16.676,
+    x = 56.5175,
+    name = ""StaticBlockTheme01_05_8"",
+    angle = 4.71239,
+    definition = ""StaticBlockTheme03_05""
+  },
+  StoneBlock8_14 = {
+    y = -6.38205,
+    x = 21.1437,
+    name = ""StoneBlock8_14"",
+    angle = 1.60702,
+    definition = ""StoneBlock8""
+  },
+  StaticBlockTheme03_05_5 = {
+    y = -3.18639,
+    x = -55.7102,
+    name = ""StaticBlockTheme03_05_5"",
+    angle = 2.89599E-5,
+    definition = ""StaticBlockTheme03_05""
+  },
+  WoodBlock3_2 = {
+    y = -6.20892,
+    x = 25.2334,
+    name = ""WoodBlock3_2"",
+    angle = 4.70154,
+    definition = ""WoodBlock3""
+  }
+}"
+Create an angry birds level.,wooden blockade with rocks on top. the piggies are hidden underground.,"world = {
+  WoodBlock3_6 = {
+    y = -9.19628,
+    x = 70.9498,
+    name = ""WoodBlock3_6"",
+    angle = 3.12119,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock3_4 = {
+    y = -5.00298,
+    x = 62.1251,
+    name = ""WoodBlock3_4"",
+    angle = 0.00238363,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock5_6 = {
+    y = -13.4668,
+    x = 78.6738,
+    name = ""WoodBlock5_6"",
+    angle = 0.0132397,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock6_2 = {
+    y = -11.8609,
+    x = 73.9424,
+    name = ""WoodBlock6_2"",
+    angle = 6.26474,
+    definition = ""WoodBlock6""
+  },
+  ground = {
+    y = 5,
+    x = 41.7527,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  WoodBlock5_1 = {
+    y = -16.4838,
+    x = 72.254,
+    name = ""WoodBlock5_1"",
+    angle = 1.55201,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock2_2 = {
+    y = -4.59232,
+    x = 75.8323,
+    name = ""WoodBlock2_2"",
+    angle = 6.27743,
+    definition = ""WoodBlock2""
+  },
+  WoodBlock4_1 = {
+    y = -13.971,
+    x = 72.5697,
+    name = ""WoodBlock4_1"",
+    angle = 6.26466,
+    definition = ""WoodBlock4""
+  },
+  WoodBlock3_7 = {
+    y = -9.07349,
+    x = 64.8111,
+    name = ""WoodBlock3_7"",
+    angle = 3.14262,
+    definition = ""WoodBlock3""
+  },
+  YellowBird_5 = {
+    y = -1.29881,
+    x = -5.8888,
+    name = ""YellowBird_5"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  StaticBlockTheme03_05_4 = {
+    y = 0.992914,
+    x = 66.0996,
+    name = ""StaticBlockTheme03_05_4"",
+    angle = 2.19123E-4,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock5_8 = {
+    y = -11.2487,
+    x = 67.7446,
+    name = ""WoodBlock5_8"",
+    angle = 3.14167,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock5_7 = {
+    y = -16.4884,
+    x = 77.1017,
+    name = ""WoodBlock5_7"",
+    angle = 1.58314,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock2_3 = {
+    y = -13.9164,
+    x = 69.5676,
+    name = ""WoodBlock2_3"",
+    angle = 6.26447,
+    definition = ""WoodBlock2""
+  },
+  WoodBlock2_5 = {
+    y = -10.8792,
+    x = 76.6766,
+    name = ""WoodBlock2_5"",
+    angle = 6.26573,
+    definition = ""WoodBlock2""
+  },
+  WoodBlock2_7 = {
+    y = -6.70593,
+    x = 76.1416,
+    name = ""WoodBlock2_7"",
+    angle = 6.24828,
+    definition = ""WoodBlock2""
+  },
+  WoodBlock3_5 = {
+    y = -11.3314,
+    x = 79.3107,
+    name = ""WoodBlock3_5"",
+    angle = 3.12432,
+    definition = ""WoodBlock3""
+  },
+  YellowBird_1 = {
+    y = -1.33721,
+    x = -8.6315,
+    name = ""YellowBird_1"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  WoodBlock4_2 = {
+    y = -2.07836,
+    x = 75.765,
+    name = ""WoodBlock4_2"",
+    angle = 1.56934,
+    definition = ""WoodBlock4""
+  },
+  StaticBlockTheme03_05_2 = {
+    y = -0.311424,
+    x = 85.923,
+    name = ""StaticBlockTheme03_05_2"",
+    angle = 2.19123E-4,
+    definition = ""StaticBlockTheme01_05""
+  },
+  WoodBlock3_2 = {
+    y = -13.4446,
+    x = 75.6421,
+    name = ""WoodBlock3_2"",
+    angle = 6.26494,
+    definition = ""WoodBlock3""
+  },
+  WoodBlock5_3 = {
+    y = -9.30432,
+    x = 79.836,
+    name = ""WoodBlock5_3"",
+    angle = 6.26596,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock3_3 = {
+    y = -9.31385,
+    x = 76.8253,
+    name = ""WoodBlock3_3"",
+    angle = 3.12506,
+    definition = ""WoodBlock3""
+  },
+  SmallPiglette_2 = {
+    y = -1.14683,
+    x = 78.342,
+    name = ""SmallPiglette_2"",
+    angle = 2.19123E-4,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock6_4 = {
+    y = -5.70623,
+    x = 79.2247,
+    name = ""WoodBlock6_4"",
+    angle = 3.12509,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock2_4 = {
+    y = -10.7455,
+    x = 70.7644,
+    name = ""WoodBlock2_4"",
+    angle = 0,
+    definition = ""WoodBlock2""
+  },
+  StoneBlock5_1 = {
+    y = -9.1254,
+    x = 67.9066,
+    name = ""StoneBlock5_1"",
+    angle = 3.11333,
+    definition = ""StoneBlock5""
+  },
+  YellowBird_3 = {
+    y = -1.29901,
+    x = -11.3175,
+    name = ""YellowBird_3"",
+    startNumber = 5,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  WoodBlock5_4 = {
+    y = -5.00022,
+    x = 65.2977,
+    name = ""WoodBlock5_4"",
+    angle = 3.14183,
+    definition = ""WoodBlock5""
+  },
+  WoodBlock6_3 = {
+    y = -12.8617,
+    x = 70.3672,
+    name = ""WoodBlock6_3"",
+    angle = 3.12286,
+    definition = ""WoodBlock6""
+  },
+  WoodBlock6_1 = {
+    y = -7.68629,
+    x = 72.8457,
+    name = ""WoodBlock6_1"",
+    angle = 3.11998,
+    definition = ""WoodBlock6""
+  },
+  YellowBird_2 = {
+    y = -1.32581,
+    x = -3.166,
+    name = ""YellowBird_2"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  StoneBlock5_2 = {
+    y = -7.26783,
+    x = 79.7945,
+    name = ""StoneBlock5_2"",
+    angle = 6.26601,
+    definition = ""StoneBlock5""
+  },
+  YellowBird_4 = {
+    y = -1.04447,
+    x = -0.764762,
+    name = ""YellowBird_4"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  WoodBlock5_2 = {
+    y = -4.99818,
+    x = 69.4643,
+    name = ""WoodBlock5_2"",
+    angle = 3.14167,
+    definition = ""WoodBlock5""
+  },
+  StoneBlock7_1 = {
+    y = -19.3837,
+    x = 74.6721,
+    name = ""StoneBlock7_1"",
+    angle = 6.15656,
+    definition = ""StoneBlock7""
+  },
+  SmallPiglette_1 = {
+    y = -1.18853,
+    x = 73.2288,
+    name = ""SmallPiglette_1"",
+    angle = 2.54758E-4,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock2_6 = {
+    y = -6.54542,
+    x = 69.6676,
+    name = ""WoodBlock2_6"",
+    angle = 0,
+    definition = ""WoodBlock2""
+  },
+  WoodBlock5_5 = {
+    y = -7.03642,
+    x = 64.8067,
+    name = ""WoodBlock5_5"",
+    angle = 3.14196,
+    definition = ""WoodBlock5""
+  }
+}"
+Create an angry birds level.,,"world = {
+  StaticBlockTheme03_02_2 = {
+    y = -5.96951,
+    x = 33.6633,
+    name = ""StaticBlockTheme03_02_2"",
+    angle = 5.49779,
+    definition = ""StaticBlockTheme02_02""
+  },
+  StaticBlockTheme02_04_1 = {
+    y = -11.4978,
+    x = 64.6048,
+    name = ""StaticBlockTheme02_04_1"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme02_04""
+  },
+  StaticBlockTheme02_05_2 = {
+    y = -0.366571,
+    x = 21.0575,
+    name = ""StaticBlockTheme02_05_2"",
+    angle = 4.46638E-6,
+    definition = ""StaticBlockTheme02_05""
+  },
+  StoneBlock7_2 = {
+    y = -20.3609,
+    x = 56.4828,
+    name = ""StoneBlock7_2"",
+    angle = 0.0566214,
+    definition = ""StoneBlock7""
+  },
+  LightBlock3_4 = {
+    y = -17.8511,
+    x = 25.0246,
+    name = ""LightBlock3_4"",
+    angle = 0.0060042,
+    definition = ""LightBlock3""
+  },
+  StaticBlockTheme02_02_1 = {
+    y = -4.92618,
+    x = 64.4198,
+    name = ""StaticBlockTheme02_02_1"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme02_02""
+  },
+  ground = {
+    y = 5,
+    x = 25.7225,
+    name = ""ground"",
+    angle = 0,
+    definition = ""Ground""
+  },
+  StaticBlockTheme03_05_8 = {
+    y = -12.0368,
+    x = 71.2579,
+    name = ""StaticBlockTheme03_05_8"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme02_05""
+  },
+  StaticBlockTheme03_02_4 = {
+    y = -13.9083,
+    x = 19.9441,
+    name = ""StaticBlockTheme03_02_4"",
+    angle = 1.30337E-6,
+    definition = ""StaticBlockTheme02_02""
+  },
+  LightBlock3_8 = {
+    y = -20.9527,
+    x = 20.495,
+    name = ""LightBlock3_8"",
+    angle = 6.2796,
+    definition = ""LightBlock3""
+  },
+  StaticBlockTheme03_02_3 = {
+    y = -13.9232,
+    x = 26.7179,
+    name = ""StaticBlockTheme03_02_3"",
+    angle = 3.1416,
+    definition = ""StaticBlockTheme02_02""
+  },
+  WoodBlock4_3 = {
+    y = -19.3834,
+    x = 25.5925,
+    name = ""WoodBlock4_3"",
+    angle = 0.00633555,
+    definition = ""WoodBlock4""
+  },
+  StaticBlockTheme03_04_1 = {
+    y = -5.12297,
+    x = 52.403,
+    name = ""StaticBlockTheme03_04_1"",
+    angle = 3.1416,
+    definition = ""StaticBlockTheme02_04""
+  },
+  StaticBlockTheme03_05_10 = {
+    y = -3.03679,
+    x = 36.3172,
+    name = ""StaticBlockTheme03_05_10"",
+    angle = 0.785402,
+    definition = ""StaticBlockTheme02_05""
+  },
+  StaticBlockTheme03_05_5 = {
+    y = -6.53679,
+    x = 42.0672,
+    name = ""StaticBlockTheme03_05_5"",
+    angle = 1.2854,
+    definition = ""StaticBlockTheme02_05""
+  },
+  LightBlock3_3 = {
+    y = -20.9245,
+    x = 26.8477,
+    name = ""LightBlock3_3"",
+    angle = 0.00710043,
+    definition = ""LightBlock3""
+  },
+  MediumPiglette_1 = {
+    y = -7.16611,
+    x = 21.7194,
+    name = ""MediumPiglette_1"",
+    angle = 1.8456E-5,
+    definition = ""MediumPiglette""
+  },
+  WoodBlock4_5 = {
+    y = -19.4044,
+    x = 21.4382,
+    name = ""WoodBlock4_5"",
+    angle = 6.27998,
+    definition = ""WoodBlock4""
+  },
+  LightBlock3_10 = {
+    y = -17.1568,
+    x = 52.6645,
+    name = ""LightBlock3_10"",
+    angle = 5.52625E-5,
+    definition = ""LightBlock3""
+  },
+  StaticBlockTheme02_05_6 = {
+    y = -18.3176,
+    x = 71.3943,
+    name = ""StaticBlockTheme02_05_6"",
+    angle = 0.0692438,
+    definition = ""StaticBlockTheme02_05""
+  },
+  StoneBlock7_4 = {
+    y = -24.2002,
+    x = 64.807,
+    name = ""StoneBlock7_4"",
+    angle = 1.57219,
+    definition = ""StoneBlock7""
+  },
+  SmallBlueBird_2 = {
+    y = -0.835647,
+    x = -25.3133,
+    name = ""SmallBlueBird_2"",
+    startNumber = 2,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  WoodBlock4_7 = {
+    y = -21.9003,
+    x = 25.2741,
+    name = ""WoodBlock4_7"",
+    angle = 1.57572,
+    definition = ""WoodBlock4""
+  },
+  LightBlock3_2 = {
+    y = -17.8609,
+    x = 21.8137,
+    name = ""LightBlock3_2"",
+    angle = 6.27815,
+    definition = ""LightBlock3""
+  },
+  LightBlock6_1 = {
+    y = -18.3768,
+    x = 55.0826,
+    name = ""LightBlock6_1"",
+    angle = 3.38143,
+    definition = ""LightBlock6""
+  },
+  WoodBlock4_4 = {
+    y = -16.8083,
+    x = 20.2216,
+    name = ""WoodBlock4_4"",
+    angle = 4.71211,
+    definition = ""WoodBlock4""
+  },
+  StaticBlockTheme02_02_2 = {
+    y = -5.0521,
+    x = 65.9309,
+    name = ""StaticBlockTheme02_02_2"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme02_02""
+  },
+  StoneBlock7_3 = {
+    y = -21.7545,
+    x = 62.3835,
+    name = ""StoneBlock7_3"",
+    angle = 6.14271,
+    definition = ""StoneBlock7""
+  },
+  StaticBlockTheme03_05_12 = {
+    y = -16.7868,
+    x = 66.8173,
+    name = ""StaticBlockTheme03_05_12"",
+    angle = 0.785402,
+    definition = ""StaticBlockTheme02_05""
+  },
+  YellowBird_1 = {
+    y = -0.85504,
+    x = -22.9617,
+    name = ""YellowBird_1"",
+    startNumber = 1,
+    angle = 0,
+    definition = ""YellowBird""
+  },
+  WoodBlock4_1 = {
+    y = -16.809,
+    x = 26.6753,
+    name = ""WoodBlock4_1"",
+    angle = 4.71397,
+    definition = ""WoodBlock4""
+  },
+  StaticBlockTheme02_05_1 = {
+    y = -0.366571,
+    x = 29.9463,
+    name = ""StaticBlockTheme02_05_1"",
+    angle = 4.46638E-6,
+    definition = ""StaticBlockTheme02_05""
+  },
+  WoodBlock4_2 = {
+    y = -24.4275,
+    x = 23.8011,
+    name = ""WoodBlock4_2"",
+    angle = 3.14832,
+    definition = ""WoodBlock4""
+  },
+  LightBlock3_7 = {
+    y = -15.8329,
+    x = 24.9988,
+    name = ""LightBlock3_7"",
+    angle = 0.0018982,
+    definition = ""LightBlock3""
+  },
+  RedBird_1 = {
+    y = -1.08584,
+    x = -26.9708,
+    name = ""RedBird_1"",
+    startNumber = 4,
+    angle = 0,
+    definition = ""RedBird""
+  },
+  LightBlock3_1 = {
+    y = -15.8369,
+    x = 21.813,
+    name = ""LightBlock3_1"",
+    angle = 6.2775,
+    definition = ""LightBlock3""
+  },
+  StoneBlock7_1 = {
+    y = -19.4582,
+    x = 59.8209,
+    name = ""StoneBlock7_1"",
+    angle = 0.0786224,
+    definition = ""StoneBlock7""
+  },
+  StaticBlockTheme02_05_5 = {
+    y = 1.21322,
+    x = 18.9252,
+    name = ""StaticBlockTheme02_05_5"",
+    angle = 0.385395,
+    definition = ""StaticBlockTheme02_05""
+  },
+  MediumPiglette_3 = {
+    y = -7.16619,
+    x = 29.6108,
+    name = ""MediumPiglette_3"",
+    angle = 2.4829E-6,
+    definition = ""MediumPiglette""
+  },
+  StaticBlockTheme03_05_2 = {
+    y = -9.6618,
+    x = 50.6922,
+    name = ""StaticBlockTheme03_05_2"",
+    angle = 1.1604,
+    definition = ""StaticBlockTheme02_05""
+  },
+  StaticBlockTheme03_03_3 = {
+    y = -2.81835,
+    x = 4.42304,
+    name = ""StaticBlockTheme03_03_3"",
+    angle = 2.35619,
+    definition = ""StaticBlockTheme02_03""
+  },
+  StaticBlockTheme03_05_7 = {
+    y = -3.78679,
+    x = 71.2311,
+    name = ""StaticBlockTheme03_05_7"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme02_05""
+  },
+  StaticBlockTheme03_05_13 = {
+    y = -3.66087,
+    x = 59.0654,
+    name = ""StaticBlockTheme03_05_13"",
+    angle = 1.5708,
+    definition = ""StaticBlockTheme02_05""
+  },
+  MediumPiglette_2 = {
+    y = -7.16657,
+    x = 25.7426,
+    name = ""MediumPiglette_2"",
+    angle = 8.77162E-7,
+    definition = ""MediumPiglette""
+  },
+  StaticBlockTheme02_05_4 = {
+    y = -0.033234,
+    x = 41.0575,
+    name = ""StaticBlockTheme02_05_4"",
+    angle = 4.46638E-6,
+    definition = ""StaticBlockTheme02_05""
+  },
+  StaticBlockTheme03_02_1 = {
+    y = -19.4529,
+    x = 64.18,
+    name = ""StaticBlockTheme03_02_1"",
+    angle = 2.3562,
+    definition = ""StaticBlockTheme02_02""
+  },
+  StaticBlockTheme02_05_3 = {
+    y = 0.077875,
+    x = 50.1686,
+    name = ""StaticBlockTheme02_05_3"",
+    angle = 4.46638E-6,
+    definition = ""StaticBlockTheme02_05""
+  },
+  LightBlock3_11 = {
+    y = -25.9791,
+    x = 23.6215,
+    name = ""LightBlock3_11"",
+    angle = 0.00696477,
+    definition = ""LightBlock3""
+  },
+  WoodBlock4_8 = {
+    y = -16.809,
+    x = 23.4197,
+    name = ""WoodBlock4_8"",
+    angle = 4.71378,
+    definition = ""WoodBlock4""
+  },
+  SmallBlueBird_1 = {
+    y = -0.835757,
+    x = -29.0494,
+    name = ""SmallBlueBird_1"",
+    startNumber = 3,
+    angle = 0,
+    definition = ""SmallBlueBird""
+  },
+  SmallPiglette_1 = {
+    y = -20.9732,
+    x = 23.6844,
+    name = ""SmallPiglette_1"",
+    angle = 9.50312E-4,
+    definition = ""SmallPiglette""
+  },
+  WoodBlock4_6 = {
+    y = -21.9229,
+    x = 22.0958,
+    name = ""WoodBlock4_6"",
+    angle = 1.57403,
+    definition = ""WoodBlock4""
+  },
+  StaticBlockTheme03_05_9 = {
+    y = -11.9118,
+    x = 58.4422,
+    name = ""StaticBlockTheme03_05_9"",
+    angle = 1.4104,
+    definition = ""StaticBlockTheme02_05""
+  }
+}"
+Create an angry birds level.,,
+Create an angry birds level.,,
+Create an angry birds level.,,
+Create an angry birds level.,,
+Create an angry birds level.,,
+Create an angry birds level.,,
+Create an angry birds level.,,
+Create an angry birds level.,,
+Create an angry birds level.,,
+Create an angry birds level.,,
+Create an angry birds level.,,
+Create an angry birds level.,,
+Create an angry birds level.,,
